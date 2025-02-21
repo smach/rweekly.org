@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
++ [Win a Battle in the Game of Risk](https://mhoehle.github.io/blog/2025/02/21/risk.html)
 
 
 ### Resources
