@@ -127,6 +127,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A First Look at TimeGPT using nixtlar](https://rworks.dev/posts/revised_TimeGPT/)
 
++ [How to use a histogram as a legend in {ggplot2}](https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/): Land isn’t unemployed—people are. Here’s how to use R, {ggplot2}, {sf}, and {patchwork} to create a histogram legend in a choropleth map to better see the distribution of values.
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
