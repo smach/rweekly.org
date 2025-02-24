@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Rapid RAG Prototyping: Building a Retrieval Augmented Generation Prototype with ellmer and DuckDB](https://blog.tidy-intelligence.com/posts/rapid-rag-prototyping/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
