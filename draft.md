@@ -140,6 +140,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Shiny in Production 2025: Call for Abstracts](https://www.jumpingrivers.com/blog/shiny-in-production-2025-r-events-call-for-abstracts/)
 
++ [Government Advances in Statistical Programming (GASP) Conference 2025: Call for Abstracts](https://www.bls.gov/dpr/GASP/2025/GASP-2025-call-for-abstracts.pdf)
+
 
 ### Upcoming Events in 3 Months
 
