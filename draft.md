@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+- [CRANhaven](https://www.cranhaven.org/) - A repository for recently archived CRAN packages
 
 ### New Packages
 
