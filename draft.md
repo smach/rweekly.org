@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Winners of the Closeread Prize – Data-Driven Scrollytelling with Quarto](https://posit.co/blog/closeread-prize-winners/)
 
 ### R in the Real World
 
@@ -61,7 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
++ [R-Ladies Rome (English) - Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive](https://www.youtube.com/watch?v=59DSo_jjTpI)
 
 ### Gist & Cookbook
 
