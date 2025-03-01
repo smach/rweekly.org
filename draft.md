@@ -31,6 +31,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Analyzing targeted locus amplification (TLA) data](https://tomsing1.github.io/blog/posts/tla/)
 
++ [Winners of the Closeread Prize – Data-Driven Scrollytelling with Quarto](https://posit.co/blog/closeread-prize-winners/)
 
 ### R in the Real World
 
@@ -48,7 +49,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Resources
 
-
++ [CRANhaven - A repository for recently archived CRAN packages](https://www.cranhaven.org/)
 
 ### New Packages
 
@@ -75,7 +76,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
++ [R-Ladies Rome (English) - Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive](https://www.youtube.com/watch?v=59DSo_jjTpI)
 
 ### Gist & Cookbook
 
@@ -100,6 +101,8 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 + [Web app with DeepSeek R1 and Hugging Face API for chatting](https://thierrymoudiki.github.io/blog/2025/02/23/python/r/llms/deepseek-hugginface)
 
 + [How to Create Tables in R (With Examples) – A Comprehensive Guide Using Base R, dplyr, and data.table](https://www.spsanderson.com/steveondata/posts/2025-02-24/)
+
++ [Rapid RAG Prototyping: Building a Retrieval Augmented Generation Prototype with ellmer and DuckDB](https://blog.tidy-intelligence.com/posts/rapid-rag-prototyping/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
