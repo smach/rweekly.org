@@ -23,6 +23,8 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Announcing ellmer: A package for interacting with Large Language Models in R](https://posit.co/blog/announcing-ellmer/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W10/ellmber-dots_600.jpg)
+
 + [LLM + Quarto: Turn One-Off Reports Into Automated Solutions](https://www.appsilon.com/post/llm-quarto-automation)
 
 + [Share your data apps and docs more seamlessly on Connect Cloud](https://posit.co/blog/share-your-data-apps-and-docs-more-seamlessly-on-connect-cloud/)
@@ -31,11 +33,15 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Q1 2025 tidymodels digest](https://www.tidyverse.org/blog/2025/02/tidymodels-2025-q1/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W10/tidymodels-thumbnail-wd_600.jpg)
+
 + [Understand geom_bar and its statistical transformations](https://www.codingthepast.com/2025/02/24/geom_bar.html)
 
 + [Analyzing targeted locus amplification (TLA) data](https://tomsing1.github.io/blog/posts/tla/)
 
 + [Winners of the Closeread Prize – Data-Driven Scrollytelling with Quarto](https://posit.co/blog/closeread-prize-winners/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W10/PST-Blog-ScrollytellingWinner-v1_600.png)
 
 + [R in the Browser: Announcing Our WebAssembly Distribution](https://blog.jupyter.org/r-in-the-browser-announcing-our-webassembly-distribution-9450e9539ed5)
 
@@ -134,17 +140,7 @@ Data - [diffify](https://diffify.com/R/zippeR)
 
 + [Master Data Extraction - Turn Texts into Tidy Data with R & {ellmer}](https://www.youtube.com/watch?v=XurNalXAApw)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [Company-branded reports, apps, and dashboards made easier with brand.yml & Posit](https://www.youtube.com/watch?v=U48y0_yzEPY&ab_channel=PositPBC)
 
 ### Tutorials
 
