@@ -166,11 +166,14 @@ Pharmacometric Model Development
 - [Unir y combinar gráficos {ggplot2} en R](https://bastianolea.rbind.io/blog/patchwork/)
 
 
+
 ### Tutorials
 
 + [A Bayesian proportional hazards model with a penalized spline](https://www.rdatagen.net/post/2025-03-04-a-bayesian-proportional-hazards-model-with-splines/)
 
 + [Customize your expedition: Create a unique documentation for your R Package](https://rtask.thinkr.fr/customize-your-expedition-create-a-unique-documentation-for-your-r-package/)
+  
+<img width="864" alt="Screenshot 2025-03-10 at 22 38 38" src="https://github.com/user-attachments/assets/f97aa65e-e5e5-46af-a803-b01e50d7d101" />
 
 + [The Complete Guide to Handling NA Values in R Tables: Methods, Best Practices, and Solutions](https://www.spsanderson.com/steveondata/posts/2025-03-03/)
 
