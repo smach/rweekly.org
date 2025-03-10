@@ -46,7 +46,41 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{Certara.DarwinReporter} 2.0.1](https://cran.r-project.org/package=Certara.DarwinReporter): Data Visualization Utilities for 'pyDarwin' Machine Learning
+Pharmacometric Model Development
 
++ [{xlr} 1.0.3](https://cran.r-project.org/package=xlr): Create Table Summaries and Export Neat Tables to 'Excel'
+  
++ [{visae} 0.2.1](https://cran.r-project.org/package=visae): Visualization of Adverse Events
+  
++ [{shinyTimer} 0.1.0](https://cran.r-project.org/package=shinyTimer): Customizable Timer for 'shiny' Applications
+
++ [{uisapi} 0.1.0](https://cran.r-project.org/package=uisapi): Access the UNESCO Institute for Statistics API
+
++ [{RplotterPkg} 0.1.3](https://cran.r-project.org/package=RplotterPkg): R Plotting Functions Using 'ggplot2'
+  
++ [{revise} 0.1.0](https://cran.r-project.org/package=revise): Dynamic Revision Letters for 'Rmarkdown' Manuscripts
+  
+
++ [{connected} 1.1](https://cran.r-project.org/package=connected): Visualize and Improve Connectedness of Factors in Tables
+  
++ [{mixtree} 0.0.1](https://cran.r-project.org/package=mixtree): A Statistical Framework for Comparing Sets of Trees
+
++ [{MHQoL} 0.12.0](https://cran.r-project.org/package=MHQoL): Mental Health Quality of Life Toolkit
+  
++ [{rconf} 0.1.2](https://cran.r-project.org/package=rconf): Minimal and Lightweight Configuration Tool
+  
++ [{mbX} 0.1.3](https://cran.r-project.org/package=mbX): A Comprehensive Microbiome Data Processing Pipeline
+  
++ [{IndexNumberTools} 1.1](https://cran.r-project.org/package=IndexNumberTools): Working with Index Numbers
+  
++ [{sakura} 0.1.0](https://cran.r-project.org/package=sakura): Extension to R Serialization
+  
++ [{rmsMD} 0.1.2](https://cran.r-project.org/package=rmsMD): Output Results from 'rms' Models for Medical Journals
+  
++ [{maths.genealogy} 0.1.2](https://cran.r-project.org/package=maths.genealogy): Mathematics PhD Genealogy Data and Plotting
+
++ [{Certara.ModelResults} 3.0.1](https://cran.r-project.org/package=Certara.ModelResults): Generate Diagnostics for Pharmacometric Models Using 'shiny'
 
 **Bioconductor**
 
