@@ -201,6 +201,9 @@ Events in 3 Months:
   
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
+### Grants & Funding
+
+- [2025 ISC Grant Program](https://r-consortium.org/all-projects/callforproposals.html)
 
 ### Connect
 
