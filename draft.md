@@ -21,9 +21,11 @@ This week’s release was curated by [Batool Almaarzouq](https://batool-almarzou
 
 + [CRAN-like repository for most recent releases of Techtonique’s R packages](https://thierrymoudiki.github.io/blog/2025/03/02/r/cran-like)
 
-+ [#46: Adding arm64 to r2u](http://dirk.eddelbuettel.com/blog/2025/03/04#046_arm64_comes_to_r2u)
++ [Adding arm64 to r2u](http://dirk.eddelbuettel.com/blog/2025/03/04#046_arm64_comes_to_r2u)
 
 + [Best Before Dates by Bass](https://win-vector.com/2025/03/02/best-before-dates-by-bass/)
+  
+<img width="693" alt="Screenshot 2025-03-10 at 22 30 21" src="https://github.com/user-attachments/assets/89c6c565-78ac-45f8-a74e-d7a51be5d030" />
 
 
 ### Resources
@@ -32,11 +34,15 @@ This week’s release was curated by [Batool Almaarzouq](https://batool-almarzou
 
 + [ggplot2: Going further in the tidyverse](https://friendly.github.io/6135/lectures/ggplot-further.pdf)
   
-+ [Wbsite for tidyplots use cases](https://tidyplots.org/use-cases/)
-  
+  <img width="876" alt="Screenshot 2025-03-10 at 22 32 41" src="https://github.com/user-attachments/assets/1cd56a52-c845-4370-8ec6-15946ad8c1a1" />
+
 + [What They Forgot to Teach You About R](https://rstats.wtf/)
   
 + [9 new books added to Big Book of R](https://oscarbaruffa.com/9-new-books-added-to-big-book-of-r/)
+
++ [Wbsite for tidyplots use cases](https://tidyplots.org/use-cases/)
+
+  <img width="1225" alt="Screenshot 2025-03-10 at 22 33 05" src="https://github.com/user-attachments/assets/f90c5752-f48a-4217-bc47-4977f9a2e746" />
 
 
 ### New Packages
@@ -99,6 +105,8 @@ Pharmacometric Model Development
 
 + [{tidyplots} 0.2.2](https://cran.r-project.org/package=tidyplots): Tidy Plots for Scientific Papers - [diffify](https://diffify.com/R/tidyplots)
 
+<img width="743" alt="Screenshot 2025-03-10 at 22 35 00" src="https://github.com/user-attachments/assets/0e3cf179-cbb8-455f-9bee-0569fb880d41" />
+
 + [{gimap} 1.0.3](https://cran.r-project.org/package=gimap): Calculate Genetic Interactions for Paired CRISPR Targets - [diffify](https://diffify.com/R/gimap)
   
 + [{pals} 1.10](https://cran.r-project.org/package=pals): Color Palettes, Colormaps, and Tools to Evaluate Them - [diffify](https://diffify.com/R/pals)
@@ -156,7 +164,7 @@ Pharmacometric Model Development
 ### R Internationally
 
 - [Unir y combinar gráficos {ggplot2} en R](https://bastianolea.rbind.io/blog/patchwork/)
-- 
+
 
 ### Tutorials
 
