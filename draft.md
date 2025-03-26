@@ -18,6 +18,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Organizing tests in R packages](https://blog.cynkra.com/posts/2025-03-04-refactoring-test-files/)
+
++ [Setting up igraph for success in the next decade](https://blog.cynkra.com/posts/2025-03-17-igraph-isc-setting-success-decade/)
+
 + [Hack Your Way To Scientific Glory (recreation)](https://stats.andrewheiss.com/hack-your-way/)
 
 ### R in the Real World
