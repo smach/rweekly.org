@@ -84,6 +84,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The guide to gradients in R and ggplot2](https://jamesgoldie.dev/writing/stack-gradients-in-r/)
 
++ [Announcing rixpress](https://brodrigues.co/posts/2025-03-20-announcing_rixpress.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
