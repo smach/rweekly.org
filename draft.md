@@ -56,6 +56,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [{gemini.R} 0.11.0](https://github.com/jhk0530/gemini.R): Interface for 'Google Gemini' API
+
++ [{polaroid} 0.2.1](https://github.com/jhk0530/polaroid): Create Hex Stickers with 'shiny'
+<!-- This polaroid can be moved to Shiny Apps -->
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
