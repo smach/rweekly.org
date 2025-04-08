@@ -18,7 +18,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Finding (missing) dependencies in R source code with {checkglobals}](https://jchau.org/2025/04/08/finding-missing-dependencies-in-r-source-code-with-checkglobals/)
 
 ### R in the Real World
 
@@ -77,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Finding (missing) dependencies in R source code with {checkglobals}](https://jchau.org/2025/04/08/finding-missing-dependencies-in-r-source-code-with-checkglobals/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
