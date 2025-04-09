@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- New surveydown blog post: [surveydown Gadgets for Page and Question Creation](https://surveydown.org/blog/2025-04-08-surveydown-gadgets/)
 
 
 ### New Packages
