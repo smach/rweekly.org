@@ -41,6 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
++ [Generate visuals and descriptions from GPX route files](https://martinctc.github.io/gpxtoolbox/)
 
 **CRAN**
 
@@ -77,7 +78,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Generate Route Titles and Descriptions from GPX Files with LLMs and {ellmer}](https://martinctc.github.io/blog/describe-gpx-files-with-ellmer/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
