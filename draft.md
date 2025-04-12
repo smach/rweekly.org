@@ -18,6 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [What's new in R 4.5.0?](https://www.jumpingrivers.com/blog/whats-new-r45/)
+
++ [3MW (Using the new Positron IDE)](https://3mw.albert-rapp.de/p/using-the-new-positron-ide)
 
 ### R in the Real World
 
@@ -25,11 +28,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [Visualising R Package Risk Assessments using Litmus](https://www.jumpingrivers.com/blog/litmus-dashboard/)
 
++ [posit::glimpse() Newsletter – April 2025](https://posit.co/blog/posit-glimpse-newsletter-april-2025/)
 
 ### R in Academia
 
++ [Extending the Theta forecasting method to GLMs and attention](https://thierrymoudiki.github.io/blog/2025/04/08/r/python/glm-thetaf)
 
++ [Down a Rabbit Hole with ARIMA Models](https://rworks.dev/posts/arima-note/)
 
 ### Resources
 
@@ -45,7 +52,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [Introducing chores](https://posit.co/blog/introducing-chores/)
 
++ [{vvbitwarden} 0.1.0](https://cran.r-project.org/package=vvbitwarden): Interacts with 'Bitwarden Secrets Manager'
+
++ [{basepenguins} 0.1.0](https://cran.r-project.org/package=basepenguins): Convert Files that Use 'palmerpenguins' to Work with 'datasets'
+
++ [{sdtm.terminology} 2025-3-25](https://cran.r-project.org/package=sdtm.terminology): CDISC SDTM Controlled Terminology
+
++ [{pangoling} 1.0.3](https://cran.r-project.org/package=pangoling): Access to Large Language Model Predictions
+
++ [{tickr} 1.0.2](https://cran.r-project.org/package=tickr): Consistent Axis Tick Marks
+
++ [{valh} 0.1.0](https://cran.r-project.org/package=valh): Interface Between R and the OpenStreetMap-Based Routing Service Valhalla
 
 **Bioconductor**
 
@@ -53,16 +72,52 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [plumber2](https://posit-dev.github.io/plumber2/)
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [AsioHeaders 1.28.2-1 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/04/08#asioheaders_1.28.2-1)
+
++ [{qreport} 1.0-2](https://cran.r-project.org/package=qreport): Statistical Reporting with 'Quarto' - [diffify](https://diffify.com/R/qreport)
+
++ [{shinymeta} 0.2.1](https://cran.r-project.org/package=shinymeta): Export Domain Logic from Shiny using Meta-Programming - [diffify](https://diffify.com/R/shinymeta)
+
++ [{VirtualPop} 2.1.0](https://cran.r-project.org/package=VirtualPop): Simulation of Populations by Sampling Waiting-Time Distributions - [diffify](https://diffify.com/R/VirtualPop)
+
++ [{mixedBayes} 0.1.6](https://cran.r-project.org/package=mixedBayes): Bayesian Longitudinal Regularized Quantile Mixed Model - [diffify](https://diffify.com/R/mixedBayes)
+
++ [{coarseDataTools} 0.7.2](https://cran.r-project.org/package=coarseDataTools): Analysis of Coarsely Observed Data - [diffify](https://diffify.com/R/coarseDataTools)
+
++ [{sass} 0.4.10](https://cran.r-project.org/package=sass): Syntactically Awesome Style Sheets ('Sass') - [diffify](https://diffify.com/R/sass)
+
++ [{ggsurveillance} 0.3.0](https://cran.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation/Infectious Disease Surveillance - [diffify](https://diffify.com/R/ggsurveillance)
+
++ [{ecce} 3.0.3](https://cran.r-project.org/package=ecce): Translate English Sentence into Chinese, or Translate Chinese Sentence into English - [diffify](https://diffify.com/R/ecce)
+
++ [{rlistings} 0.2.11](https://cran.r-project.org/package=rlistings): Clinical Trial Style Data Readout Listings - [diffify](https://diffify.com/R/rlistings)
+
++ [{DoubleML} 1.0.2](https://cran.r-project.org/package=DoubleML): Double Machine Learning in R - [diffify](https://diffify.com/R/DoubleML)
+
++ [{tarchetypes} 0.13.0](https://cran.r-project.org/package=tarchetypes): Archetypes for Targets - [diffify](https://diffify.com/R/tarchetypes)
+
++ [{arcgisutils} 0.3.3](https://cran.r-project.org/package=arcgisutils): ArcGIS Utility Functions - [diffify](https://diffify.com/R/arcgisutils)
+
++ [{CodelistGenerator} 3.5.0](https://cran.r-project.org/package=CodelistGenerator): Identify Relevant Clinical Codes and Evaluate Their Use - [diffify](https://diffify.com/R/CodelistGenerator)
+
++ [{this.path} 2.7.0](https://cran.r-project.org/package=this.path): Get Executing Script's Path - [diffify](https://diffify.com/R/this.path)
+
++ [{VisCov} 1.6.0](https://cran.r-project.org/package=VisCov): Visualizing of Distributions of Covariance Matrices - [diffify](https://diffify.com/R/VisCov)
+
++ [{crosswalkr} 0.3.0](https://cran.r-project.org/package=crosswalkr): Rename and Encode Data Frames Using External Crosswalk Files - [diffify](https://diffify.com/R/crosswalkr)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [Shiny in Production 2024 Videos](https://www.jumpingrivers.com/blog/sip-2024-videos/)
 
 ### Gist & Cookbook
 
@@ -71,6 +126,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 + [POTUS Economic Scorecard app](https://jhelvy.github.io/potus-econ-scorecard/)
+
++ [Beyond {Shiny}: The Future of Mobile Apps with R](https://speakerdeck.com/colinfay/beyond-shiny-the-future-of-mobile-apps-with-r)
+
++ [In the Nix of Time - A new approach to Shiny development & deployment with Nix and {rix}](https://rpodcast.github.io/nix-shinyconf2025)
+
++ [Shiny without Boundaries - One App, Multiple Destinations](https://talks.thecoatlessprofessor.com/stat447-shiny-without-boundaries-one-app-multiple-destinations/#/section)
+
++ [ClinSight](https://rinpharma.shinyapps.io/clinsight/)
+
++ [ConnectUserMetrics](https://github.com/Appsilon/ConnectUserMetrics)
+
++ [Curbcut Montreal](https://montreal.curbcut.ca/)
+
++ [Goodreads Wrapped](https://gkenneth.shinyapps.io/goodreads2/)
+
++ [Quarto Tips Chatbot Search](https://apps.machlis.com/shiny/quartotips/)
 
 ### R Internationally
 
@@ -81,6 +152,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Generate Route Titles and Descriptions from GPX Files with LLMs and {ellmer}](https://martinctc.github.io/blog/describe-gpx-files-with-ellmer/)
 
 + [Finding (missing) dependencies in R source code with {checkglobals}](https://jchau.org/2025/04/08/finding-missing-dependencies-in-r-source-code-with-checkglobals/)
+
++ [How to Find First Non-NA Value in data.table](https://www.marsja.se/how-to-find-first-non-na-value-in-data-table/)
+
++ [How to Make a Heatmap in R](https://www.marsja.se/how-to-make-a-heatmap-in-r/)
+
++ [How to Write a Repeat Loop in R: Complete Guide with Practical Examples](https://www.spsanderson.com/steveondata/posts/2025-04-07/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -101,6 +178,10 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [R Dev Days 2025](https://forwards.github.io/blog/2025/r-dev-days/)
+
++ [Cascadia R Conf](https://cascadiarconf.com/)
 
 ### Grants & Funding
 
