@@ -21,6 +21,16 @@
 + [Introducing chores](https://posit.co/blog/introducing-chores/)
 + [Down a Rabbit Hole with ARIMA Models](https://rworks.dev/posts/arima-note/)
 # CRANberries UPDATED: ##
++ [{ReMFPCA} 2.0.0](https://cran.r-project.org/package=ReMFPCA): Regularized Multivariate Functional Principal Component Analysis - [diffify](https://diffify.com/R/ReMFPCA)
++ [{MetricsWeighted} 1.0.4](https://cran.r-project.org/package=MetricsWeighted): Weighted Metrics and Performance Measures for Machine Learning - [diffify](https://diffify.com/R/MetricsWeighted)
++ [{etm} 1.1.2](https://cran.r-project.org/package=etm): Empirical Transition Matrix - [diffify](https://diffify.com/R/etm)
++ [{AzureKeyVault} 1.0.6](https://cran.r-project.org/package=AzureKeyVault): Key and Secret Management in 'Azure' - [diffify](https://diffify.com/R/AzureKeyVault)
++ [{AzureContainers} 1.3.3](https://cran.r-project.org/package=AzureContainers): Interface to 'Container Instances', 'Docker Registry' and
+'Kubernetes' in 'Azure' - [diffify](https://diffify.com/R/AzureContainers)
++ [{RcmdrPlugin.DCE} 0.2-5](https://cran.r-project.org/package=RcmdrPlugin.DCE): R Commander Plug-in for Discrete Choice Experiments - [diffify](https://diffify.com/R/RcmdrPlugin.DCE)
++ [{argonDash} 0.2.5](https://cran.r-project.org/package=argonDash): Argon Shiny Dashboard Template - [diffify](https://diffify.com/R/argonDash)
++ [{coxphm} 0.2.0](https://cran.r-project.org/package=coxphm): Time-to-Event Data Analysis with Missing Survival Times - [diffify](https://diffify.com/R/coxphm)
++ [{cardx} 0.2.4](https://cran.r-project.org/package=cardx): Extra Analysis Results Data Utilities - [diffify](https://diffify.com/R/cardx)
 + [{qreport} 1.0-2](https://cran.r-project.org/package=qreport): Statistical Reporting with 'Quarto' - [diffify](https://diffify.com/R/qreport)
 + [{bcmixed} 0.1.5](https://cran.r-project.org/package=bcmixed): Mixed Effect Model with the Box-Cox Transformation - [diffify](https://diffify.com/R/bcmixed)
 + [{shinytest2} 0.4.1](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications - [diffify](https://diffify.com/R/shinytest2)
@@ -250,18 +260,14 @@ Autoregressive Models - [diffify](https://diffify.com/R/sstvars)
 + [{RCytoGPS} 1.2.9](https://cran.r-project.org/package=RCytoGPS): Using Cytogenetics Data in R - [diffify](https://diffify.com/R/RCytoGPS)
 + [{cytofan} 0.1.1](https://cran.r-project.org/package=cytofan): Plot Fan Plots for Cytometry Data using 'ggplot2' - [diffify](https://diffify.com/R/cytofan)
 + [{SimNPH} 0.5.7](https://cran.r-project.org/package=SimNPH): Simulate Non-Proportional Hazards - [diffify](https://diffify.com/R/SimNPH)
-+ [{pseval} 1.3.3](https://cran.r-project.org/package=pseval): Methods for Evaluating Principal Surrogates of Treatment
-Response - [diffify](https://diffify.com/R/pseval)
-+ [{GauPro} 0.2.15](https://cran.r-project.org/package=GauPro): Gaussian Process Fitting - [diffify](https://diffify.com/R/GauPro)
-+ [{ECOTOXr} 1.2.1](https://cran.r-project.org/package=ECOTOXr): Download and Extract Data from US EPA's ECOTOX Database - [diffify](https://diffify.com/R/ECOTOXr)
-+ [{weyl} 0.0-7](https://cran.r-project.org/package=weyl): The Weyl Algebra - [diffify](https://diffify.com/R/weyl)
-+ [{sda} 1.3.9](https://cran.r-project.org/package=sda): Shrinkage Discriminant Analysis and CAT Score Variable Selection - [diffify](https://diffify.com/R/sda)
-+ [{ezCutoffs} 1.0.2](https://cran.r-project.org/package=ezCutoffs): Fit Measure Cutoffs in SEM - [diffify](https://diffify.com/R/ezCutoffs)
-+ [{Mercator} 1.1.6](https://cran.r-project.org/package=Mercator): Clustering and Visualizing Distance Matrices - [diffify](https://diffify.com/R/Mercator)
-+ [{later} 1.4.2](https://cran.r-project.org/package=later): Utilities for Scheduling Functions to Execute Later with Event
-Loops - [diffify](https://diffify.com/R/later)
-+ [{arrow} 19.0.1.1](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
 # CRANberries NEW: ##
++ [{ProteinPCA} 0.1.0](https://cran.r-project.org/package=ProteinPCA): Principal Component Analysis (PCA) Tool on Protein Expression
+Data
++ [{FLAG} 0.1](https://cran.r-project.org/package=FLAG): Flexible and Accurate Gaussian Graphical Models
++ [{energymethod} 1.0](https://cran.r-project.org/package=energymethod): Two-Sample Test of many Functional Means using the Energy Method
++ [{e2tree} 0.1.2](https://cran.r-project.org/package=e2tree): Explainable Ensemble Trees
++ [{butterfly} 1.1.2](https://cran.r-project.org/package=butterfly): Verification for Continually Updating Time Series Data
++ [{artma} 0.1.19](https://cran.r-project.org/package=artma): Automatic Replication Tools for Meta-Analysis
 + [{clinDataReview} 1.6.2](https://cran.r-project.org/package=clinDataReview): Clinical Data Review Tool
 + [{choroplethr} 4.0.0](https://cran.r-project.org/package=choroplethr): Simplify the Creation of Choropleth Maps
 + [{MethEvolSIM} 0.2.1](https://cran.r-project.org/package=MethEvolSIM): Simulate DNA Methylation Dynamics on Different Genomic
