@@ -19,7 +19,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
-
 ### R in the Real World
 
 
@@ -34,6 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- New surveydown blog post: [surveydown Gadgets for Page and Question Creation](https://surveydown.org/blog/2025-04-08-surveydown-gadgets/)
 
 
 ### New Packages
@@ -70,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [POTUS Economic Scorecard app](https://jhelvy.github.io/potus-econ-scorecard/)
 
 ### R Internationally
 
@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Generate Route Titles and Descriptions from GPX Files with LLMs and {ellmer}](https://martinctc.github.io/blog/describe-gpx-files-with-ellmer/)
+
++ [Finding (missing) dependencies in R source code with {checkglobals}](https://jchau.org/2025/04/08/finding-missing-dependencies-in-r-source-code-with-checkglobals/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
