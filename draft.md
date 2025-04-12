@@ -69,7 +69,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [POTUS Economic Scorecard app](https://jhelvy.github.io/potus-econ-scorecard/)
 
 ### R Internationally
 
