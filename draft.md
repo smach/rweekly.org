@@ -64,6 +64,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{tickr} 1.0.2](https://cran.r-project.org/package=tickr): Consistent Axis Tick Marks
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W16/tickr_600.png)
+
 + [{valh} 0.1.0](https://cran.r-project.org/package=valh): Interface Between R and the OpenStreetMap-Based Routing Service Valhalla
 
 **Bioconductor**
@@ -94,6 +96,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{sass} 0.4.10](https://cran.r-project.org/package=sass): Syntactically Awesome Style Sheets ('Sass') - [diffify](https://diffify.com/R/sass)
 
 + [{ggsurveillance} 0.3.0](https://cran.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation/Infectious Disease Surveillance - [diffify](https://diffify.com/R/ggsurveillance)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W16/epicurve_readme_600.png)
 
 + [{ecce} 3.0.3](https://cran.r-project.org/package=ecce): Translate English Sentence into Chinese, or Translate Chinese Sentence into English - [diffify](https://diffify.com/R/ecce)
 
