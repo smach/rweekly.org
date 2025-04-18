@@ -17,10 +17,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [AI-generated code comes with security risks](https://f.briatte.org/r/ai-generated-code-security-risks)
+
++ [R Version 4.5.0 is Out!](https://www.njtierney.com/post/2025/04/14/r-version-4-5-0-is-out/)
+
++ [R 4.5: importing only selected objects & functions from R packages](https://tomsing1.github.io/blog/posts/r4_5/)
+
++ [Integration testing in Epiverse-TRACE](https://epiverse-trace.github.io/posts/integration-testing/)
 
 
 ### R in the Real World
 
++ [K-Means Clustering Analysis of Apple, Microsoft, and Nvidia](https://datageeek.com/2025/04/15/k-means-clustering-analysis-of-apple-microsoft-and-nvidia/)
+
++ [Running R on Windows on ARM on GitHub Actions](https://remlapmot.github.io/post/2025/win-11-arm-gha/)
 
 
 ### R in Organizations
@@ -61,9 +71,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [{microinverterdata} 0.3.0](https://cran.r-project.org/package=microinverterdata): Collect your microinverter data - [diffify](https://diffify.com/R/microinverterdata) A package to get back your photovoltaic sovereignty and also challenge your imputation skills.
 
++ [AsioHeaders 1.30.2-1 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/04/15#asioheaders_1.30.2-1)
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
++ [ShinyConf 2025 Recap: Highlights, Community Moments, and What’s Next](https://www.appsilon.com/post/shinyconf-2025-recap)
 
 
 ### Gist & Cookbook
@@ -72,6 +87,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Announcing the Jumping Rivers Dashboard Gallery](https://www.jumpingrivers.com/blog/shiny-dashboard-app-gallery/)
 
 
 ### R Internationally
@@ -80,6 +96,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Extending the Theta forecasting method to GLMs, GAMs, GLMBOOST and attention: benchmarking on Tourism, M1, M3 and M4 competition data sets (28000 series)](https://thierrymoudiki.github.io/blog/2025/04/14/r/theta-M1-M3-M4)
+
++ [Sport data from Runalyze](https://r.iresmi.net/posts/2025/runalyze/)
+
++ [How to Use data.table to Fill NA with the Previous Value in R](https://www.marsja.se/how-to-use-data-table-to-fill-na-with-the-previous-value-in-r/)
+
++ [Data Splitting and Preprocessing (rsample)  in R: A Step-by-Step Guide](https://r-posts.com/data-splitting-and-preprocessing-rsample-in-r-a-step-by-step-guide/)
+
++ [Setting Up Cross-Validation (caret package) in R: A Step-by-Step Guide](https://r-posts.com/setting-up-cross-validation-caret-package-in-r-a-step-by-step-guide/)
+
++ [The apply() Family of Functions in R](https://r-posts.com/the-apply-family-of-functions-in-r/)
+
++ [Mastering Data Preprocessing in R with the `recipes` Package](https://r-posts.com/mastering-data-preprocessing-in-r-with-the-recipes-package/)
+
++ [Applying a Function Over a Vector with sapply() in R: A Complete Guide](https://www.spsanderson.com/steveondata/posts/2025-04-14/)
+
++ [3MW (Brand.yml: One Theme to Style Them All ✨)](https://3mw.albert-rapp.de/p/brand-yml-one-theme-to-style-them-all)
+
++ [Getting My Feet Wet With `Plumber` and JavaScript](https://www.kenkoonwong.com/blog/plumber/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -95,6 +130,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Johnson & Johnson x Posit Live Event March 2025 Q&A](https://posit.co/blog/jnj-posit-live-event-march-2025-qa/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
