@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{osmapiR} 0.2.3](https://cran.r-project.org/package=osmapiR): Interface to OpenStreetMap API - [diffify](https://diffify.com/R/osmapiR)
+
+- [{microinverterdata} 0.3.0](https://cran.r-project.org/package=microinverterdata): Collect your microinverter data - [diffify](https://diffify.com/R/microinverterdata) A package to get back your photovoltaic sovereignty and also challenge your imputation skills.
 
 ### Videos and Podcasts
 
