@@ -54,11 +54,14 @@ No time is indicated because it depends on the timezone & time availabilities of
 
 For nitty-gritty details see [the process release editors follow](https://github.com/rweekly/rweekly.org/wiki/Release-Editor-FAQ).
 
-* From RSS feeds
+* From RSS feeds - add yours to [our list](https://github.com/rweekly/rweekly.org/blob/gh-pages/rss_feeds.csv) to have your content fetched automatically each week.
+
+> [!TIP] 
+> Each weekend we use `tidyRSS::tidyfeed()` on each entry and check for posts created within last 10 days - if yours fails for whatever reason, your content will not be fetched automatically.
 
 * From links contributed by the community via PRs or [https://rweekly.org/submit](https://rweekly.org/submit).
 
-* From editors', in particular the editor in charge of the release that week, looking over their own Twitter likes, feed readers etc. But really, if you can and are aware of R Weekly, it's better to proactively submit your content (or content by someone else and that you found great!) rather than to hope we'll have seen it. We miss cool stuff all the time despite our best efforts!
+* From editors, in particular the editor in charge of the release that week, looking over their own Twitter likes, feed readers etc. But really, if you can and are aware of R Weekly, it's better to proactively submit your content (or content by someone else and that you found great!) rather than to hope we'll have seen it. We miss cool stuff all the time despite our best efforts!
 
 ## Communication
 
