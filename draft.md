@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+-   [{microinverterdata} 0.3.0](https://cran.r-project.org/package=microinverterdata): Collect your microinverter data - [diffify](https://diffify.com/R/microinverterdata) A package to get back your photovoltaic sovereignty and also challenge your imputation skills. ![Daily Energy Production](NA/images%2Fclipboard-2353412704_600.png)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
