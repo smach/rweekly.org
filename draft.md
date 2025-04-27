@@ -59,7 +59,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{IssueTrackeR} 1.1.1](https://cran.r-project.org/package=IssueTrackeR): List Things to Do
++ [{fastymd} 0.1.2](https://cran.r-project.org/package=fastymd): Fast Utilities for 'Year Month Day' Objects
++ [{FastHamming} 1.1](https://cran.r-project.org/package=FastHamming): Fast Computation of Pairwise Hamming Distances
++ [{arcgis} 0.2.0](https://cran.r-project.org/package=arcgis): ArcGIS Location Services Meta-Package
++ [{schematic} 0.1.0](https://cran.r-project.org/package=schematic): Tidy Schema Validation for Data Frames
++ [{typr} 0.0.1](https://cran.r-project.org/package=typr): Write and Render 'Typst' Documents Estimation
 
 ### Updated Packages
 
@@ -71,6 +76,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [qlcal 0.0.15 on CRAN: Calendar Updates](http://dirk.eddelbuettel.com/blog/2025/04/23#qlcal-r_0.0.15)
 + [RInside 0.2.19 on CRAN: Mostly Maintenance](http://dirk.eddelbuettel.com/blog/2025/04/22#rinside_0.2.19)
 
++ [{flexlsx} 0.3.5](https://cran.r-project.org/package=flexlsx): Exporting 'flextable' to 'xlsx' Files - [diffify](https://diffify.com/R/flexlsx)
++ [{zippeR} 0.1.2](https://cran.r-project.org/package=zippeR): Working with United States ZIP Code and ZIP Code Tabulation Area Data - [diffify](https://diffify.com/R/zippeR)
++ [{super} 0.1.1](https://cran.r-project.org/package=super): Interpreted String Literals - [diffify](https://diffify.com/R/super)
++ [{GitStats} 2.3.1](https://cran.r-project.org/package=GitStats): Standardized Git Repository Data - [diffify](https://diffify.com/R/GitStats)
++ [{GGIR} 3.2-6](https://cran.r-project.org/package=GGIR): Raw Accelerometer Data Analysis - [diffify](https://diffify.com/R/GGIR)
++ [{crossmap} 0.4.2](https://cran.r-project.org/package=crossmap): Apply Functions to All Combinations of List Elements - [diffify](https://diffify.com/R/crossmap)
++ [{openxlsx2} 1.15](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
++ [{tiledb} 0.31.1](https://cran.r-project.org/package=tiledb): Modern Database Engine for Complex Data Based on Multi-Dimensional Arrays - [diffify](https://diffify.com/R/tiledb)
++ [{editbl} 1.3.0](https://cran.r-project.org/package=editbl): 'DT' Extension for CRUD (Create, Read, Update, Delete) Applications in 'shiny' - [diffify](https://diffify.com/R/editbl)
++ [{EnvStats} 3.1.0](https://cran.r-project.org/package=EnvStats): Package for Environmental Statistics, Including US EPA Guidance - [diffify](https://diffify.com/R/EnvStats)
++ [{rix} 0.16.0](https://cran.r-project.org/package=rix): Reproducible Data Science Environments with 'Nix' - [diffify](https://diffify.com/R/rix)
++ [{chromote} 0.5.1](https://cran.r-project.org/package=chromote): Headless Chrome Web Browser Interface - [diffify](https://diffify.com/R/chromote)
++ [{webshot2} 0.1.2](https://cran.r-project.org/package=webshot2): Take Screenshots of Web Pages - [diffify](https://diffify.com/R/webshot2)
++ [{flowchart} 0.8.0](https://cran.r-project.org/package=flowchart): Tidy Flowchart Generator - [diffify](https://diffify.com/R/flowchart)
++ [{epiR} 2.0.82](https://cran.r-project.org/package=epiR): Tools for the Analysis of Epidemiological Data - [diffify](https://diffify.com/R/epiR)
++ [{climate} 1.2.3](https://cran.r-project.org/package=climate): Interface to Download Meteorological (and Hydrological) Datasets - [diffify](https://diffify.com/R/climate)
++ [{cli} 3.6.5](https://cran.r-project.org/package=cli): Helpers for Developing Command Line Interfaces - [diffify](https://diffify.com/R/cli)
++ [{miniCRAN} 0.3.1](https://cran.r-project.org/package=miniCRAN): Create a Mini Version of CRAN Containing Only Selected Packages - [diffify](https://diffify.com/R/miniCRAN)
++ [{rdeps} 0.3](https://cran.r-project.org/package=rdeps): Identify External Packages Used in a Project - [diffify](https://diffify.com/R/rdeps)
++ [{linelist} 2.0.0](https://cran.r-project.org/package=linelist): Tagging and Validating Epidemiological Data - [diffify](https://diffify.com/R/linelist)
++ [{ggdist} 3.3.3](https://cran.r-project.org/package=ggdist): Visualizations of Distributions and Uncertainty - [diffify](https://diffify.com/R/ggdist)
++ [{rtables.officer} 0.1.0](https://cran.r-project.org/package=rtables.officer): Exporting Tools for 'rtables' - [diffify](https://diffify.com/R/rtables.officer)
++ [{pivottabler} 1.5.6](https://cran.r-project.org/package=pivottabler): Create Pivot Tables - [diffify](https://diffify.com/R/pivottabler)
++ [{shinydashboard} 0.7.3](https://cran.r-project.org/package=shinydashboard): Create Dashboards with 'Shiny' - [diffify](https://diffify.com/R/shinydashboard)
++ [{threejs} 0.3.4](https://cran.r-project.org/package=threejs): Interactive 3D Scatter Plots, Networks and Globes - [diffify](https://diffify.com/R/threejs)
++ [{diffobj} 0.3.6](https://cran.r-project.org/package=diffobj): Diffs for R Objects - [diffify](https://diffify.com/R/diffobj)
++ [{gitr} 0.1.0](https://cran.r-project.org/package=gitr): A Lightweight API for 'Git' - [diffify](https://diffify.com/R/gitr)
 
 ### Videos and Podcasts
 
@@ -78,6 +110,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 + [R-Ladies St. Louis - Git and Github for R Users](https://www.youtube.com/watch?v=v0QXV6kf5Io&ab_channel=RLadiesSTL)
++ [Inside Novo Nordisk’s Path to Open Source for the Pharma and Beyond](https://www.youtube.com/watch?v=P3juCNoEHaI&ab_channel=Appsilon)
 
 ### R Internationally
 
