@@ -39,8 +39,15 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
 
++ [Search and Query 25+ Years of Friends of Saxonville Newsletters](https://www.district2framingham.com/posts/2025-05-01-search-and-chat-with-25-years-of-friends-of-saxonville-newsletters/)
+
 ### R in the Real World
 
++ [Analysis of 1,041 Terminated NSF Grants Totaling $613.26M](https://stevenponce.netlify.app/data_visualizations/TidyTuesday/2025/tt_2025_18.html)
+![image](https://github.com/user-attachments/assets/a39d90dc-6061-485a-8a05-95b27cb968f4)
+
++ [Disaster Death Distributions: 1950-2020](https://stevenponce.netlify.app/data_visualizations/SWD%20Challenge/2025/swd_2025_05.html)
+![image](https://github.com/user-attachments/assets/ac9c6115-6dfc-48ef-90a7-2f4e93b37032)
 
 
 ### R in Organizations
@@ -48,6 +55,9 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 
 ### R in Academia
+
+- [AlphaMissenseR: an integrated framework for investigating missense mutations in human protein-coding genes](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf093/8118841?login=true)
+![image](https://github.com/user-attachments/assets/aa34f98c-150c-4c9f-b7d6-6f10eaf05b84)
 
 
 
@@ -57,6 +67,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 <img width="242" alt="Screenshot 2025-05-05 at 23 50 55" src="https://github.com/user-attachments/assets/9ea7616b-1702-44a5-aec1-2336a5b2ac3d" />
 
 - [Teaching Intermediate R: Kelly Bodwin, California Polytechnic State University](https://kbodwin.github.io/Talks-and-Presentations/SDSS_2025/Intermediate_R.html#/title-slide)
+
+- [Data Science Learning Community Playlists: All of book club meetings are available on YouTube](https://dslc.io/playlists.html)
 
 ### New Packages
 
