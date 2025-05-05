@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
 
 ### R in the Real World
 
