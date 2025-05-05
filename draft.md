@@ -10,22 +10,6 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
-+ [vowels: Phonetics cloze quiz about Cardinal vowels](https://www.R-exams.org/templates/vowels/)
-+ [flags: Fun with Flags](https://www.R-exams.org/templates/flags/)
-+ [sumdiff: Sum Minus Difference](https://www.R-exams.org/templates/sumdiff/)
-+ [Rotation with Modulo](https://jcarroll.com.au/2025/05/03/rotation-with-modulo/)
-+ [rOpenSci News Digest, April 2025](https://ropensci.org/blog/2025/04/28/news-april-2025/)
-+ [surveydown: An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys workshop](https://r-posts.com/surveydown-an-open-source-markdown-based-platform-for-interactive-and-reproducible-surveys-workshop/)
-+ [recipes 1.3.0](https://www.tidyverse.org/blog/2025/04/recipes-1-3-0/)
-+ [30 Day Chart Challenge 2025](https://nrennie.rbind.io/blog/30-day-chart-challenge-2025/)
-+ [Linux Strings and Linux Numbers: A Beginner’s Guide](https://www.spsanderson.com/steveondata/posts/2025-05-02/)
-+ [Returning Data from Functions in C: A Beginner’s Guide](https://www.spsanderson.com/steveondata/posts/2025-04-30/)
-+ [How to Write Your First tryCatch() Function in R](https://www.spsanderson.com/steveondata/posts/2025-04-28/)
-+ [A year with Visible Long-Covid Tracking](https://drmowinckels.io/blog/2025/visible/)
-+ [3MW (Creating Beautiful PDF Reports with Typst and Quarto)](https://3mw.albert-rapp.de/p/creating-beautiful-pdf-reports-with-typst-and-quarto)
-+ [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
-+ [New Book: Python Polars: The Definitive Guide Now Available](https://posit.co/blog/python-polars-the-definitive-guide-now-available/)
-+ [March 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/march-2025-top-40-new-cran-packages/)
 
 ### Highlight
 
@@ -37,9 +21,14 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### Insights
 
-+ [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
++ [March 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/march-2025-top-40-new-cran-packages/)
 
+<img width="890" alt="Screenshot 2025-05-06 at 00 42 33" src="https://github.com/user-attachments/assets/14a1e716-bf13-48da-bfe4-c2630b079b6f" />
+  
 + [Search and Query 25+ Years of Friends of Saxonville Newsletters](https://www.district2framingham.com/posts/2025-05-01-search-and-chat-with-25-years-of-friends-of-saxonville-newsletters/)
+
++ [vowels: Phonetics cloze quiz about Cardinal vowels](https://www.R-exams.org/templates/vowels/)
+
 
 ### R in the Real World
 
@@ -52,13 +41,15 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### R in Organizations
 
++ [rOpenSci News Digest, April 2025](https://ropensci.org/blog/2025/04/28/news-april-2025/)
 
++ [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
 
 ### R in Academia
 
 - [AlphaMissenseR: an integrated framework for investigating missense mutations in human protein-coding genes](https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf093/8118841?login=true)
-![image](https://github.com/user-attachments/assets/aa34f98c-150c-4c9f-b7d6-6f10eaf05b84)
 
+![image](https://github.com/user-attachments/assets/aa34f98c-150c-4c9f-b7d6-6f10eaf05b84)
 
 
 ### Resources
@@ -75,11 +66,47 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
 **CRAN**
 
++ [{VIProDesign} 0.1.0](https://cran.r-project.org/package=VIProDesign): A Comprehensive Tool for Protein Design
+  
++ [{tradeoffaucdim} 0.1.0](https://cran.r-project.org/package=tradeoffaucdim): Plotting Trade-Off AUC-Dimensionality
+  
++ [{figpatch} 0.3.0](https://cran.r-project.org/package=figpatch): Easily Arrange External Figures with Patchwork Alongside
+'ggplot2' Figures
 
++ [{StatTeacherAssistant} 0.0.3](https://cran.r-project.org/package=StatTeacherAssistant): An App that Assists Intro Statistics Instructors with Data Sets
 
++ [{epts} 1.1.4](https://cran.r-project.org/package=epts): Educational Platform Trials Simulator
+
++ [{SscSrs} 0.1.0](https://cran.r-project.org/package=SscSrs): Sample Size Calculator for Estimation of Population Mean and
+Proportion under SRS
+
++ [{birdnetR} 0.3.2](https://cran.r-project.org/package=birdnetR): Deep Learning for Automated (Bird) Sound Identification
+
++ [{flowTraceR} 0.1.1](https://cran.r-project.org/package=flowTraceR): Tracing Information Flow for Inter-Software Comparisons in Mass
+Spectrometry-Based Bottom-Up Proteomics
+
++ [{ucsfindustrydocs} 0.1.0](https://cran.r-project.org/package=ucsfindustrydocs): UCSF Industry Documents Library API Wrapper
+  
++ [{reactRouter} 0.1.0](https://cran.r-project.org/package=reactRouter): 'React Router' for 'shiny' Apps and 'Quarto'
+
++ [{logrxaddin} 0.0.1](https://cran.r-project.org/package=logrxaddin): Addin for the 'logrx' Package
+  
++ [{DeSciDe} 1.0.0](https://cran.r-project.org/package=DeSciDe): Tool for Unbiased Literature Searching and Gene List Curation
+  
++ [{geofi} 1.1.0](https://cran.r-project.org/package=geofi): Access Finnish Geospatial Data
+
++ [{LLMAgentR} 0.2.2](https://cran.r-project.org/package=LLMAgentR): Language Model Agents in R for AI Workflows and Research
+  
++ [{ggsegmentedtotalbar} 0.1.0](https://cran.r-project.org/package=ggsegmentedtotalbar): Create a Segmented Total Bar Plot with Custom Annotations and
+Labels
+
++ [{ZEP} 0.1.3](https://cran.r-project.org/package=ZEP): Procedures Related to the Zadeh's Extension Principle for Fuzzy
+Data
+
++ [{bartXViz} 1.0.3](https://cran.r-project.org/package=bartXViz): Visualization of BART and BARP using SHAP
+  
 **Bioconductor**
 
 
@@ -91,6 +118,57 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{bskyr} 0.3.0](https://cran.r-project.org/package=bskyr): Interact with 'Bluesky' Social - [diffify](https://diffify.com/R/bskyr)
+  
++ [{rtkore} 1.6.13](https://cran.r-project.org/package=rtkore): 'STK++' Core Library Integration to 'R' using 'Rcpp' - [diffify](https://diffify.com/R/rtkore)
+  
++ [{R.cache} 0.17.0](https://cran.r-project.org/package=R.cache): Fast and Light-Weight Caching (Memoization) of Objects and
+Results to Speed Up Computations - [diffify](https://diffify.com/R/R.cache)
+
++ [{coda.base} 1.0.0](https://cran.r-project.org/package=coda.base): A Basic Set of Functions for Compositional Data Analysis - [diffify](https://diffify.com/R/coda.base)
+  
++ [{wikiprofiler} 0.1.6](https://cran.r-project.org/package=wikiprofiler): 'WikiPathway' Based Data Integration and Visualization - [diffify](https://diffify.com/R/wikiprofiler)
+  
++ [{Rfast2} 0.1.5.4](https://cran.r-project.org/package=Rfast2): A Collection of Efficient and Extremely Fast R Functions II - [diffify](https://diffify.com/R/Rfast2)
+  
++ [{InterpolateR} 1.3-4](https://cran.r-project.org/package=InterpolateR): A Comprehensive Toolkit for Fast and Efficient Spatial
+Interpolation - [diffify](https://diffify.com/R/InterpolateR)
+
++ [{crandep} 0.3.12](https://cran.r-project.org/package=crandep): Network Analysis of Dependencies of CRAN Packages - [diffify](https://diffify.com/R/crandep)
+  
++ [{ladder} 0.0.3](https://cran.r-project.org/package=ladder): Get on to the Slides - [diffify](https://diffify.com/R/ladder)
+  
++ [{HSAUR2} 1.1-21](https://cran.r-project.org/package=HSAUR2): A Handbook of Statistical Analyses Using R (2nd Edition) - [diffify](https://diffify.com/R/HSAUR2)
+  
++ [{text} 1.5](https://cran.r-project.org/package=text): Analyses of Text using Transformers Models from HuggingFace,
+Natural Language Processing and Machine Learning - [diffify](https://diffify.com/R/text)
+
++ [{RSQLite} 2.3.10](https://cran.r-project.org/package=RSQLite): SQLite Interface for R - [diffify](https://diffify.com/R/RSQLite)
+  
++ [{rextendr} 0.4.0](https://cran.r-project.org/package=rextendr): Call Rust Code from R using the 'extendr' Crate - [diffify](https://diffify.com/R/rextendr)
+  
++ [{EpiReport} 1.0.4](https://cran.r-project.org/package=EpiReport): Epidemiological Report - [diffify](https://diffify.com/R/EpiReport)
+
++ [{exams2forms} 0.2-0](https://cran.r-project.org/package=exams2forms): Embedding 'exams' Exercises as Forms in 'rmarkdown' or 'quarto'
+Documents - [diffify](https://diffify.com/R/exams2forms)
+
++ [{GWmodelVis} 1.0.1](https://cran.r-project.org/package=GWmodelVis): Visualization Tools for Geographically Weighted Models - [diffify](https://diffify.com/R/GWmodelVis)
+  
++ [{tongfen} 0.3.6](https://cran.r-project.org/package=tongfen): Make Data Based on Different Geographies Comparable - [diffify](https://diffify.com/R/tongfen)
+  
++ [{healthatlas} 0.2.1](https://cran.r-project.org/package=healthatlas): Explore and Import 'Metopio' Health Atlas Data and Spatial
+Layers - [diffify](https://diffify.com/R/healthatlas)
+
++ [{leafem} 0.2.4](https://cran.r-project.org/package=leafem): 'leaflet' Extensions for 'mapview' - [diffify](https://diffify.com/R/leafem)
+
++ [{password} 1.0-1](https://cran.r-project.org/package=password): Create Random Passwords - [diffify](https://diffify.com/R/password)
+
++ [{memoiR} 1.3-1](https://cran.r-project.org/package=memoiR): R Markdown and Bookdown Templates to Publish Documents - [diffify](https://diffify.com/R/memoiR)
+  
++ [{rankhazard} 1.1.1](https://cran.r-project.org/package=rankhazard): Rank-Hazard Plots - [diffify](https://diffify.com/R/rankhazard)
+  
++ [{exams} 2.4-2](https://cran.r-project.org/package=exams): Automatic Generation of Exams in R - [diffify](https://diffify.com/R/exams)
 
 ### Videos and Podcasts
 
@@ -123,6 +201,22 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ### Tutorials
 
 + [The recipe to debug your R code in VSCode](https://yohann-data.fr/posts/debugvscode/)
+
++ [Rotation with Modulo](https://jcarroll.com.au/2025/05/03/rotation-with-modulo/)
+
++ [recipes 1.3.0](https://www.tidyverse.org/blog/2025/04/recipes-1-3-0/)
+
++ [30 Day Chart Challenge 2025](https://nrennie.rbind.io/blog/30-day-chart-challenge-2025/)
+
+<img width="762" alt="Screenshot 2025-05-06 at 00 38 39" src="https://github.com/user-attachments/assets/33f4d202-fb48-4891-9afe-89e511b5ef6d" />
+
++ [How to Write Your First tryCatch() Function in R](https://www.spsanderson.com/steveondata/posts/2025-04-28/)
+
++ [A year with Visible Long-Covid Tracking](https://drmowinckels.io/blog/2025/visible/)
+
+  <img width="592" alt="Screenshot 2025-05-06 at 00 41 26" src="https://github.com/user-attachments/assets/689bdfbd-9cd0-4faa-a0dd-1ce946d1a776" />
+
++ [3MW (Creating Beautiful PDF Reports with Typst and Quarto)](https://3mw.albert-rapp.de/p/creating-beautiful-pdf-reports-with-typst-and-quarto)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
