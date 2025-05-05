@@ -8,12 +8,31 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
-
++ [vowels: Phonetics cloze quiz about Cardinal vowels](https://www.R-exams.org/templates/vowels/)
++ [flags: Fun with Flags](https://www.R-exams.org/templates/flags/)
++ [sumdiff: Sum Minus Difference](https://www.R-exams.org/templates/sumdiff/)
++ [Rotation with Modulo](https://jcarroll.com.au/2025/05/03/rotation-with-modulo/)
++ [rOpenSci News Digest, April 2025](https://ropensci.org/blog/2025/04/28/news-april-2025/)
++ [surveydown: An Open-Source, Markdown-Based Platform for Interactive and Reproducible Surveys workshop](https://r-posts.com/surveydown-an-open-source-markdown-based-platform-for-interactive-and-reproducible-surveys-workshop/)
++ [recipes 1.3.0](https://www.tidyverse.org/blog/2025/04/recipes-1-3-0/)
++ [30 Day Chart Challenge 2025](https://nrennie.rbind.io/blog/30-day-chart-challenge-2025/)
++ [Linux Strings and Linux Numbers: A Beginner’s Guide](https://www.spsanderson.com/steveondata/posts/2025-05-02/)
++ [Returning Data from Functions in C: A Beginner’s Guide](https://www.spsanderson.com/steveondata/posts/2025-04-30/)
++ [How to Write Your First tryCatch() Function in R](https://www.spsanderson.com/steveondata/posts/2025-04-28/)
++ [A year with Visible Long-Covid Tracking](https://drmowinckels.io/blog/2025/visible/)
++ [3MW (Creating Beautiful PDF Reports with Typst and Quarto)](https://3mw.albert-rapp.de/p/creating-beautiful-pdf-reports-with-typst-and-quarto)
++ [Running AI/LLM Hackathons at Posit: What We’ve Learned](https://posit.co/blog/llm-hackathon-lessons-learned/)
++ [New Book: Python Polars: The Definitive Guide Now Available](https://posit.co/blog/python-polars-the-definitive-guide-now-available/)
++ [March 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/march-2025-top-40-new-cran-packages/)
 
 ### Highlight
 
++ [March 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/march-2025-top-40-new-cran-packages/)
++ [recipes 1.3.0](https://www.tidyverse.org/blog/2025/04/recipes-1-3-0/)
++ [30 Day Chart Challenge 2025](https://nrennie.rbind.io/blog/30-day-chart-challenge-2025/)
++ [Rotation with Modulo](https://jcarroll.com.au/2025/05/03/rotation-with-modulo/)
 
 
 ### Insights
@@ -34,7 +53,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- [Geocomputation with R: Geographic data in R](https://r.geocompx.org/spatial-class)
+<img width="242" alt="Screenshot 2025-05-05 at 23 50 55" src="https://github.com/user-attachments/assets/9ea7616b-1702-44a5-aec1-2336a5b2ac3d" />
 
+- [Teaching Intermediate R: Kelly Bodwin, California Polytechnic State University](https://kbodwin.github.io/Talks-and-Presentations/SDSS_2025/Intermediate_R.html#/title-slide)
 
 ### New Packages
 
@@ -61,7 +83,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
+  
++ [Forecasting Electricity Consumption | A Case Study Using ARIMA Models by T K Gebretekle](https://www.youtube.com/watch?v=Bayf0VsOzUU)
+  
++ [R for statistics session 168](https://www.youtube.com/watch?v=7XTU0_y8ZCk)
+  
++ [R Studio - How to Compute Sums over Variables?](https://www.youtube.com/watch?v=V-XaIZe1ikQ)
+  
++ [ANOVA with R session 166](https://www.youtube.com/watch?v=Z1y6_NcohuM)
+  
++ [Introduction to R for Sports Analytics: Data Modeling With Linear Regression (Workshop 3)](https://www.youtube.com/watch?v=0bIxDYuFdRw)
+  
++ [Data viz basics with R and ggplot2 Recording Raleigh](https://www.youtube.com/watch?v=Wf8lSo1LjCA)
 
 ### Gist & Cookbook
 
@@ -110,7 +143,17 @@ Events in 3 Months:
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
+### artistry
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3lo75jawdrc2o" data-bluesky-cid="bafyreidvvoa5isia4gzn7umblqcu3iijye3nbsgyp7gb54csmgsxef6a4a" data-bluesky-embed-color-mode="system"><p lang="en">Drawing fish with #ggplot2, inspired by this awesome video: www.youtube.com/watch?v=qlfh...
+
+#Rstats #creativecoding<br><br><a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lo75jawdrc2o?ref_src=embed">[image or embed]</a></p>&mdash; Georgios Karamanis (<a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf?ref_src=embed">@karaman.is</a>) <a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lo75jawdrc2o?ref_src=embed">May 2, 2025 at 4:33 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+
 
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is an honour to confirm that I&#39;ve put R in production on the public sector 😌(😣) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/23GcsgWB9v">https://t.co/23GcsgWB9v</a></p>&mdash; Bastián Olea (@bastimapache) <a href="https://twitter.com/bastimapache/status/1919412876260810862?ref_src=twsrc%5Etfw">May 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:7nheav3z56a7r5auc5gjlo4g/app.bsky.feed.post/3lofdzzbdgs2c" data-bluesky-cid="bafyreian4btehyztiujrfm6jrv6st3esbsf6dlj6wjiu4faxrwn7ccosma" data-bluesky-embed-color-mode="system"><p lang="en">My #tidyverse brain thought this was an #rstats post at first 😆<br><br><a href="https://bsky.app/profile/did:plc:7nheav3z56a7r5auc5gjlo4g/post/3lofdzzbdgs2c?ref_src=embed">[image or embed]</a></p>&mdash; Matt Kmiecik (<a href="https://bsky.app/profile/did:plc:7nheav3z56a7r5auc5gjlo4g?ref_src=embed">@mattkmiecik.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:7nheav3z56a7r5auc5gjlo4g/post/3lofdzzbdgs2c?ref_src=embed">May 5, 2025 at 3:45 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
