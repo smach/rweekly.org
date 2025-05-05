@@ -77,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [The recipe to debug your R code in VSCode](https://yohann-data.fr/posts/debugvscode/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
