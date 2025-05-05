@@ -14,10 +14,12 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ### Highlight
 
 + [March 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/march-2025-top-40-new-cran-packages/)
+  
 + [recipes 1.3.0](https://www.tidyverse.org/blog/2025/04/recipes-1-3-0/)
+  
 + [30 Day Chart Challenge 2025](https://nrennie.rbind.io/blog/30-day-chart-challenge-2025/)
+  
 + [Rotation with Modulo](https://jcarroll.com.au/2025/05/03/rotation-with-modulo/)
-
 
 ### Insights
 
@@ -29,14 +31,16 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [vowels: Phonetics cloze quiz about Cardinal vowels](https://www.R-exams.org/templates/vowels/)
 
-
 ### R in the Real World
 
 + [Analysis of 1,041 Terminated NSF Grants Totaling $613.26M](https://stevenponce.netlify.app/data_visualizations/TidyTuesday/2025/tt_2025_18.html)
-![image](https://github.com/user-attachments/assets/a39d90dc-6061-485a-8a05-95b27cb968f4)
+
+<img width="665" alt="Screenshot 2025-05-06 at 00 45 42" src="https://github.com/user-attachments/assets/bd146762-0faf-4e7f-8424-09b88204088a" />
+
 
 + [Disaster Death Distributions: 1950-2020](https://stevenponce.netlify.app/data_visualizations/SWD%20Challenge/2025/swd_2025_05.html)
-![image](https://github.com/user-attachments/assets/ac9c6115-6dfc-48ef-90a7-2f4e93b37032)
+
+<img width="667" alt="Screenshot 2025-05-06 at 00 46 09" src="https://github.com/user-attachments/assets/be89c2f3-9216-4213-b3a0-b2c30931ca3d" />
 
 
 ### R in Organizations
@@ -107,13 +111,6 @@ Data
 
 + [{bartXViz} 1.0.3](https://cran.r-project.org/package=bartXViz): Visualization of BART and BARP using SHAP
   
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -186,17 +183,6 @@ Layers - [diffify](https://diffify.com/R/healthatlas)
   
 + [Data viz basics with R and ggplot2 Recording Raleigh](https://www.youtube.com/watch?v=Wf8lSo1LjCA)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -239,11 +225,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
@@ -254,7 +235,6 @@ Events in 3 Months:
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3lo75jawdrc2o" data-bluesky-cid="bafyreidvvoa5isia4gzn7umblqcu3iijye3nbsgyp7gb54csmgsxef6a4a" data-bluesky-embed-color-mode="system"><p lang="en">Drawing fish with #ggplot2, inspired by this awesome video: www.youtube.com/watch?v=qlfh...
 
 #Rstats #creativecoding<br><br><a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lo75jawdrc2o?ref_src=embed">[image or embed]</a></p>&mdash; Georgios Karamanis (<a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf?ref_src=embed">@karaman.is</a>) <a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lo75jawdrc2o?ref_src=embed">May 2, 2025 at 4:33 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
 
 
 
