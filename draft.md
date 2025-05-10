@@ -21,8 +21,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
++ [Exploring Citi Bike usage in NYC with R and Quarto](https://bikesnyc.eu/)
 
-
+![Article preview](https://github.com/user-attachments/assets/891ac5fa-4458-4619-9ee4-5416c20769bc)
 
 ### R in Organizations
 
