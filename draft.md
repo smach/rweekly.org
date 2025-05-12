@@ -18,31 +18,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [RStudio IDE and Posit Workbench 2025.05.0: What’s New](https://posit.co/blog/rstudio-2025-05-0-whats-new/)
 
-+ [Unlocking Zen: How R's data analysis ecosystem outshines Python](https://borkar.substack.com/p/unlocking-zen-powerful-analytics?r=2qg9ny)
-
-+ [Evaluating the new Gemini 2.5 Pro update on R coding](https://www.simonpcouch.com/blog/2025-05-07-gemini-2-5-pro-new/)
 
 ### R in the Real World
 
-+ [Exploring Citi Bike usage in NYC with R and Quarto](https://bikesnyc.eu/)
 
-![Article preview](https://github.com/user-attachments/assets/891ac5fa-4458-4619-9ee4-5416c20769bc)
-
-+ [yfscreen: Yahoo Finance Screener in R and Python](https://www.interactivebrokers.com/campus/ibkr-quant-news/yfscreen-yahoo-finance-screener-in-r-and-python/)
-
-+ [nsf grants terminated](https://jenrichmond.github.io/posts/2025-05-06_tt_nsf/)
 
 ### R in Organizations
 
-+ [Roaringly Acknowledge Organizations with ROR IDs in DESCRIPTION](https://ropensci.org/blog/2025/05/09/ror/)
 
-+ [Optimizing GitHub Copilot for Rhino: Special Prompts for R Shiny Developers](https://www.appsilon.com/post/optimizing-github-copilot-for-rhino)
 
 ### R in Academia
 
-+ [Mapping research landscapes and dynamics: Some basic bibliometric analyses with R](https://geekcologist.wordpress.com/2025/05/06/mapping-research-landscapes-and-dynamics-some-basic-bibliometric-analyses-with-r/)
+
 
 ### Resources
 
@@ -56,73 +44,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{gglinedensity} 0.1.0](https://cran.r-project.org/package=gglinedensity): Make DenseLines Heatmaps with 'ggplot2'
-+ [{dockViewR} 0.1.0](https://cran.r-project.org/package=dockViewR): Layout Manager Widget for R and 'shiny' Apps
-++ [{trustmebro} 1.0.0](https://cran.r-project.org/package=trustmebro): Inspect and Clean Subject-Generated ID Codes and Related Data
-+ [{DIETCOST} 1.0.0.0](https://cran.r-project.org/package=DIETCOST): Calculate the Cost and Environmental Impact of a Ideal Diet
-+ [{TBA} 0.1.0](https://cran.r-project.org/package=TBA): Collection of 'shiny' Apps for Tree Breeding Analysis
-+ [{forensim} 4.3.3](https://cran.r-project.org/package=forensim): Interpretation of Forensic DNA Mixtures
-+ [{days2lessons} 0.1.2](https://cran.r-project.org/package=days2lessons): Distributes Teachers Lessons On Days in a Balanced Manner
-+ [{codestral} 0.0.1](https://cran.r-project.org/package=codestral): Chat and FIM with 'Codestral'
-+ [{PartialNetwork} 1.1.0](https://cran.r-project.org/package=PartialNetwork): Estimating Peer Effects Using Partial Network Data
-+ [{gdm} 1.6.0-7](https://cran.r-project.org/package=gdm): Generalized Dissimilarity Modeling
-+ [{SFDesign} 0.1.0](https://cran.r-project.org/package=SFDesign): Space-Filling Designs
-+ [{libdeflate} 1.23.0](https://cran.r-project.org/package=libdeflate): DEFLATE Compression Static Library and Headers
-+ [{randomGODB} 1.0](https://cran.r-project.org/package=randomGODB): Random GO Database+ [{ggEDA} 0.1.0](https://cran.r-project.org/package=ggEDA): Turnkey Visualisations for Exploratory Data Analysis
-+ [{BioTrajectory} 1.0.0](https://cran.r-project.org/package=BioTrajectory): Image Processing Tools for Barnes Maze Experiments
-+ [{survivalsurrogate} 1.0](https://cran.r-project.org/package=survivalsurrogate): Evaluate a Longitudinal Surrogate with a Censored Outcome
-+ [{RANSAC} 0.1.0](https://cran.r-project.org/package=RANSAC): Robust Model Fitting Using the RANSAC Algorithm
-+ [{dnafractal} 0.0.2](https://cran.r-project.org/package=dnafractal): Generates a Fractal Image of a DNA Sequence
-+ [{geotargets} 0.3.0](https://cran.r-project.org/package=geotargets): 'targets' Extensions for Geographic Spatial Formats
-+ [{tidySummaries} 0.1.0](https://cran.r-project.org/package=tidySummaries): Tidy Statistical Summaries for Exploratory Data Analysis
-+ [{AirportProblems} 0.1.0](https://cran.r-project.org/package=AirportProblems): Analysis of Cost Allocation for Airport Problems
-+ [{spicy} 0.1.0](https://cran.r-project.org/package=spicy): Descriptive Statistics and Data Management Tools
-+ [{dissimilarities} 0.1.0](https://cran.r-project.org/package=dissimilarities): Creating, Manipulating, and Subsetting "dist" Objects
+
+
+**Bioconductor**
+
+
 
 **GitHub or Bitbucket**
 
-+ [{rAIutils}](https://github.com/smach/rAIutils)
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-+ [{qtlcharts} 0.18](https://cran.r-project.org/package=qtlcharts): Interactive Graphics for QTL Experiments - [diffify](https://diffify.com/R/qtlcharts)
-+ [{nasaweather} 0.1.1](https://cran.r-project.org/package=nasaweather): Collection of Datasets from the ASA 2006 Data Expo - [diffify](https://diffify.com/R/nasaweather)
-+ [{ggstatsplot} 0.13.1](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
-+ [{generics} 0.1.4](https://cran.r-project.org/package=generics): Common S3 Generics not Provided by Base R Methods Related to
-Model Fitting - [diffify](https://diffify.com/R/generics)
-+ [{nixmass} 1.3.1](https://cran.r-project.org/package=nixmass): Snow Water Equivalent Modeling with the 'Delta.snow' and
-'HS2SWE' Models and Empirical Regression Models - [diffify](https://diffify.com/R/nixmass)
-+ [{ggsurveillance} 0.4.0](https://cran.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation/Infectious Disease Surveillance - [diffify](https://diffify.com/R/ggsurveillance)
-+ [{terra} 1.8-50](https://cran.r-project.org/package=terra): Spatial Data Analysis - [diffify](https://diffify.com/R/terra)
-+ [{RKaggle} 0.1.1](https://cran.r-project.org/package=RKaggle): 'Kaggle' Dataset Downloader 'API' - [diffify](https://diffify.com/R/RKaggle)
-+ [{duckplyr} 1.1.0](https://cran.r-project.org/package=duckplyr): A 'DuckDB'-Backed Version of 'dplyr' - [diffify](https://diffify.com/R/duckplyr)
-+ [{targets} 1.11.3](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Pipelines - [diffify](https://diffify.com/R/targets)
-+ [{tidyfinance} 0.4.4](https://cran.r-project.org/package=tidyfinance): Tidy Finance Helper Functions - [diffify](https://diffify.com/R/tidyfinance)
-+ [{IP} 0.1.6](https://cran.r-project.org/package=IP): Classes and Methods for 'IP' Addresses - [diffify](https://diffify.com/R/IP)
-+ [{Ternary} 2.3.4](https://cran.r-project.org/package=Ternary): Create Ternary and Holdridge Plots - [diffify](https://diffify.com/R/Ternary)
-+ [{maptiles} 0.10.0](https://cran.r-project.org/package=maptiles): Download and Display Map Tiles - [diffify](https://diffify.com/R/maptiles)
-+ [{svglite} 2.2.0](https://cran.r-project.org/package=svglite): An 'SVG' Graphics Device - [diffify](https://diffify.com/R/svglite)
-+ [{dockerfiler} 0.2.5](https://cran.r-project.org/package=dockerfiler): Easy Dockerfile Creation from R - [diffify](https://diffify.com/R/dockerfiler)
-+ [{Andromeda} 1.0.0](https://cran.r-project.org/package=Andromeda): Asynchronous Disk-Based Representation of Massive Data - [diffify](https://diffify.com/R/Andromeda)
-+ [{parallelly} 1.44.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package - [diffify](https://diffify.com/R/parallelly)
-+ [{ggseqplot} 0.8.6](https://cran.r-project.org/package=ggseqplot): Render Sequence Plots using 'ggplot2' - [diffify](https://diffify.com/R/ggseqplot)
-+ [{FSA} 0.10.0](https://cran.r-project.org/package=FSA): Simple Fisheries Stock Assessment Methods - [diffify](https://diffify.com/R/FSA)
-+ [{RandomWalker} 0.3.0](https://cran.r-project.org/package=RandomWalker): Generate Random Walks Compatible with the 'tidyverse' - [diffify](https://diffify.com/R/RandomWalker)
-+ [{dotwhisker} 0.8.4](https://cran.r-project.org/package=dotwhisker): Dot-and-Whisker Plots of Regression Results - [diffify](https://diffify.com/R/dotwhisker)
-+ [{WINS} 1.5](https://cran.r-project.org/package=WINS): The R WINS Package - [diffify](https://diffify.com/R/WINS)
-+ [{readMDTable} 0.3.2](https://cran.r-project.org/package=readMDTable): Read Markdown Tables into Tibbles - [diffify](https://diffify.com/R/readMDTable)
-+ [{nanostringr} 0.6.1](https://cran.r-project.org/package=nanostringr): Performs Quality Control, Data Normalization, and Batch Effect
-Correction for 'NanoString nCounter' Data - [diffify](https://diffify.com/R/nanostringr)
-+ [{logrx} 0.4.0](https://cran.r-project.org/package=logrx): A Logging Utility Focus on Clinical Trial Programming Workflows - [diffify](https://diffify.com/R/logrx)
-+ [{ecotraj} 1.1.0](https://cran.r-project.org/package=ecotraj): Ecological Trajectory Analysis - [diffify](https://diffify.com/R/ecotraj)
-+ [{ROpenCVLite} 4.110.0](https://cran.r-project.org/package=ROpenCVLite): Helper Package for Installing OpenCV with R - [diffify](https://diffify.com/R/ROpenCVLite)
-+ [{heterocop} 0.1.1](https://cran.r-project.org/package=heterocop): Semi-Parametric Estimation with Gaussian Copula - [diffify](https://diffify.com/R/heterocop)
-+ [{hwsdr} 1.2](https://cran.r-project.org/package=hwsdr): Interface to the 'HWSD' Web Services - [diffify](https://diffify.com/R/hwsdr)
-+ [{tsna} 0.3.6](https://cran.r-project.org/package=tsna): Tools for Temporal Social Network Analysis - [diffify](https://diffify.com/R/tsna)
-+ [{ctrdata} 1.22.1](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials Data from Public Registers - [diffify](https://diffify.com/R/ctrdata)
-
 
 ### Videos and Podcasts
 
@@ -131,13 +65,11 @@ Correction for 'NanoString nCounter' Data - [diffify](https://diffify.com/R/nano
 
 ### Gist & Cookbook
 
-+ [ Use Github Actions to automatically update a weather graph every day](https://github.com/jdjohn215/milwaukee-weather)
 
-![]()
 
 ### Shiny Apps
 
-+ [Cancelled NSF Grants Dashboard](https://0196abac-e292-c6e2-6623-5ed2c685e4ea.share.connect.posit.cloud/)
+
 
 ### R Internationally
 
@@ -145,21 +77,7 @@ Correction for 'NanoString nCounter' Data - [diffify](https://diffify.com/R/nano
 
 ### Tutorials
 
-+ [uv, part 3: Python in R with reticulate: two demos with Hugging Face transformers and pyBigWig](https://blog.stephenturner.us/p/uv-part-3-python-in-r-with-reticulate)
 
-![01161181-a879-4c6a-840f-333813e0cdcd_800x570](https://github.com/user-attachments/assets/ac4ffcf0-a5b7-4269-b782-40ab64199ca2)
-
-+ [Replace NA in data.table: Replacing with 0 and Other Values](https://www.marsja.se/replace-na-in-data-table-replacing-with-0-and-other-values/)
-
-+ [Punctuation and Other Problems](https://kbodwin.github.io/paRticles/posts/2025-04-24-nse/)
-
-+ [Supercharge your R workflows with DuckDB](https://borkar.substack.com/p/r-workflows-with-duckdb?r=2qg9ny)
-
-+ [Using data.gov.in data on PIN Code boundaries in India](https://aditya-dahiya.github.io/visage/geocomputation/postal_code_maps.html)
-
-![]()
-
-+ [Estimating Causal Effects of Continuous Treatments](https://bradleyrentz.com/blog/2025/05/07/continuous_treatment_effects/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -181,6 +99,10 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [118th Tokyo R Meetup: June 21st, 2025](https://tokyor.connpass.com/)
+
++ [useR! 2025: August 8~10, 2025](https://user2025.r-project.org/)
+
 ### Grants & Funding
 
 
@@ -195,14 +117,3 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I feel like my <a href="https://twitter.com/hashtag/Evolution?src=hash&amp;ref_src=twsrc%5Etfw">#Evolution</a> students are not getting how natural selection on a polygenic quantitative trait can move the trait distribution far outside its original range, even absent new mutation -- so I made the following animation using <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a>. <a href="https://t.co/gbT9PEJjCn">pic.twitter.com/gbT9PEJjCn</a></p>&mdash; Liam Revell (@phytools_liam) <a href="https://twitter.com/phytools_liam/status/1914738248892518495?ref_src=twsrc%5Etfw">April 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:zxaobre6qygeskx6nr2ew6lu/app.bsky.feed.post/3loosw4zm4s2a" data-bluesky-cid="bafyreicg3rvmz4mh226kddlqdjjbiuqvthts6pimoaj6ehqfxknpihqrfi" data-bluesky-embed-color-mode="system"><p lang="en">Another day, another chance to use #rstats readr::parse_number() to remove character values and convert a variable to numeric.<br><br><a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu/post/3loosw4zm4s2a?ref_src=embed">[image or embed]</a></p>&mdash; Crystal Lewis (<a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu?ref_src=embed">@cghlewis.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu/post/3loosw4zm4s2a?ref_src=embed">May 9, 2025 at 6:06 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:zxaobre6qygeskx6nr2ew6lu/app.bsky.feed.post/3loosw4zm4s2a" data-bluesky-cid="bafyreicg3rvmz4mh226kddlqdjjbiuqvthts6pimoaj6ehqfxknpihqrfi" data-bluesky-embed-color-mode="system"><p lang="en">Another day, another chance to use #rstats readr::parse_number() to remove character values and convert a variable to numeric.<br><br><a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu/post/3loosw4zm4s2a?ref_src=embed">[image or embed]</a></p>&mdash; Crystal Lewis (<a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu?ref_src=embed">@cghlewis.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:zxaobre6qygeskx6nr2ew6lu/post/3loosw4zm4s2a?ref_src=embed">May 9, 2025 at 6:06 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:7x3yh2jwglcoktudkx6gqlj3/app.bsky.feed.post/3loouhybmb22q" data-bluesky-cid="bafyreihx6uwsbmufn27a3oo7ylzenzmut57mat7gszit4ob72hytlkd2mm" data-bluesky-embed-color-mode="system"><p lang="en">Wow, this talk-to-the-data #RStats dashboard of terminated #NSF grants is really something.<br><br><a href="https://bsky.app/profile/did:plc:7x3yh2jwglcoktudkx6gqlj3/post/3loouhybmb22q?ref_src=embed">[image or embed]</a></p>&mdash; Noam Ross (<a href="https://bsky.app/profile/did:plc:7x3yh2jwglcoktudkx6gqlj3?ref_src=embed">@noamross.net</a>) <a href="https://bsky.app/profile/did:plc:7x3yh2jwglcoktudkx6gqlj3/post/3loouhybmb22q?ref_src=embed">May 9, 2025 at 6:34 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-
