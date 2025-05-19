@@ -15,6 +15,8 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 ### Insights
 
++ [Writing a book with Quarto: Turn a collection of RMarkdown documents into a book in <1 hour using Quarto](https://blog.stephenturner.us/p/quarto-books)
+
 + [Multi-language pipelines with rixpress](https://brodrigues.co/posts/2025-05-13-test_rixpress.html)
 
 + [Bridges and Communities. My Journey as an rOpenSci Champion](https://ropensci.org/blog/2025/05/15/puentes-comunidades-campeones-ropensci/)
