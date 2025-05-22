@@ -81,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+[Keep your R code clean and consistent with Air](https://yohann-data.fr/posts/airformatter/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
