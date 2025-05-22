@@ -18,6 +18,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Writing a book with Quarto: Turn a collection of RMarkdown documents into a book in <1 hour using Quarto](https://blog.stephenturner.us/p/quarto-books)
+
++ [Multi-language pipelines with rixpress](https://brodrigues.co/posts/2025-05-13-test_rixpress.html)
+
 
 
 ### R in the Real World
