@@ -5,7 +5,7 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
--   [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jonathankitt.bsky.social), with help from the R Weekly team members and contributors.
 
@@ -13,28 +13,28 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 ### Insights
 
--   [Security blind spots in Shiny: why your app is more vulnerable than you think](https://rtask.thinkr.fr/security-blind-spots-in-shiny-why-your-app-is-more-vulnerable-than-you-think/)
--   [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
--   [How to use GitHub Codespaces to simplify your Quarto Workshops](https://quarto.org/docs/blog/posts/2025-05-19-quarto-codespaces/)
++ [Security blind spots in Shiny: why your app is more vulnerable than you think](https://rtask.thinkr.fr/security-blind-spots-in-shiny-why-your-app-is-more-vulnerable-than-you-think/)
++ [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
++ [How to use GitHub Codespaces to simplify your Quarto Workshops](https://quarto.org/docs/blog/posts/2025-05-19-quarto-codespaces/)
 
 ### R in the Real World
 
--   [Sydney Beaches: Water Quality Reliability](https://stevenponce.netlify.app/data_visualizations/TidyTuesday/2025/tt_2025_20.html)
++ [Sydney Beaches: Water Quality Reliability](https://stevenponce.netlify.app/data_visualizations/TidyTuesday/2025/tt_2025_20.html)
 
 ![](images/w22_02.png){width="240"}
 
 ### R in Organizations
 
--   [R in FDA Submissions: Lessons Learned from 5 FDA Pilots](https://www.appsilon.com/post/r-in-fda-submissions)
--   [Five essential models for data scientists in finance](https://posit.co/blog/five-essential-models-for-data-scientists-in-finance/)
++ [R in FDA Submissions: Lessons Learned from 5 FDA Pilots](https://www.appsilon.com/post/r-in-fda-submissions)
++ [Five essential models for data scientists in finance](https://posit.co/blog/five-essential-models-for-data-scientists-in-finance/)
 
 ### Resources
 
--   [15 New Books added to Big Book of R](https://oscarbaruffa.com/bbof-20250518/)
--   [Spurious correlations](https://github.com/pachadotdev/spuriouscorrelations)
--   [Interactive charts in R and beyond](https://nrennie.rbind.io/talks/edinbR-interactive-charts/slides.html#/section)
++ [15 New Books added to Big Book of R](https://oscarbaruffa.com/bbof-20250518/)
++ [Spurious correlations](https://github.com/pachadotdev/spuriouscorrelations)
++ [Interactive charts in R and beyond](https://nrennie.rbind.io/talks/edinbR-interactive-charts/slides.html#/section)
 
-[![](images/w22_01.png){width="400"}](https://nrennie.rbind.io/talks/edinbR-interactive-charts/slides.html#/section)
+![](images/w22_01.png){width="400"}](https://nrennie.rbind.io/talks/edinbR-interactive-charts/slides.html#/section)
 
 ### New Packages
 
@@ -46,49 +46,51 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 </p>
 
--   [{forestdata} 0.3.0](https://cran.r-project.org/package=forestdata): Download Forestry Data
--   [{kknn} 1.4.1](https://cran.r-project.org/package=kknn): Weighted k-Nearest Neighbors
--   [{AirMonitor} 0.4.3](https://cran.r-project.org/package=AirMonitor): Air Quality Data Analysis
--   [{densityratio} 0.2.0](https://cran.r-project.org/package=densityratio): Distribution Comparison Through Density Ratio Estimation
--   [{fairmetrics} 1.0.0](https://cran.r-project.org/package=fairmetrics): Fairness Evaluation Metrics with Confidence Intervals
+**CRAN**
+
++ [{forestdata} 0.3.0](https://cran.r-project.org/package=forestdata): Download Forestry Data
++ [{kknn} 1.4.1](https://cran.r-project.org/package=kknn): Weighted k-Nearest Neighbors
++ [{AirMonitor} 0.4.3](https://cran.r-project.org/package=AirMonitor): Air Quality Data Analysis
++ [{densityratio} 0.2.0](https://cran.r-project.org/package=densityratio): Distribution Comparison Through Density Ratio Estimation
++ [{fairmetrics} 1.0.0](https://cran.r-project.org/package=fairmetrics): Fairness Evaluation Metrics with Confidence Intervals
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
--   [{tinyplot} 0.3.0](https://cran.r-project.org/package=tinyplot): Lightweight Extension of the Base R Graphics System - [diffify](https://diffify.com/R/tinyplot)
--   [{performance} 0.13.0](https://cran.r-project.org/package=performance): Assessment of Regression Models Performance - [diffify](https://diffify.com/R/performance)
--   [{rsconnect} 1.4.0](https://cran.r-project.org/package=rsconnect): Deploy Docs, Apps, and APIs to 'Posit Connect', 'shinyapps.io', and 'RPubs' - [diffify](https://diffify.com/R/rsconnect)
--   [{fda} 6.2.0](https://cran.r-project.org/package=fda): Functional Data Analysis - [diffify](https://diffify.com/R/fda)
--   [{descriptio} 1.4](https://cran.r-project.org/package=descriptio): Descriptive Statistical Analysis - [diffify](https://diffify.com/R/descriptio)
--   [{recipes} 1.3.1](https://cran.r-project.org/package=recipes): Preprocessing and Feature Engineering Steps for Modeling - [diffify](https://diffify.com/R/recipes)
--   [{GitStats} 2.3.2](https://cran.r-project.org/package=GitStats): Standardized Git Repository Data - [diffify](https://diffify.com/R/GitStats)
--   [{flightsbr} 1.1.0](https://cran.r-project.org/package=flightsbr): Download Flight and Airport Data from Brazil - [diffify](https://diffify.com/R/flightsbr)
--   [{marginaleffects} 0.26.0](https://cran.r-project.org/package=marginaleffects): Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis Tests - [diffify](https://diffify.com/R/marginaleffects)
--   [{BIOMASS} 2.2.4](https://cran.r-project.org/package=BIOMASS): Estimating Aboveground Biomass and Its Uncertainty in Tropical Forests - [diffify](https://diffify.com/R/BIOMASS)
++ [{tinyplot} 0.3.0](https://cran.r-project.org/package=tinyplot): Lightweight Extension of the Base R Graphics System - [diffify](https://diffify.com/R/tinyplot)
++ [{performance} 0.13.0](https://cran.r-project.org/package=performance): Assessment of Regression Models Performance - [diffify](https://diffify.com/R/performance)
++ [{rsconnect} 1.4.0](https://cran.r-project.org/package=rsconnect): Deploy Docs, Apps, and APIs to 'Posit Connect', 'shinyapps.io', and 'RPubs' - [diffify](https://diffify.com/R/rsconnect)
++ [{fda} 6.2.0](https://cran.r-project.org/package=fda): Functional Data Analysis - [diffify](https://diffify.com/R/fda)
++ [{descriptio} 1.4](https://cran.r-project.org/package=descriptio): Descriptive Statistical Analysis - [diffify](https://diffify.com/R/descriptio)
++ [{recipes} 1.3.1](https://cran.r-project.org/package=recipes): Preprocessing and Feature Engineering Steps for Modeling - [diffify](https://diffify.com/R/recipes)
++ [{GitStats} 2.3.2](https://cran.r-project.org/package=GitStats): Standardized Git Repository Data - [diffify](https://diffify.com/R/GitStats)
++ [{flightsbr} 1.1.0](https://cran.r-project.org/package=flightsbr): Download Flight and Airport Data from Brazil - [diffify](https://diffify.com/R/flightsbr)
++ [{marginaleffects} 0.26.0](https://cran.r-project.org/package=marginaleffects): Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis Tests - [diffify](https://diffify.com/R/marginaleffects)
++ [{BIOMASS} 2.2.4](https://cran.r-project.org/package=BIOMASS): Estimating Aboveground Biomass and Its Uncertainty in Tropical Forests - [diffify](https://diffify.com/R/BIOMASS)
 
 ### Videos and Podcasts
 
--   [Risk Ratios vs. Odds Ratios: Which to Use & WHY](https://www.youtube.com/watch?v=EmaMo8A4Upc)
--   [How to find fun data](https://www.youtube.com/watch?v=OLq0fpsglJU)
++ [Risk Ratios vs. Odds Ratios: Which to Use & WHY](https://www.youtube.com/watch?v=EmaMo8A4Upc)
++ [How to find fun data](https://www.youtube.com/watch?v=OLq0fpsglJU)
 
 ### Shiny Apps
 
--   [Polygenic Risk Score explorer](https://barreiro-r.github.io/prs-explorer/)
++ [Polygenic Risk Score explorer](https://barreiro-r.github.io/prs-explorer/)
 
 ![](images/w22_03.png){width="481"}
 
 ### R Internationally
 
--   [Shiny in Production 2025: Workshops](https://www.jumpingrivers.com/blog/shiny-in-production-2025-workshop-announcement/)
++ [Shiny in Production 2025: Workshops](https://www.jumpingrivers.com/blog/shiny-in-production-2025-workshop-announcement/)
 
 ### Tutorials
 
--   [Planning for a 3-arm cluster randomized trial with a nested intervention and a time-to-event outcome](https://www.rdatagen.net/post/2025-05-20-planning-for-a-three-arm-trial-with-a-nested-intervention/)
--   [Custom PowerPoints Using {officer}](https://www.jumpingrivers.com/blog/custom-powerpoints-using-officer/)
--   [A step-by-step chart makeover](https://nrennie.rbind.io/blog/chart-makeover/)
--   [Writing a book with Quarto: Turn a collection of RMarkdown documents into a book in \<1 hour using Quarto](https://blog.stephenturner.us/p/quarto-books)
--   [Keep your R code clean and consistent with Air](https://yohann-data.fr/posts/airformatter/)
++ [Planning for a 3-arm cluster randomized trial with a nested intervention and a time-to-event outcome](https://www.rdatagen.net/post/2025-05-20-planning-for-a-three-arm-trial-with-a-nested-intervention/)
++ [Custom PowerPoints Using {officer}](https://www.jumpingrivers.com/blog/custom-powerpoints-using-officer/)
++ [A step-by-step chart makeover](https://nrennie.rbind.io/blog/chart-makeover/)
++ [Writing a book with Quarto: Turn a collection of RMarkdown documents into a book in \<1 hour using Quarto](https://blog.stephenturner.us/p/quarto-books)
++ [Keep your R code clean and consistent with Air](https://yohann-data.fr/posts/airformatter/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -96,25 +98,23 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
--   [Changes in R-devel](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2025/01/30#n2025-01-30)
++ [Changes in R-devel](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2025/01/30#n2025-01-30)
 
 Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group):
 
--   R Contributor Office Hours, Thursday February 6: [10:00-11:00 UTC](https://www.meetup.com/r-contributors/events/305790230/) or [09:30-11:00 PST](https://www.meetup.com/r-contributors/events/305506311/). R Core developer Martin Maechler will be joining the first office hour.
-
-### Call for Participation
++ R Contributor Office Hours, Thursday February 6: [10:00-11:00 UTC](https://www.meetup.com/r-contributors/events/305790230/) or [09:30-11:00 PST](https://www.meetup.com/r-contributors/events/305506311/). R Core developer Martin Maechler will be joining the first office hour.
 
 ### Upcoming Events in 3 Months
 
--   [Forwards To Offer R Package Development Workshops Online](https://forwards.github.io/blog/2025/package-dev-workshops/)
++ [Forwards To Offer R Package Development Workshops Online](https://forwards.github.io/blog/2025/package-dev-workshops/)
 
 Events in 3 Months:
 
--   [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
--   [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
--   [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 ### Connect
 
@@ -134,7 +134,7 @@ A quick one looking at the relationship between depth and duration magnitude.
 
 </p>
 
-— Dan Oehm (<a href="https://bsky.app/profile/did:plc:icfzze6zwdb53lhw5gis3jf3?ref_src=embed">@danoehm.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:icfzze6zwdb53lhw5gis3jf3/post/3lpgshrnc522x?ref_src=embed">18 mai 2025 à 12:02</a>
++ Dan Oehm (<a href="https://bsky.app/profile/did:plc:icfzze6zwdb53lhw5gis3jf3?ref_src=embed">@danoehm.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:icfzze6zwdb53lhw5gis3jf3/post/3lpgshrnc522x?ref_src=embed">18 mai 2025 à 12:02</a>
 
 </blockquote>
 
@@ -144,4 +144,4 @@ A quick one looking at the relationship between depth and duration magnitude.
 
 ### Quote of the Week
 
-[![](images/bsky_w22_quote.png)](https://bsky.app/profile/gdeejay.bsky.social)
+![](images/bsky_w22_quote.png)](https://bsky.app/profile/gdeejay.bsky.social)
