@@ -46,8 +46,6 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 </p>
 
-**CRAN**
-
 -   [{forestdata} 0.3.0](https://cran.r-project.org/package=forestdata): Download Forestry Data
 -   [{kknn} 1.4.1](https://cran.r-project.org/package=kknn): Weighted k-Nearest Neighbors
 -   [{AirMonitor} 0.4.3](https://cran.r-project.org/package=AirMonitor): Air Quality Data Analysis
