@@ -82,7 +82,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Refactoring code with `flir`](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
