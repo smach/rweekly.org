@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Tips and tools for co-maintenance of R packages](https://hugogruson.fr/posts/R-package-comaintenance/)
 
 ### R in the Real World
 
