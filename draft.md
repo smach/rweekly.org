@@ -77,6 +77,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+- [Webscraping Part 1 -- Static scraping](https://innsbruck-webscraping-part-1.etiennebacher.com)
+- [Webscraping Part 2 -- Dynamic scraping](https://innsbruck-webscraping-part-1.etiennebacher.com)
+- [Handling large data with R and Python](https://innsbruck-large-data-r-python.etiennebacher.com)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
