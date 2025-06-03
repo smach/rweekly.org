@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [The Modern R Stack for Production AI](https://blog.stephenturner.us/p/r-production-ai)
 
 ### Insights
 
