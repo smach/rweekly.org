@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Apache Arrow, Rust, and cross-langauge data science](https://josiahparry.com/posts/2025-06-04-cross-language-ds/)
 
 
 ### R in the Real World
