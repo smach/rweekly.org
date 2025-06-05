@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Using LLMs to explore and predict Simpson episode ratings](https://jokasan.github.io/Embeddings/)
 
 ### R in the Real World
 
