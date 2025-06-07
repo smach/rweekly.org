@@ -14,10 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [The Modern R Stack for Production AI](https://blog.stephenturner.us/p/r-production-ai)
 
 ### Insights
 
+- [Apache Arrow, Rust, and cross-langauge data science](https://josiahparry.com/posts/2025-06-04-cross-language-ds/)
 
 
 ### R in the Real World
@@ -78,6 +79,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Using LLMs to explore and predict Simpson episode ratings](https://jokasan.github.io/Embeddings/)
+- [Webscraping Part 1 -- Static scraping](https://innsbruck-webscraping-part-1.etiennebacher.com)
+- [Webscraping Part 2 -- Dynamic scraping](https://innsbruck-webscraping-part-2.etiennebacher.com)
+- [Handling large data with R and Python](https://innsbruck-large-data-r-python.etiennebacher.com)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
