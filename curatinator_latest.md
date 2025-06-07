@@ -1,5 +1,6 @@
 # RSS POSTS: ##
 
++ [scikit-learn, glmnet, xgboost, lightgbm, pytorch, keras, nnetsauce in probabilistic Machine Learning (for longitudinal data) Reserving (work in progress)](https://thierrymoudiki.github.io/blog/2025/06/06/python/ml-reserve-advanced-models)
 + [R version of Probabilistic Machine Learning (for longitudinal data) Reserving (work in progress)](https://thierrymoudiki.github.io/blog/2025/06/05/r/ml-reserves-R)
 + [Probabilistic Machine Learning (for longitudinal data) Reserving (work in progress)](https://thierrymoudiki.github.io/blog/2025/06/04/python/ml-reserve)
 + [Python version of Beyond ARMA-GARCH: leveraging model-agnostic Quasi-Randomized networks and conformal prediction for nonparametric probabilistic stock forecasting (ML-ARCH)](https://thierrymoudiki.github.io/blog/2025/06/03/python/beyond-garch-python)
@@ -8,6 +9,7 @@
 + [Let It Flow: recreating a FACS plot with ggplot](https://quantixed.org/2025/06/05/let-it-flow-recreating-a-facs-plot-with-ggplot/)
 + [Rethinking Image Formats](https://www.jumpingrivers.com/blog/rethinking-image-formats/)
 + [Containerizing Shiny Apps with {shiny2docker}: A Step-by-Step Guide](https://rtask.thinkr.fr/containerizing-shiny-apps-with-shiny2docker-a-step-by-step-guide/)
++ [Tidy topological machine learning with TDAvec and tdarec](https://r-consortium.org/posts/tidy-topological-machine-learning-with-tdavec-and-tdarec/)
 + [#49: The Two Cultures of Deploying Statistical Software](http://dirk.eddelbuettel.com/blog/2025/06/05#049_two_cultures)
 + [New Mentoring Team, Same Open Science Spirit](https://ropensci.org/blog/2025/06/05/mentors-2025/)
 + [UnitedHealth Group Management Comment Analysis: Decoding Executive Communication Patterns (2023-2025)](https://www.spsanderson.com/steveondata/posts/2025-06-06/)
@@ -22,7 +24,9 @@
 + [Which AI model writes the best R code?](https://posit.co/blog/r-llm-evaluation/)
 + [Tidyverse with GitHub Copilot for Healthcare Analytics – Part 1](https://rworks.dev/posts/healthcare-part1/)
 # CRANberries UPDATED: ##
-+ [{JANE} 1.0.0](https://cran.r-project.org/package=JANE): Just Another Latent Space Network Clustering Algorithm - [diffify](https://diffify.com/R/JANE)
++ [{gpindex} 0.6.3](https://cran.r-project.org/package=gpindex): Generalized Price and Quantity Indexes - [diffify](https://diffify.com/R/gpindex)
++ [{eyeris} 1.2.0](https://cran.r-project.org/package=eyeris): Flexible, Extensible, & Reproducible Pupillometry Preprocessing - [diffify](https://diffify.com/R/eyeris)
++ [{JANE} 1.1.0](https://cran.r-project.org/package=JANE): Just Another Latent Space Network Clustering Algorithm - [diffify](https://diffify.com/R/JANE)
 + [{photobiology} 0.13.0](https://cran.r-project.org/package=photobiology): Photobiological Calculations - [diffify](https://diffify.com/R/photobiology)
 + [{immunogenetr} 0.2.0](https://cran.r-project.org/package=immunogenetr): A Comprehensive Toolkit for Clinical HLA Informatics - [diffify](https://diffify.com/R/immunogenetr)
 + [{iapws} 1.2](https://cran.r-project.org/package=iapws): Formulations of the International Association for the Properties
