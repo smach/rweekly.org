@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Apache Arrow, Rust, and cross-language data science](https://josiahparry.com/posts/2025-06-04-cross-language-ds/)
 
+- [nhyris CLI v1 release on npm](https://blog.jahnen.io/nhyris-cli/)
+
 + [Rethinking Image Formats](https://www.jumpingrivers.com/blog/rethinking-image-formats/)
 
 + [#49: The Two Cultures of Deploying Statistical Software](http://dirk.eddelbuettel.com/blog/2025/06/05#049_two_cultures)
