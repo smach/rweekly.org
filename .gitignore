@@ -57,3 +57,5 @@ renv.lock
 scripts/img_raw/*
 !scripts/img_raw/.gitkeep
 draft.html
+
+curatinator_*

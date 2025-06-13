@@ -1,6 +1,13 @@
-OUTPUT_FILE <- "curatinator_latest.md"
+OUTPUT_FILE <- sprintf(
+  "curatinator_%s.md",
+  format(Sys.Date(), "%Y-%m-%d")
+)
 
 ## scrape RSS feeds for new posts in the last 10 days
+library(tidyRSS)
+library(pkgsearch)
+library(dplyr)
+library(lubridate)
 
 source("scripts/get_rss.R")
 f <- read.csv("rss_feeds.csv")
@@ -13,10 +20,6 @@ cat(x, file = OUTPUT_FILE, sep = "\n", append = TRUE)
 
 ## scrape CRANberries for new/updated packages in the last 7 days
 
-library(tidyRSS)
-library(pkgsearch)
-library(dplyr)
-library(lubridate)
 
 # create utility functions
 tidy_package_name <- function(item_link) {
