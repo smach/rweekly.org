@@ -5,79 +5,76 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+- [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
-
-
 
 ### Insights
 
-- [nhyris CLI v1 release on npm](https://blog.jahnen.io/nhyris-cli/)
+- [Vibe coding with AI agents is not for scientists](http://www.seascapemodels.org/rstats/2025/06/08/vibe-coding-not-for-scientists.html)
 
 ### R in the Real World
 
+- [LA County Population](https://kieranhealy.org/blog/archives/2025/06/09/la-county-population/)
 
+- [Impact of Budget Deficits on Treasury Yields with XGBoost](https://datageeek.com/2025/06/11/impact-of-budget-deficits-on-treasury-yields-with-xgboost/)
+
+- [Investigating running R on RISC-V thanks to r-base on Ubuntu](https://remlapmot.github.io/post/2025/riscv-r/)
 
 ### R in Organizations
 
-
-
 ### R in Academia
-
-
 
 ### Resources
 
+- [Free R, Python and SQL editors in techtonique dot net](https://thierrymoudiki.github.io/blog/2025/06/09/r/python/techtonique/consoles-techtonique)
 
+- [Setting up VScode for R and generative AI tools](http://www.seascapemodels.org/rstats/2025/06/12/setting-up-vscode-r-genAI.html)
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
-
 
 **CRAN**
 
-
-
 **Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
-
-
 ### Updated Packages
+
+- [Air 0.7.0](https://www.tidyverse.org/blog/2025/06/air-0-7-0/)
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ### Videos and Podcasts
 
-+ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
+- [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 ### Gist & Cookbook
 
+### Shiny
 
-
-### Shiny Apps
-
-
+- [nhyris CLI v1 release on npm](https://blog.jahnen.io/nhyris-cli/)
 
 ### R Internationally
 
-
-
 ### Tutorials
 
+- [From lab to real life: How your Shiny application can survive its users](https://rtask.thinkr.fr/from-lab-to-real-life-how-your-shiny-application-can-survive-its-users/)
 
+- [Power and 'fragile' p-values by @ellis2013nz](https://freerangestats.info/blog/2025/06/08/power-and-fragile-p-values)
+
+- [How to Create a Data Frame from Vectors in R](https://www.spsanderson.com/steveondata/posts/2025-06-09/)
+
+- [From Math to Code: Building GAM with Penalty Functions From Scratch](https://www.kenkoonwong.com/blog/gam-penalty/)
+
+- [Deploy R or Python models to production in Databricks using Orbital](https://posit.co/blog/databricks-orbital-r-python-model-deployment/)
+
+- [Creating a Linux Personal Package Archive (PPA)](https://datamares.netlify.app/posts/202506_ppa/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -95,23 +92,22 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
+- [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+- [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+- [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 ### Grants & Funding
 
-
 ### Datasets
 
+- [Open repo of ecological data for use in teaching](http://www.seascapemodels.org/rstats/2025/06/10/open-access-data-for-teaching.html)
 
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
-
 
 ### Quotes of the Week
