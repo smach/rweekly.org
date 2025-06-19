@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Organizer tips for inviting speakers](https://rladies.org/blog/2025/invited-speakers/)
 
 ### R in the Real World
 
