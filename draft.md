@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [How to Deploy a Shiny App on a VM with Hetzner](https://www.datachamp.fr/en/posts/deploy-shiny-app-vm/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
