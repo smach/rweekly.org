@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
++ [duckplyr fully joins the tidyverse!](https://www.tidyverse.org/blog/2025/06/duckplyr-1-1-0/)
+
 - [ggplot2 4.0.0 is coming and why ultimately it’s on YOU to ensure your environments are reproducible](https://brodrigues.co/posts/2025-06-21-ggplot4.html)
+
 
 ### R in the Real World
 
