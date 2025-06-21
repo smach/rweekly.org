@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Organizer tips for inviting speakers](https://rladies.org/blog/2025/invited-speakers/)
 
 + [duckplyr fully joins the tidyverse!](https://www.tidyverse.org/blog/2025/06/duckplyr-1-1-0/)
 
