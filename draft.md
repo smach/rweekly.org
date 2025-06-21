@@ -24,22 +24,46 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [ggplot2 4.0.0 is coming and why ultimately it’s on YOU to ensure your environments are reproducible](https://brodrigues.co/posts/2025-06-21-ggplot4.html)
 
++ [R Package Quality: Validation and beyond!](https://www.jumpingrivers.com/blog/litmus-scoring-r-validation/)
+
++ [Futureverse – Ten-Year Anniversary](https://www.jottr.org/2025/06/19/futureverse-10-years/)
+
++ [Season 48 is now in 📦{survivoR} + new datasets and data updates](http://gradientdescending.com/season-48-is-now-survivor-%f0%9f%93%a6/)
+
++ [duckplyr fully joins the tidyverse!](https://www.tidyverse.org/blog/2025/06/duckplyr-1-1-0/)
+
++ [Trail Running Meets Data Science: Adventures with LLMs and Race Stats](https://posit.co/blog/race-stats-dashboard-querychat/)
+
++ [Identifying Measles Immunity Gaps in the US: A Comprehensive Analysis by Iko Musa](https://r-consortium.org/posts/identifying-measles-immunity-gaps-in-the-us/)
+
++ [How are Vaccination Rates and Case Rates Changing for Measles in 2025?](https://r-consortium.org/posts/how-are-vaccination-rates-and-case-rates-changing-for-measles-in-2025/)
+
++ [MIIPW: An R package for Generalized Estimating Equations with missing data integration](https://r-consortium.org/posts/miipw-an-r-package-for-generalized-estimating-equations-with-missing-data-integration/)
+
++ [Introduction to R for Clinical Data](https://r-consortium.org/posts/introduction-to-r-for-clinical-data/)
+
++ [Personal R Administration](https://r-consortium.org/posts/personal-r-administration/)
+
++ [pretestcad: An R package to calculate PreTest Probability (PTP) for Coronary Artery Disease (CAD)](https://r-consortium.org/posts/pretestcad-an-r-package-to-calculate-pretest-probability-ptp-for-coronary-artery-disease-cad/)
+
++ [Bridging the Gap: Introducing RHealth for Healthcare Predictive Modeling in R](https://r-consortium.org/posts/bridging-the-gap-introducing-rhealth-for-healthcare-predictive-modeling-in-r/)
+
++ [Demystifying LLMs with Ellmer](https://r-consortium.org/posts/demystifying-llms-with-ellmer/)
+
++ [Simplifying R Package Documentation with pkgdown and GitHub Pages](https://r-consortium.org/posts/simplifying-r-package-documentation-with-pkgdown-and-github-pages/)
 
 ### R in the Real World
 
 
++ [Shiny in Production 2025: Full Length Talks](https://www.jumpingrivers.com/blog/shiny-in-production-2025-full-lineup/)
 
-### R in Organizations
-
-
++ [rainbowR: Fostering an Inclusive Space for LGBTQ+ Coders in the R Community](https://r-consortium.org/posts/rainbow-r-inclusive-space-LGBTQ-coders/)
 
 ### R in Academia
 
++ [AOUSDOHtools: R Package for Social Determinants of Health Survey data in All of Us Research Program](https://r-consortium.org/posts/aousdohtools-r-package-for-social-determinants-of-health-survey-data-in-all-of-us-research-program/)
 
-
-### Resources
-
-
++ [Examining Factors Associated with Depressive Severity Among Cancer Survivors](https://r-consortium.org/posts/examining-factors-associated-with-depressive-severity-among-cancer-survivors/)
 
 ### New Packages
 
@@ -86,6 +110,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
++ [Beyond ARMA-GARCH: leveraging any statistical model for volatility forecasting](https://thierrymoudiki.github.io/blog/2025/06/21/r/python/beyond-garch-statistical)
++ [Stacked generalization (Machine Learning model stacking) + conformal prediction for forecasting with ahead::mlf](https://thierrymoudiki.github.io/blog/2025/06/18/r/mlf-stacking)
++ [Oh Leave it Out](https://kieranhealy.org/blog/archives/2025/06/18/oh-leave-it-out/)
++ [Building Your Own Mini-ChatGPT with R: From Markov Chains to Transformers!](https://blog.ephorie.de/building-your-own-mini-chatgpt-with-r-from-markov-chains-to-transformers?utm_source=rss&utm_medium=rss&utm_campaign=building-your-own-mini-chatgpt-with-r-from-markov-chains-to-transformers)
+
++ [Correlation Analysis of Silver, Bitcoin, SOXX, and Blockchain Index with {corrr} package](https://datageeek.com/2025/06/17/correlation-analysis-of-silver-bitcoin-soxx-and-blockchain-index-with-corrr-package/)
++ [How to Use runif Function in R With Examples](https://www.spsanderson.com/steveondata/posts/2025-06-17/)
++ [Creating A Question Bank Using Google Sheet, Plumber, and Digital Ocean Droplet](https://www.kenkoonwong.com/blog/qbank/)
+
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
@@ -103,6 +136,8 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [R for Health Technology Assessment (HTA): Identifying Needs, Streamlining Processes, and Building Bridges](https://r-consortium.org/webinars/r-for-health-technology-assessment-identifying-needs-streamlining-processes-and-building-bridges.html)
 
 ### Grants & Funding
 
