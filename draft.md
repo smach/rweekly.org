@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
@@ -29,8 +29,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Futureverse – Ten-Year Anniversary](https://www.jottr.org/2025/06/19/futureverse-10-years/)
 
 + [Season 48 is now in 📦{survivoR} + new datasets and data updates](http://gradientdescending.com/season-48-is-now-survivor-%f0%9f%93%a6/)
-
-+ [duckplyr fully joins the tidyverse!](https://www.tidyverse.org/blog/2025/06/duckplyr-1-1-0/)
 
 + [Trail Running Meets Data Science: Adventures with LLMs and Race Stats](https://posit.co/blog/race-stats-dashboard-querychat/)
 
