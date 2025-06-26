@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [mirai 2.4.0: First Class Async and High-Performance Computing](https://shikokuchuo.net/posts/27-mirai-240/)
 
 ### New Packages
 
@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{mirai} 2.4.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
 
 ### Videos and Podcasts
 
