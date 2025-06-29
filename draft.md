@@ -27,7 +27,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 
-
 ### R in Organizations
 
 
@@ -75,6 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Host, share your Shiny, Rmarkdown & streamlit apps in 3 clicks](https://dive.thaink2.fr/app_direct/th2appstudio/)
 
 
 ### R Internationally
