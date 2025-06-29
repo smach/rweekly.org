@@ -18,6 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
++ [Multilingual Publishing: Frequently Asked Questions](https://ropensci.org/blog/2025/06/23/translation-faq/)
+
 + [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
 
 
