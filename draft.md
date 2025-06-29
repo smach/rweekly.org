@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W00
+title: R Weekly 2025-W27
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,10 +18,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
 + [How to open files, folders, websites in R](https://masalmon.eu/2025/06/25/open-files-folders-websites/)
 
-### R in the Real World
++ [Multilingual Publishing: Frequently Asked Questions](https://ropensci.org/blog/2025/06/23/translation-faq/)
 
++ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
+
+
+### R in the Real World
 
 
 ### R in Organizations
@@ -34,7 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [mirai 2.4.0: First Class Async and High-Performance Computing](https://shikokuchuo.net/posts/27-mirai-240/)
 
 ### New Packages
 
@@ -58,6 +63,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 2.4.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -69,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Host, share your Shiny, Rmarkdown & streamlit apps in 3 clicks](https://dive.thaink2.fr/app_direct/th2appstudio/)
 
 
 ### R Internationally
