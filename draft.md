@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W00
+title: R Weekly 2025-W27
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
 + [Multilingual Publishing: Frequently Asked Questions](https://ropensci.org/blog/2025/06/23/translation-faq/)
+
++ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
+
 
 ### R in the Real World
 
