@@ -17,22 +17,21 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### Insights
 
++ [Three major updates to the Plotnine website](https://posit.co/blog/three-major-updates-to-the-plotnine-website/)
+  
+<img width="1250" alt="Screenshot 2025-06-30 at 19 56 31" src="https://github.com/user-attachments/assets/d6706abc-bb24-4872-acad-ba69f784a856" />
 
 + [How to open files, folders, websites in R](https://masalmon.eu/2025/06/25/open-files-folders-websites/)
-
-+ [Multilingual Publishing: Frequently Asked Questions](https://ropensci.org/blog/2025/06/23/translation-faq/)
-
-+ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
 
 + [R Package Quality: Package Popularity](https://www.jumpingrivers.com/blog/r-validation-author-popularity-litmus/)
     
 + [Multilingual Publishing: Frequently Asked Questions](https://ropensci.org/blog/2025/06/23/translation-faq/)
 
-+ [Three major updates to the Plotnine website](https://posit.co/blog/three-major-updates-to-the-plotnine-website/)
-  
-+ [Deploying Scikit-Learn Models for In-Database Scoring with Snowflake](https://posit.co/blog/snowflake-orbital-scikit-learn-models/)
-  
 + [A Simple Bayesian Multi-state Survival Model for a Clinical Trial](https://rworks.dev/posts/simple-bayesian-model/)
+
++ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
+  
+<img width="717" alt="Screenshot 2025-06-30 at 19 57 36" src="https://github.com/user-attachments/assets/3da7dd5c-e2e4-469c-b211-058901345c44" />
 
 
 ### R in Organizations
@@ -47,6 +46,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ### R in Academia
 
 + [Prompting large language models for quality ecological statistics](http://www.seascapemodels.org/rstats/2025/06/27/prompting-llms-quality-ecological-statistics.html)
+  
+<img width="538" alt="Screenshot 2025-06-30 at 19 55 49" src="https://github.com/user-attachments/assets/29351de2-19b3-4077-a8de-822df76c7cfd" />
 
 
 ### Resources
