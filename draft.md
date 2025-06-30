@@ -241,5 +241,12 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:m2knqwyhtm6csr7xkfam2ics/app.bsky.feed.post/3lshrpu2mgc2g" data-bluesky-cid="bafyreifptvatpqovwobwk4bpgmhfx2j63aqbettdnjnveua2rduzqg2j54" data-bluesky-embed-color-mode="system"><p lang="en">They haven’t posted it here but @votehub.com made an incredible graphic of the NYC primary showing results with population by precinct on the Z axis designed to look like a building map of NYC. One of my favorite political maps ever.<br><br><a href="https://bsky.app/profile/did:plc:m2knqwyhtm6csr7xkfam2ics/post/3lshrpu2mgc2g?ref_src=embed">[image or embed]</a></p>&mdash; Joel Wertheimer (<a href="https://bsky.app/profile/did:plc:m2knqwyhtm6csr7xkfam2ics?ref_src=embed">@wertwhile.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:m2knqwyhtm6csr7xkfam2ics/post/3lshrpu2mgc2g?ref_src=embed">June 26, 2025 at 12:36 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of al-Mubarraz, Saudi Arabia created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/nY7tOC3tM6">pic.twitter.com/nY7tOC3tM6</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1939339577304440873?ref_src=twsrc%5Etfw">June 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/pqpoMeAJfM">pic.twitter.com/pqpoMeAJfM</a></p>&mdash; Motivational Quotes (@motivational) <a href="https://twitter.com/motivational/status/1939493897316548849?ref_src=twsrc%5Etfw">June 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
