@@ -256,7 +256,7 @@
 "https://jcarroll.com.au/tags/rstats/index.xml",1,"@carroll_jono"
 "http://www.data-imaginist.com/feed.xml",1,"@thomasp85"
 "https://feeds.feedburner.com/rweekly/TBsy",1,"@rweekly_org"
-"https://www.r-consortium.org/feed",1,"@RConsortium"
+"https://r-consortium.org/blog/index.xml",1,"@RConsortium"
 "https://matloff.wordpress.com/feed/",1,""
 "http://mhoehle.github.io/blog/feed.xml",1,""
 "http://spatial.ly/feed/",1,""
@@ -417,7 +417,7 @@
 "https://rdiscovery.netlify.app/index.xml",1,"https://twitter.com/LettryL"
 "https://www.rostrum.blog/index.xml",1, ""
 "https://www.brodrigues.co/blog/index.xml",1, ""
-"https://feeds.feedburner.com/discindo/blogfeed", 1, https://x.com/podatoci
+"https://feeds.feedburner.com/discindo/blogfeed", 1, https://bsky.app/profile/podatoci.bsky.social
 "https://jchau.org/category/r-bloggers/index.xml", 1, "@joris_chau"
 "https://posit.co/feed/", 1, ""
 "https://rpahl.github.io/r-some-blog/index.xml", 1, "@romanpahl"
@@ -429,3 +429,6 @@
 "https://cynkra.com/blog/feed.xml", 1, ""
 "https://chainsawriot.com/feed/by_tag/R.xml", 1, ""
 "https://www.r4good.academy/en/blog-RBloggers.xml", 1, ""
+"https://datamares.netlify.app/index.xml", 1, ""
+"https://sheitin.github.io/names_are_hard/index.xml", 1, ""
+"https://geocompx.org/post-rstats.xml", 1, ""
