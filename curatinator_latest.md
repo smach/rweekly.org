@@ -7,6 +7,9 @@
 + [You can outsource the grunt work to an LLM, not expertise](https://b-rodrigues.github.io/posts/2025-07-03-llm_time.html)
 + [R Package Quality: Documentation](https://www.jumpingrivers.com/blog/r-validation-documentation-litmus/)
 + [Building Trust with Code: Validating Shiny Apps in Regulated Environments](https://www.jumpingrivers.com/blog/validating-shiny-apps-in-regulated-environments/)
++ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
++ [Strength in Numbers](https://r-consortium.org/posts/strength-in-numbers/)
++ [“Visualise, Optimise, Parameterise!” - Writing dataviz code - UPDATED](https://r-consortium.org/posts/visualise-optimise-parameterise-writing-dataviz-code-updated/)
 + [RcppArmadillo 14.6.0-1 on CRAN: New Upstream Minor Release](http://dirk.eddelbuettel.com/blog/2025/07/02#rcpparmadillo_14.6.0-1)
 + [Rcpp 1.1.0 on CRAN: C++11 now Minimum, Regular Semi-Annual Update](http://dirk.eddelbuettel.com/blog/2025/07/02#rcpp_1.1.0)
 + [Open Science with a Latin American Identity: Meet the New Cohort of the rOpenSci Champions Program](https://ropensci.org/blog/2025/07/03/champions-2025/)
@@ -21,16 +24,10 @@
 + [An Introduction to Behavior-Driven Development in R](https://jakubsobolewski.com/blog/intro-to-bdd-in-r)
 + [Posit @ PyCon US 2025: Try Our Demo Labs!](https://posit.co/blog/posit-at-pycon-us-2025/)
 + [May 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/may-2025-top-40-new-cran-packages/)
-
-
-
-
-
-
-
-
-
++ [Specialized R packages for spatial cross-validation: sperrorest and blockCV](https://geocompx.org/post/2025/sml-bp6/)
 # CRANberries UPDATED: ##
++ [{gausscov} 1.1.6](https://cran.r-project.org/package=gausscov): The Gaussian Covariate Method for Variable Selection - [diffify](https://diffify.com/R/gausscov)
++ [{avesperu} 0.0.6](https://cran.r-project.org/package=avesperu): Access to the List of Birds Species of Peru - [diffify](https://diffify.com/R/avesperu)
 + [{confidence} 1.1-3](https://cran.r-project.org/package=confidence): Confidence Estimation of Environmental State Classifications - [diffify](https://diffify.com/R/confidence)
 + [{stepmixr} 0.1.3](https://cran.r-project.org/package=stepmixr): Interface to 'Python' Package 'StepMix' - [diffify](https://diffify.com/R/stepmixr)
 + [{rcrisp} 0.1.4](https://cran.r-project.org/package=rcrisp): Automate the Delineation of Urban River Spaces - [diffify](https://diffify.com/R/rcrisp)
@@ -243,17 +240,6 @@ Econometrics - [diffify](https://diffify.com/R/JFE)
 + [{wordmap} 0.9.4](https://cran.r-project.org/package=wordmap): Feature Extraction and Document Classification with Noisy Labels - [diffify](https://diffify.com/R/wordmap)
 + [{webmockr} 2.1.0](https://cran.r-project.org/package=webmockr): Stubbing and Setting Expectations on 'HTTP' Requests - [diffify](https://diffify.com/R/webmockr)
 + [{alternativeROC} 1.0.0](https://cran.r-project.org/package=alternativeROC): Alternative and Fast ROC Analysis - [diffify](https://diffify.com/R/alternativeROC)
-
-
-
-
-
-
-
-
-
-
-
 # CRANberries NEW: ##
 + [{viralx} 1.3.1](https://cran.r-project.org/package=viralx): Explainers for Regression Models in HIV Research
 + [{semEffect} 1.2.3](https://cran.r-project.org/package=semEffect): Structural Equation Model Effect Analysis and Visualization
@@ -289,6 +275,7 @@ Data
 + [{SimBaRepro} 0.1.0](https://cran.r-project.org/package=SimBaRepro): Simulation-Based, Finite-Sample Inference via Repro Samples
 + [{GJRM.data} 0.1-1](https://cran.r-project.org/package=GJRM.data): Data Sets for Copula Additive Distributional Regression Using R
 + [{ecoteach} 0.1.0](https://cran.r-project.org/package=ecoteach): Educational Datasets for Ecology and Agriculture
+<<<<<<< HEAD
 
 
 # CRANberries NEW: ##
@@ -348,3 +335,5 @@ Decomposition
 + [{clinpubr} 1.0.1](https://cran.r-project.org/package=clinpubr): Clinical Publication
 + [{FLSSS} 9.2.8](https://cran.r-project.org/package=FLSSS): Mining Rigs for Problems in the Subset Sum Family
 
+=======
+>>>>>>> 8fc98e44ed74f70be35d6b94eb8e6b94f9938ddd
