@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [Positron Assistant: GitHub Copilot and Claude-Powered Agentic Coding in R](https://blog.stephenturner.us/p/positron-assistant-copilot-chat-agent)
 
 ### Insights
 
@@ -65,6 +65,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
+
++ [Tidy RAG in R with ragnar](https://blog.stephenturner.us/p/tidy-rag-in-r-with-ragnar)
 
 
 ### Shiny Apps
