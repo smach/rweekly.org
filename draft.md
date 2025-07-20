@@ -106,6 +106,8 @@ Transmission - [diffify](https://diffify.com/R/superspreading)
 + [Nested Forecasting: Analyzing the Relationship Between the Dollar and Stock Market Trends](https://datageeek.com/2025/07/14/nested-forecasting-analyzing-the-relationship-between-the-dollar-and-stock-market-trends/)
 
 + [Organizing R development using srcpkgs](https://kforner.netlify.app/posts/organizing_dev_with_srcpkgs/)
+  
++ [How to create your own RAG applications in R](https://www.infoworld.com/article/4020484/generative-ai-rag-comes-to-the-r-tidyverse.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
