@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W29
+title: R Weekly 2025-W30
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
