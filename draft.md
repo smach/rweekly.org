@@ -1,21 +1,24 @@
 ---
 layout: draft
-title: R Weekly 2025-W30
+title: R Weekly 2025-W31
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcalder), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
-+ [Positron Assistant: GitHub Copilot and Claude-Powered Agentic Coding in R](https://blog.stephenturner.us/p/positron-assistant-copilot-chat-agent)
+
 
 ### Insights
 
-+ [R Package Quality: Maintainer Criteria](https://www.jumpingrivers.com/blog/r-validation-maintainers-litmus/)
+
 
 ### R in the Real World
 
@@ -27,9 +30,7 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 ### R in Academia
 
-+ [Research Publications Affiliated with Luxembourg: A Data-Driven Analysis](https://github.com/b-rodrigues/research_outputs_analysis)
 
-+ [Tagging Bioconductor packages with EDAM](https://blog.bioconductor.org/posts/2025-07-18-edam/)
 
 ### Resources
 
@@ -43,15 +44,7 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 **CRAN**
 
-+ [{chopin} 0.9.4](https://cran.r-project.org/package=chopin): Spatial Parallel Computing by Hierarchical Data Partitioning
 
-+ [{ggchord} 0.2.0](https://cran.r-project.org/package=ggchord): Multi-Sequence 'BLAST' Alignment Chord Diagram Visualization
-
-+ [{MexicoDataAPI} 0.1.0](https://cran.r-project.org/package=MexicoDataAPI): Access Mexican Data via APIs and Curated Datasets
-
-+ [{getRad} 0.2.0](https://cran.r-project.org/package=getRad): Download Radar Data for Biological Research
-
-+ [{ChileDataAPI} 0.1.0](https://cran.r-project.org/package=ChileDataAPI): Access Chilean Data via APIs and Curated Datasets
 
 **Bioconductor**
 
@@ -65,21 +58,6 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{httr2} 1.2.0](https://www.tidyverse.org/blog/2025/07/httr2-1-2-0/): Perform HTTP Requests and Process the Responses - [diffify](https://diffify.com/R/httr2)
-
-+ [{superspreading} 0.4.0](https://cran.r-project.org/package=superspreading): Understand Individual-Level Variation in Infectious Disease
-Transmission - [diffify](https://diffify.com/R/superspreading)
-
-+ [{metatools} 0.2.0](https://cran.r-project.org/package=metatools): Enable the Use of 'metacore' to Help Create and Check Dataset - [diffify](https://diffify.com/R/metatools)
-
-+ [{RSQLite} 2.4.2](https://cran.r-project.org/package=RSQLite): SQLite Interface for R - [diffify](https://diffify.com/R/RSQLite)
-
-+ [{statnetWeb} 0.6.1](https://cran.r-project.org/package=statnetWeb): A Shiny App for Network Modeling with 'statnet' - [diffify](https://diffify.com/R/statnetWeb)
-
-+ [{maestro} 0.6.1](https://cran.r-project.org/package=maestro): Orchestration of Data Pipelines - [diffify](https://diffify.com/R/maestro)
-
-+ [{polars} 1.0.0](https://rpolars.r-universe.dev/polars): R Bindings for the 'polars' Rust Library
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -87,13 +65,11 @@ Transmission - [diffify](https://diffify.com/R/superspreading)
 
 ### Gist & Cookbook
 
-+ [Tidy RAG in R with ragnar](https://blog.stephenturner.us/p/tidy-rag-in-r-with-ragnar)
+
 
 ### Shiny Apps
 
-+ [Your LLM-powered guide to the posit::conf(2025) agenda](https://posit.co/blog/posit-conf-2025-agenda/)
 
-+ [Testing Legacy Shiny Apps: Start with Behavior, Not Code](https://jakubsobolewski.com/blog/testing-legacy-shiny)
 
 ### R Internationally
 
@@ -101,13 +77,7 @@ Transmission - [diffify](https://diffify.com/R/superspreading)
 
 ### Tutorials
 
-+ [Benchmarking memory usage in R](https://rdatatable-community.github.io/The-Raft/posts/2025-07-14-memory_R-jangorecki/)
 
-+ [How to Use with() and within() Functions in R: A Complete Guide for Cleaner Code](https://www.spsanderson.com/steveondata/posts/2025-07-14/)
-
-+ [Nested Forecasting: Analyzing the Relationship Between the Dollar and Stock Market Trends](https://datageeek.com/2025/07/14/nested-forecasting-analyzing-the-relationship-between-the-dollar-and-stock-market-trends/)
-
-+ [Organizing R development using srcpkgs](https://kforner.netlify.app/posts/organizing_dev_with_srcpkgs/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
