@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Beyond the 3-Point Revolution: A Deep Dive into NBA Shot Selection by Position and Distance]([link](https://matanhakim.com/posts/2025-02-08-nba-shot-selection/)) - How different positions have adapted to the changing landscape of NBA shooting
 
 ### R in Organizations
 
