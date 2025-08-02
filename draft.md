@@ -18,7 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Julia Silge on Fostering a Technical, Inclusive R Community in Salt Lake City](https://r-consortium.org/posts/julia-silge-on-fostering-a-technical-inclusive-r-community-in-salt-lake-city/)
 
++ [R Girls Open Event 2025](https://forwards.github.io/blog/2025/r-girls-open-event-2025/)
+
++ [Switching my website from Hugo to Quarto](https://nrennie.rbind.io/blog/hugo-quarto-website/)
+
++ [openstatsware: From the mmrm R package to a lively community](https://posit.co/blog/openstatsware-interview/)
 
 ### R in the Real World
 
@@ -26,7 +32,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [How Quarto embed fixes data science storytelling](https://emilyriederer.com/post/quarto-comms/)
 
++ [A quick tour of Positron](https://posit.co/blog/a-quick-tour-of-positron/)
 
 ### R in Academia
 
@@ -34,6 +42,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
++ [Efficient R – How to write faster code workshop](https://r-posts.com/efficient-r-how-to-write-faster-code-workshop/)
+
++ [How to Test R Code That Uses LLMs, APIs, or Databases](https://jakubsobolewski.com/blog/testing-code-with-dependencies)
+
++ [Health Technology notes: Copilot tips and guidance](https://rworks.dev/posts/healthcare-part2-copilot-supplement/)
+
++ [June 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/june-2025-top-40-new-cran-packages/)
 
 
 ### New Packages
@@ -52,7 +67,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [crosswordio](https://github.com/coolbutuseless/crosswordio) - Reading/writing crossword puzzles in PUZ format
 
 ### Updated Packages
 
@@ -61,6 +76,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
++ [A first look at Positron (UseR! 2025 virtual talk)](https://www.youtube.com/watch?v=aKSrptGegeo)
+
++ [Plot Twist: Adding interactivity to the elegance of ggplot2 with ggiraph (UseR! 2025 virtual talk)](https://www.youtube.com/watch?v=GnDjRxyO-7A)
+
 
 
 ### Gist & Cookbook
@@ -76,6 +96,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
++ [Animated Maps with {ggplot2} and {gganimate}](https://www.jumpingrivers.com/blog/animated-map/)
+
++ [How to Add a Total Row to a Data Frame in R: Complete Guide for R Programmers](https://www.spsanderson.com/steveondata/posts/2025-07-28/)
+
++ [Automate LinkedIn Carousels with R and Gemini](https://drmowinckels.io/blog/2025/linkedin_gemini/)
+
++ [Can Juliet manage without Romeo? How much she should spend, save, and invest to achieve that?](https://r4good.academy/en/blog/financial-report-individual-minimal-example/index.en.html)
 
 
 
@@ -94,6 +122,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [European Bioconductor Conference (September 17-19)](https://eurobioc2025.bioconductor.org/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
