@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://bsky.app/profile/rpodcast.bsky.social), with help from the R Weekly team members and contributors.
 
 
 
@@ -28,17 +28,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-+ [Beyond the 3-Point Revolution: A Deep Dive into NBA Shot Selection by Position and Distance]([link](https://matanhakim.com/posts/2025-02-08-nba-shot-selection/)) - How different positions have adapted to the changing landscape of NBA shooting
++ [Beyond the 3-Point Revolution: A Deep Dive into NBA Shot Selection by Position and Distance](https://matanhakim.com/posts/2025-02-08-nba-shot-selection/) - How different positions have adapted to the changing landscape of NBA shooting
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W32/basketball_600.png)
 
 ### R in Organizations
 
 + [How Quarto embed fixes data science storytelling](https://emilyriederer.com/post/quarto-comms/)
 
 + [A quick tour of Positron](https://posit.co/blog/a-quick-tour-of-positron/)
-
-### R in Academia
-
-
 
 ### Resources
 
@@ -59,10 +57,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{simIC} 0.1.0](https://cran.r-project.org/package=simIC): Simulate and Analyze Interval- and Mixed-Censored Survival Data
 
++ [{ggdibbler} 0.1.0](https://cran.r-project.org/package=ggdibbler): Add Uncertainty to Data Visualisations
 
-**Bioconductor**
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W32/ggdibbler_600.png)
 
++ [{staninside} 0.0.4](https://cran.r-project.org/package=staninside): Facilitating the Use of 'Stan' Within Packages
+
++ [{fortniteR} 0.1.0](https://cran.r-project.org/package=fortniteR): Access 'Fortnite Ecosystem' API
+
++ [{tidyrhrv} 1.1.0](https://cran.r-project.org/package=tidyrhrv): Read, Iteratively Filter, and Analyze Multiple ECG Datasets
+
++ [{ggplayfair} 0.1.1](https://cran.r-project.org/package=ggplayfair): Geoms for Playfair-Style Charts
+
++ [{ggcorrheatmap} 0.1.2](https://cran.r-project.org/package=ggcorrheatmap): Make Flexible 'ggplot2' Correlation Heatmaps
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W32/ggcorrheatmap_600.png)
+
++ [{REPS} 1.0.0](https://cran.r-project.org/package=REPS): Hedonic and Multilateral Index Methods for Real Estate Price Statistics
+
++ [{SlimR} 1.0.3](https://cran.r-project.org/package=SlimR): Marker-Based Package for Single-Cell and Spatial-Transcriptomic Annotation
+
++ [{inteq} 1.0](https://cran.r-project.org/package=inteq): Numerical Solution of Integral Equations
+
++ [{socratadata} 0.1.0](https://cran.r-project.org/package=socratadata): Explore Socrata Data with Ease
+
++ [{BayesianLasso} 0.3.5](https://cran.r-project.org/package=BayesianLasso): Bayesian Lasso Regression and Tools for the Lasso Distribution
 
 
 **GitHub or Bitbucket**
@@ -73,6 +94,36 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{imager} 1.0.5](https://cran.r-project.org/package=imager): Image Processing Library Based on 'CImg' - [diffify](https://diffify.com/R/imager)
+
++ [{likert} 1.3.5.1](https://cran.r-project.org/package=likert): Analysis and Visualization Likert Items - [diffify](https://diffify.com/R/likert)
+
++ [{rush} 0.3.0](https://cran.r-project.org/package=rush): Rapid Asynchronous and Distributed Computing - [diffify](https://diffify.com/R/rush)
+
++ [{badger} 0.2.5](https://cran.r-project.org/package=badger): Badge for R Package - [diffify](https://diffify.com/R/badger)
+
++ [{tidyposterior} 1.0.2](https://cran.r-project.org/package=tidyposterior): Bayesian Analysis to Compare Models using Resampling Statistics - [diffify](https://diffify.com/R/tidyposterior)
+
++ [{movementsync} 0.1.5](https://cran.r-project.org/package=movementsync): Analysis and Visualisation of Musical Audio and Video Movement Synchrony Data - [diffify](https://diffify.com/R/movementsync)
+
++ [{blackmarbler} 0.2.5](https://cran.r-project.org/package=blackmarbler): Black Marble Data and Statistics - [diffify](https://diffify.com/R/blackmarbler)
+
++ [{backbone} 2.1.5](https://cran.r-project.org/package=backbone): Extracts the Backbone from Graphs - [diffify](https://diffify.com/R/backbone)
+
++ [{bumbl} 1.0.4](https://cran.r-project.org/package=bumbl): Tools for Modeling Bumblebee Colony Growth and Decline - [diffify](https://diffify.com/R/bumbl)
+
++ [{tidyhte} 1.0.4](https://cran.r-project.org/package=tidyhte): Tidy Estimation of Heterogeneous Treatment Effects - [diffify](https://diffify.com/R/tidyhte)
+
++ [{tufte} 0.14.0](https://cran.r-project.org/package=tufte): Tufte's Styles for R Markdown Documents - [diffify](https://diffify.com/R/tufte)
+
++ [{nhstplot} 1.4.0](https://cran.r-project.org/package=nhstplot): Plot Null Hypothesis Significance Tests - [diffify](https://diffify.com/R/nhstplot)
+
++ [{worldmet} 0.10.0](https://cran.r-project.org/package=worldmet): Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD) - [diffify](https://diffify.com/R/worldmet)
+
++ [{runonce} 0.3.2](https://cran.r-project.org/package=runonce): Run Once and Save Result - [diffify](https://diffify.com/R/runonce)
+
++ [{WebAnalytics} 0.9.14](https://cran.r-project.org/package=WebAnalytics): Web Server Log Analysis - [diffify](https://diffify.com/R/WebAnalytics)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -80,19 +131,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [A first look at Positron (UseR! 2025 virtual talk)](https://www.youtube.com/watch?v=aKSrptGegeo)
 
 + [Plot Twist: Adding interactivity to the elegance of ggplot2 with ggiraph (UseR! 2025 virtual talk)](https://www.youtube.com/watch?v=GnDjRxyO-7A)
-
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
 
 
 ### Tutorials
@@ -105,7 +143,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Can Juliet manage without Romeo? How much she should spend, save, and invest to achieve that?](https://r4good.academy/en/blog/financial-report-individual-minimal-example/index.en.html)
 
-
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W32/juliet_spending_600.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -131,11 +169,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
@@ -143,5 +176,10 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="mastodon-embed" data-embed-url="https://hachyderm.io/@djnavarro/114918400135470003/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://hachyderm.io/@djnavarro/114918400135470003" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @djnavarro@hachyderm.io</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://hachyderm.io/" async src="https://hachyderm.io/embed.js"></script>
+
 
 ### Quotes of the Week
+
+<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@tylermorganwall/114953563960404771/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@tylermorganwall/114953563960404771" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @tylermorganwall@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
+
