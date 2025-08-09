@@ -1,6 +1,7 @@
 # RSS POSTS: ##
 
 + [Shiny in Production 2025: Sponsors](https://www.jumpingrivers.com/blog/sip-2025-sponsors/)
++ [Conformal Prediction Intervals of XGBoost Model: Bitcoin Peaks Amid Coinbase’s Earnings Struggle](https://datageeek.com/2025/08/09/conformal-prediction-intervals-of-xgboost-model-bitcoin-peaks-amid-coinbases-earnings-struggle/)
 + [Global Modeling with Automated ML: Impact of One Big Beautiful Bill on Big Tech](https://datageeek.com/2025/08/03/global-modeling-with-automated-ml-impact-of-one-big-beautiful-bill-on-big-tech/)
 + [The Complete Beginner’s Guide to Python Debugging: Assertions, Exceptions, Logging, and More](https://www.spsanderson.com/steveondata/posts/2025-08-06/)
 + [How to Retrieve Row Numbers in R: Complete Guide with Base R, dplyr, and data.table Examples](https://www.spsanderson.com/steveondata/posts/2025-08-04/)
