@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W33
+title: R Weekly 2025-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,43 +8,33 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
 
 
 ### Highlight
 
-+ [I wrote this talk with an LLM - Hadley Wickham (useR! 2025 Keynote 1)](https://www.youtube.com/live/ctc2kx3LxG8)
-
-+ [What’s R vector, Victor?](https://www.biobits.be/biofunctor/2025/07/30/what-s-r-vector-victor/)
-
-+ [quarto R package v1.5.0: Streamlined Workflows for R Users](https://quarto.org/docs/blog/posts/2025-07-28-r-package-release-1.5/)
 
 
 ### Insights
 
-+ [Global Modeling with Automated ML: Impact of One Big Beautiful Bill on Big Tech](https://datageeek.com/2025/08/03/global-modeling-with-automated-ml-impact-of-one-big-beautiful-bill-on-big-tech/)
 
-+ [Exploratory Data Analysis with R in Positron](https://posit.co/blog/eda-in-positron/)
-
-+ [Metacore and Metatools 0.2.0](https://pharmaverse.github.io/blog/posts/2025-08-04_metacore_0.2.0/metacore_0.2.0.html)
-
-+ [What’s R vector, Victor?](https://www.biobits.be/biofunctor/2025/07/30/what-s-r-vector-victor/)
-
-+ [Making libcurl work in webassembly](https://jeroen.github.io/notes/webassembly-curl/)
-
-+ [What LLMs Actually Do (and What They Don’t)](https://shiny.posit.co/blog/posts/shiny-side-of-llms-part-1/)
-
-+ [WebDev4R: Shiny Explained](https://albert-rapp.de/posts/web_dev/09_shiny_explained/09_shiny_explained)
-
-+ [quarto R package v1.5.0: Streamlined Workflows for R Users](https://quarto.org/docs/blog/posts/2025-07-28-r-package-release-1.5/)
-
-+ [Bridging Worlds: Enhancing R igraph with C Core Innovations](https://cynkra.com/blog/2025-07-16-igraph-isc-bridging-worlds/)
 
 ### R in the Real World
 
-+ [Shiny in Production 2025: Sponsors](https://www.jumpingrivers.com/blog/sip-2025-sponsors/)
 
-+ [Jonathan McPherson and the posit::conf(2025) Keynote Lineup](https://posit.co/blog/posit-conf-2025-keynotes/)
+
+### R in Organizations
+
+
+
+### R in Academia
+
+
+
+### Resources
+
+
 
 ### New Packages
 
@@ -52,37 +42,41 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
+**CRAN**
+
+
+
+**Bioconductor**
+
+
+
 **GitHub or Bitbucket**
 
-+ [{macrtools}](https://github.com/coatless-mac/macrtools)
 
-+ [igraph](https://github.com/igraph/igraph)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{happign} 0.3.5](https://cran.r-project.org/package=happign): R Interface to French Geospatiale data from 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
-
-+ [{pgnorm} 2.0.1](https://cran.r-project.org/package=pgnorm): The p-Generalized Normal Distribution - [diffify](https://diffify.com/R/pgnorm)
-+ [{likert} 1.3.5.1](https://cran.r-project.org/package=likert): Analysis and Visualization Likert Items - [diffify](https://diffify.com/R/likert)
-+ [{imager} 1.0.5](https://cran.r-project.org/package=imager): Image Processing Library Based on 'CImg' - [diffify](https://diffify.com/R/imager)
-+ [{googleLanguageR} 0.3.0.1](https://cran.r-project.org/package=googleLanguageR): Call Google's 'Natural Language' API, 'Cloud Translation' API,
-'Cloud Speech' API and 'Cloud Text-to-Speech' API - [diffify](https://diffify.com/R/googleLanguageR)
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-+ [New data science tools & old laptops on fire | Jenny Bryan | Data Science Hangout](https://www.youtube.com/watch?v=1c2k6qQ122Y)
 
-+ [Exploratory Data Analysis with R in Positron](https://www.youtube.com/watch?v=ndq2Mm3Dju8)
+### Gist & Cookbook
 
-+ [I wrote this talk with an LLM - Hadley Wickham (useR! 2025 Keynote 1)](https://www.youtube.com/live/ctc2kx3LxG8)
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
 
 ### Tutorials
 
-+ [How to Retrieve Row Numbers in R: Complete Guide with Base R, dplyr, and data.table Examples](https://www.spsanderson.com/steveondata/posts/2025-08-04/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -105,7 +99,11 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [posit::conf(2025) in Atlanta (Sept 16 - 18)](https://posit.co/conference/)
+### Grants & Funding
+
+
+### Datasets
+
 
 ### Connect
 
@@ -113,9 +111,5 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@nrennie/114986900010009175/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@nrennie/114986900010009175" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @nrennie@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
 
 ### Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1996, two academics from the University of Auckland, New Zealand, launched a new programming language.<br><br>25 years later, this language is one of the most widely used in the world.<br><br>Here&#39;s the story of R:<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/bGOnF1n3Ur">pic.twitter.com/bGOnF1n3Ur</a></p>&mdash; Yohan (@yohaniddawela) <a href="https://twitter.com/yohaniddawela/status/1953775720829726932?ref_src=twsrc%5Etfw">August 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
