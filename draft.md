@@ -11,9 +11,13 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
-
 ### Highlight
 
++ [I wrote this talk with an LLM - Hadley Wickham (useR! 2025 Keynote 1)](https://www.youtube.com/live/ctc2kx3LxG8)
+
++ [What’s R vector, Victor?](https://www.biobits.be/biofunctor/2025/07/30/what-s-r-vector-victor/)
+
++ [quarto R package v1.5.0: Streamlined Workflows for R Users](https://quarto.org/docs/blog/posts/2025-07-28-r-package-release-1.5/)
 
 
 ### Insights
@@ -32,13 +36,15 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [WebDev4R: Shiny Explained](https://albert-rapp.de/posts/web_dev/09_shiny_explained/09_shiny_explained)
 
++ [quarto R package v1.5.0: Streamlined Workflows for R Users](https://quarto.org/docs/blog/posts/2025-07-28-r-package-release-1.5/)
+
++ [Bridging Worlds: Enhancing R igraph with C Core Innovations](https://cynkra.com/blog/2025-07-16-igraph-isc-bridging-worlds/)
+
 ### R in the Real World
 
 + [Shiny in Production 2025: Sponsors](https://www.jumpingrivers.com/blog/sip-2025-sponsors/)
 
 + [Jonathan McPherson and the posit::conf(2025) Keynote Lineup](https://posit.co/blog/posit-conf-2025-keynotes/)
-
-+ [quarto R package v1.5.0: Streamlined Workflows for R Users](https://quarto.org/docs/blog/posts/2025-07-28-r-package-release-1.5/)
 
 ### New Packages
 
@@ -46,17 +52,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
-**CRAN**
-
-
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
++ [{macrtools}](https://github.com/coatless-mac/macrtools)
 
++ [igraph](https://github.com/igraph/igraph)
 
 ### Updated Packages
 
@@ -64,28 +64,21 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [{happign} 0.3.5](https://cran.r-project.org/package=happign): R Interface to French Geospatiale data from 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
 
++ [{pgnorm} 2.0.1](https://cran.r-project.org/package=pgnorm): The p-Generalized Normal Distribution - [diffify](https://diffify.com/R/pgnorm)
++ [{likert} 1.3.5.1](https://cran.r-project.org/package=likert): Analysis and Visualization Likert Items - [diffify](https://diffify.com/R/likert)
++ [{imager} 1.0.5](https://cran.r-project.org/package=imager): Image Processing Library Based on 'CImg' - [diffify](https://diffify.com/R/imager)
++ [{googleLanguageR} 0.3.0.1](https://cran.r-project.org/package=googleLanguageR): Call Google's 'Natural Language' API, 'Cloud Translation' API,
+'Cloud Speech' API and 'Cloud Text-to-Speech' API - [diffify](https://diffify.com/R/googleLanguageR)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
 
 + [New data science tools & old laptops on fire | Jenny Bryan | Data Science Hangout](https://www.youtube.com/watch?v=1c2k6qQ122Y)
 
 + [Exploratory Data Analysis with R in Positron](https://www.youtube.com/watch?v=ndq2Mm3Dju8)
 
 + [I wrote this talk with an LLM - Hadley Wickham (useR! 2025 Keynote 1)](https://www.youtube.com/live/ctc2kx3LxG8)
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -113,12 +106,6 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [posit::conf(2025) in Atlanta (Sept 16 - 18)](https://posit.co/conference/)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
