@@ -5,54 +5,46 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
-
-
 
 ### Insights
 
++ [The Pharma Leader's Reading List: 14 Resources for Busy Executives](https://www.appsilon.com/post/pharma-leaders-reading-list-14-resources)
 
++ [A Personal Message from an Open Source Contributor](https://pacha.dev/blog/2025/08/11/)
 
 ### R in the Real World
 
++ [Kyoto (京都), Japan, vs. Montréal, Canada, a first comparison](https://freakonometrics.hypotheses.org/83057)
 
++ [Announcing Positron, a new Data Science IDE](https://posit.co/blog/positron-product-announcement-aug-2025/)
+
++ [Managing Remote Database Connections from Quarto Documents](https://boyd.tarlinton.au/posts/remote_databases.html)
 
 ### R in Organizations
 
-
-
 ### R in Academia
-
-
 
 ### Resources
 
-
++ [C++ for R Users](https://pacha.dev/blog/2025/08/12/)
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
-
 
 **CRAN**
 
-
-
 **Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
-
++ [{shinytesters}: Updating Inputs in testServer](https://ashbaldry.github.io/2025-08-10-shinytesters-0-1-0-release/)
 
 ### Updated Packages
 
@@ -62,24 +54,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-
 ### Gist & Cookbook
-
 
 
 ### Shiny Apps
 
-
-
 ### R Internationally
-
-
 
 ### Tutorials
 
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
++ [Adding Shiny app’s parameters to the URL](https://pacha.dev/blog/2025/08/10/)
 
 ### R Project Updates
 
@@ -93,6 +79,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [RAG (Retrieval Augmented Generation) in R with ragnar workshop](https://r-posts.com/rag-retrieval-augmented-generation-in-r-with-ragnar-workshop/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
@@ -101,15 +89,12 @@ Events in 3 Months:
 
 ### Grants & Funding
 
-
 ### Datasets
-
 
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
-
 
 ### Quotes of the Week
