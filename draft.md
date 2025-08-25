@@ -39,6 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 - [{huxtable} 5.7.0](https://hughjonesd.github.io/huxtable)
+- [{osmdata} 0.3.0](https://cran.r-project.org/package=osmdata): Import 'OpenStreetMap' data from Overpass servers - [diffify](https://diffify.com/R/osmdata)
 
 ### Videos and Podcasts
 
