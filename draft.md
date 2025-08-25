@@ -13,6 +13,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Introducing g6R 0.1.0: a network widget for R.](https://cynkra.com/blog/2025-07-10-g6R)
+
 ### R in the Real World
 
 ### R in Organizations
