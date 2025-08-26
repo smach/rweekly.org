@@ -9,8 +9,11 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
-
 ### Highlight
+
++ [Introducing g6R 0.1.0: a network widget for R.](https://cynkra.com/blog/2025-07-10-g6R)
+
++ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
 
 ### Insights
 
@@ -41,6 +44,46 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 **CRAN**
 
++ [{rPublic} 1.0.0](https://cran.r-project.org/package=rPublic): 'Public Trading API'
+  
++ [{plotannotate} 1.4-0](https://cran.r-project.org/package=plotannotate): Annotate Plots
+  
++ [{CMTFtoolbox} 1.0.1](https://cran.r-project.org/package=CMTFtoolbox): Create (Advanced) Coupled Matrix and Tensor Factorization Models
+  
++ [{aRD} 0.1.0](https://cran.r-project.org/package=aRD): Adjusted Risk Differences via Specifically Penalized Likelihood
+  
++ [{senseweight} 0.0.1](https://cran.r-project.org/package=senseweight): Sensitivity Analysis for Weighted Estimators
+  
++ [{letsRept} 1.0.0](https://cran.r-project.org/package=letsRept): An Interface to the Reptile Database
+  
++ [{GRANDpriv} 0.1.3](https://cran.r-project.org/package=GRANDpriv): Graph Release with Assured Node Differential Privacy
+  
++ [{ecodive} 1.0.0](https://cran.r-project.org/package=ecodive): Parallel and Memory-Efficient Ecological Diversity Metrics
+  
++ [{verdadecu} 0.2.0](https://cran.r-project.org/package=verdadecu): Data from the Ecuador Truth Commission
+  
++ [{ggdiceplot} 0.1.0](https://cran.r-project.org/package=ggdiceplot): Dice Plot Visualization for 'ggplot2'
+  
++ [{rpgconn} 0.3.1](https://cran.r-project.org/package=rpgconn): User-Friendly PostgreSQL Connection Management
+  
++ [{PopPsiSeqR} 1.0.0](https://cran.r-project.org/package=PopPsiSeqR): Process and Visualize Evolve & Resequence Experiments
+  
++ [{Nematode} 0.2.0](https://cran.r-project.org/package=Nematode): Ecological Indices Calculator for Nematode Communities
+  
++ [{MOM} 0.1.0](https://cran.r-project.org/package=MOM): Estimation and Testing of Hypothesis
+  
++ [{metaSVR} 0.1.0](https://cran.r-project.org/package=metaSVR): Support Vector Regression with Metaheuristic Algorithms
+Optimization
+
++ [{CCI} 0.2.1](https://cran.r-project.org/package=CCI): Computational Test for Conditional Independence
+
++ [{gtregression} 1.0.0](https://cran.r-project.org/package=gtregression): Tools for Creating Publication-Ready Regression Tables
+
++ [{KSIC} 1.0.2](https://cran.r-project.org/package=KSIC): Korea Standard Industrial Classification (KSIC)
+  
++ [{csdb} 2025.7.30](https://cran.r-project.org/package=csdb): An Abstracted System for Easily Working with Databases with
+Large Datasets
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -57,10 +100,64 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [mall 0.2.0](https://blogs.rstudio.com/tensorflow/posts/2025-08-19-mall-0-2)
 
++ [{BayesianReasoning} 0.4.3](https://cran.r-project.org/package=BayesianReasoning): Plot Positive and Negative Predictive Values for Medical Tests - [diffify](https://diffify.com/R/BayesianReasoning)
+
++ [{GGally} 2.4.0](https://cran.r-project.org/package=GGally): Extension to 'ggplot2' - [diffify](https://diffify.com/R/GGally)
+  
++ [{nlmixr2plot} 3.0.3](https://cran.r-project.org/package=nlmixr2plot): Nonlinear Mixed Effects Models in Population PK/PD, Plot
+Functions - [diffify](https://diffify.com/R/nlmixr2plot)
+
++ [{demodelr} 2.0.0](https://cran.r-project.org/package=demodelr): Simulating Differential Equations with Data - [diffify](https://diffify.com/R/demodelr)
+  
++ [{starwarsdb} 0.1.3](https://cran.r-project.org/package=starwarsdb): Relational Data from the 'Star Wars' API for Learning and
+Teaching - [diffify](https://diffify.com/R/starwarsdb)
+
++ [{autograph} 0.2.0](https://cran.r-project.org/package=autograph): Automatic Plotting of Many Graphs - [diffify](https://diffify.com/R/autograph)
+
++ [{flowchart} 0.9.0](https://cran.r-project.org/package=flowchart): Tidy Flowchart Generator - [diffify](https://diffify.com/R/flowchart)
+  
++ [{shinyMixR} 0.5.2](https://cran.r-project.org/package=shinyMixR): Interactive 'shiny' Dashboard for 'nlmixr2' - [diffify](https://diffify.com/R/shinyMixR)
+  
++ [{tensorflow} 2.20.0](https://cran.r-project.org/package=tensorflow): R Interface to 'TensorFlow' - [diffify](https://diffify.com/R/tensorflow)
+
++ [{gtrendsR} 1.5.2](https://cran.r-project.org/package=gtrendsR): Perform and Display Google Trends Queries - [diffify](https://diffify.com/R/gtrendsR)
+
++ [{longevity} 1.2.2](https://cran.r-project.org/package=longevity): Statistical Methods for the Analysis of Excess Lifetimes - [diffify](https://diffify.com/R/longevity)
+
++ [{simplecolors} 0.1.3](https://cran.r-project.org/package=simplecolors): Access Color Names Using a Standardized Nomenclature - [diffify](https://diffify.com/R/simplecolors)
+  
++ [{tidyllm} 0.3.5](https://cran.r-project.org/package=tidyllm): Tidy Integration of Large Language Models - [diffify](https://diffify.com/R/tidyllm)
+
++ [{modeldata} 1.5.1](https://cran.r-project.org/package=modeldata): Data Sets Useful for Modeling Examples - [diffify](https://diffify.com/R/modeldata)
+  
++ [{ipaddress} 1.0.3](https://cran.r-project.org/package=ipaddress): Data Analysis for IP Addresses and Networks - [diffify](https://diffify.com/R/ipaddress)
+  
++ [{Certara.RsNLME} 3.1.0](https://cran.r-project.org/package=Certara.RsNLME): Pharmacometric Modeling - [diffify](https://diffify.com/R/Certara.RsNLME)
+
++ [{rdocdump} 0.1.1](https://cran.r-project.org/package=rdocdump): Dump 'R' Package Source, Documentation, and Vignettes into One
+File - [diffify](https://diffify.com/R/rdocdump)
+
++ [{ggtranslate} 0.1.1](https://cran.r-project.org/package=ggtranslate): A 'ggplot2' Extension for Translating Plot Text - [diffify](https://diffify.com/R/ggtranslate)
+
++ [{httk} 2.7.1](https://cran.r-project.org/package=httk): High-Throughput Toxicokinetics - [diffify](https://diffify.com/R/httk)
+  
++ [{xaringanthemer} 0.4.4](https://cran.r-project.org/package=xaringanthemer): Custom 'xaringan' CSS Themes - [diffify](https://diffify.com/R/xaringanthemer)
+
++ [{astsa} 2.3](https://cran.r-project.org/package=astsa): Applied Statistical Time Series Analysis - [diffify](https://diffify.com/R/astsa)
+
++ [{ironseed} 0.2.0](https://cran.r-project.org/package=ironseed): Improved Random Number Generator Seeding - [diffify](https://diffify.com/R/ironseed)
+  
++ [{BioStatR} 4.0.2](https://cran.r-project.org/package=BioStatR): Initiation à La Statistique Avec R - [diffify](https://diffify.com/R/BioStatR)
+  
++ [{NPP} 0.7.0](https://cran.r-project.org/package=NPP): Normalized Power Prior Bayesian Analysis - [diffify](https://diffify.com/R/NPP)
+
++ [{asht} 1.0.3](https://cran.r-project.org/package=asht): Applied Statistical Hypothesis Tests - [diffify](https://diffify.com/R/asht)
+  
++ [{utilityFunctionTools} 1.0](https://cran.r-project.org/package=utilityFunctionTools): P-Spline Regression for Utility Functions and Derived Measures - [diffify](https://diffify.com/R/utilityFunctionTools)
+
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
 
 ### Tutorials
 
