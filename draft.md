@@ -220,4 +220,14 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3lwwhpxmnhk2h" data-bluesky-cid="bafyreibvc5cjrjonpaa6pywnxtyypftejq3erfrumrl2wegap5b5d63dru" data-bluesky-embed-color-mode="system"><p lang="en">From code to canvas 🎨
+
+#RStats #Rtistry #GenerativeArt #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lwwhpxmnhk2h?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lwwhpxmnhk2h?ref_src=embed">August 21, 2025 at 6:29 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of ar-Russayfah, Jordan created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/h1mdjBvVWY">pic.twitter.com/h1mdjBvVWY</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1960222826801057918?ref_src=twsrc%5Etfw">August 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Quotes of the Week
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:afzvlfdykltfynplfwjoljq5/app.bsky.feed.post/3lwwolgfdt22f" data-bluesky-cid="bafyreihvs6umvl6oa2hs6m325v6vofelr32uzdjdqlzwxahjhcwldfypwi" data-bluesky-embed-color-mode="system"><p lang="en">#Quotes<br><br><a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5/post/3lwwolgfdt22f?ref_src=embed">[image or embed]</a></p>&mdash; m. (<a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5?ref_src=embed">@mrh2197.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5/post/3lwwolgfdt22f?ref_src=embed">August 21, 2025 at 8:31 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+
