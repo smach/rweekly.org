@@ -5,193 +5,81 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-- [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
-+ [Introducing g6R 0.1.0: a network widget for R.](https://cynkra.com/blog/2025-07-10-g6R)
 
-+ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
 
 ### Insights
 
-+ [Introducing g6R 0.1.0: a network widget for R.](https://cynkra.com/blog/2025-07-10-g6R)
-  
-+ [Little useless-useful R functions – Absurd converter with Markdown report](https://tomaztsql.wordpress.com/2025/08/17/little-useless-useful-r-functions-absurd-converter-with-markdown-report/)
-  
+
+
+### R in the Real World
+
+
 
 ### R in Organizations
 
-+ [How R Powers Cancer Research and Community Teaching in Austria](https://r-consortium.org/posts/how-r-powers-cancer-research-and-community-teaching-in-austria/)
-
-<img width="484" height="210" alt="Screenshot 2025-08-26 at 19 44 29" src="https://github.com/user-attachments/assets/933b12b1-45d6-4906-94d2-d83c9a9a2a09" />
-
-- [Announcing the 2025 Table and Plotnine Contests](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/)
-
-+ [R Loves Math: cpp11armadillo connects R with Armadillo C++ linear algebra library, prioritizes prioritize safety over speed](https://r-consortium.org/posts/r-loves-math-cpp11armadillo-connects-r-with-armadillo-cpp-linear-algebra-library-prioritizes-prioritize-safety-over-speed/)
-
-<img width="209" height="214" alt="Screenshot 2025-08-26 at 19 45 24" src="https://github.com/user-attachments/assets/7ffc4db3-595c-47e0-941b-7baea9a426ce" />
 
 
 ### R in Academia
 
-+ [Nonparametric serial interval estimation](https://statsandr.com/blog/nonparametric-serial-interval-estimation/)
+
+
+### Resources
+
 
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
+
 
 **CRAN**
 
-+ [{rPublic} 1.0.0](https://cran.r-project.org/package=rPublic): 'Public Trading API'
-  
-+ [{plotannotate} 1.4-0](https://cran.r-project.org/package=plotannotate): Annotate Plots
-  
-+ [{CMTFtoolbox} 1.0.1](https://cran.r-project.org/package=CMTFtoolbox): Create (Advanced) Coupled Matrix and Tensor Factorization Models
-  
-+ [{aRD} 0.1.0](https://cran.r-project.org/package=aRD): Adjusted Risk Differences via Specifically Penalized Likelihood
-  
-+ [{senseweight} 0.0.1](https://cran.r-project.org/package=senseweight): Sensitivity Analysis for Weighted Estimators
-  
-+ [{letsRept} 1.0.0](https://cran.r-project.org/package=letsRept): An Interface to the Reptile Database
-  
-+ [{GRANDpriv} 0.1.3](https://cran.r-project.org/package=GRANDpriv): Graph Release with Assured Node Differential Privacy
-  
-+ [{ecodive} 1.0.0](https://cran.r-project.org/package=ecodive): Parallel and Memory-Efficient Ecological Diversity Metrics
-  
-+ [{verdadecu} 0.2.0](https://cran.r-project.org/package=verdadecu): Data from the Ecuador Truth Commission
-  
-+ [{ggdiceplot} 0.1.0](https://cran.r-project.org/package=ggdiceplot): Dice Plot Visualization for 'ggplot2'
-  
-+ [{rpgconn} 0.3.1](https://cran.r-project.org/package=rpgconn): User-Friendly PostgreSQL Connection Management
-  
-+ [{PopPsiSeqR} 1.0.0](https://cran.r-project.org/package=PopPsiSeqR): Process and Visualize Evolve & Resequence Experiments
-  
-+ [{Nematode} 0.2.0](https://cran.r-project.org/package=Nematode): Ecological Indices Calculator for Nematode Communities
-  
-+ [{MOM} 0.1.0](https://cran.r-project.org/package=MOM): Estimation and Testing of Hypothesis
-  
-+ [{metaSVR} 0.1.0](https://cran.r-project.org/package=metaSVR): Support Vector Regression with Metaheuristic Algorithms
-Optimization
 
-+ [{CCI} 0.2.1](https://cran.r-project.org/package=CCI): Computational Test for Conditional Independence
 
-+ [{gtregression} 1.0.0](https://cran.r-project.org/package=gtregression): Tools for Creating Publication-Ready Regression Tables
+**Bioconductor**
 
-+ [{KSIC} 1.0.2](https://cran.r-project.org/package=KSIC): Korea Standard Industrial Classification (KSIC)
-  
-+ [{csdb} 2025.7.30](https://cran.r-project.org/package=csdb): An Abstracted System for Easily Working with Databases with
-Large Datasets
+
+
+**GitHub or Bitbucket**
+
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [x13binary 1.1.61.1 on CRAN: Micro Fix](http://dirk.eddelbuettel.com/blog/2025/08/20#x13binary_1.1.61.1)
-
-+ [RcppArmadillo 14.6.3-1 on CRAN: Minor Upstream Bug Fixes](http://dirk.eddelbuettel.com/blog/2025/08/20#rcpparmadillo_14.6.3-1)
-
-- [{huxtable} 5.7.0](https://hughjonesd.github.io/huxtable)
-  
-- [{osmdata} 0.3.0](https://cran.r-project.org/package=osmdata): Import 'OpenStreetMap' data from Overpass servers - [diffify](https://diffify.com/R/osmdata)
-
-- [ragnar 0.2](https://www.tidyverse.org/blog/2025/08/ragnar-0-2/)
-
-+ [mall 0.2.0](https://blogs.rstudio.com/tensorflow/posts/2025-08-19-mall-0-2)
-
-<img width="730" height="387" alt="Screenshot 2025-08-26 at 19 51 18" src="https://github.com/user-attachments/assets/483a5be1-62fb-4810-95ba-414318a7477b" />
-
-+ [{BayesianReasoning} 0.4.3](https://cran.r-project.org/package=BayesianReasoning): Plot Positive and Negative Predictive Values for Medical Tests - [diffify](https://diffify.com/R/BayesianReasoning)
-
-+ [{GGally} 2.4.0](https://cran.r-project.org/package=GGally): Extension to 'ggplot2' - [diffify](https://diffify.com/R/GGally)
-  
-+ [{nlmixr2plot} 3.0.3](https://cran.r-project.org/package=nlmixr2plot): Nonlinear Mixed Effects Models in Population PK/PD, Plot
-Functions - [diffify](https://diffify.com/R/nlmixr2plot)
-
-+ [{demodelr} 2.0.0](https://cran.r-project.org/package=demodelr): Simulating Differential Equations with Data - [diffify](https://diffify.com/R/demodelr)
-  
-+ [{starwarsdb} 0.1.3](https://cran.r-project.org/package=starwarsdb): Relational Data from the 'Star Wars' API for Learning and
-Teaching - [diffify](https://diffify.com/R/starwarsdb)
-
-+ [{autograph} 0.2.0](https://cran.r-project.org/package=autograph): Automatic Plotting of Many Graphs - [diffify](https://diffify.com/R/autograph)
-
-+ [{flowchart} 0.9.0](https://cran.r-project.org/package=flowchart): Tidy Flowchart Generator - [diffify](https://diffify.com/R/flowchart)
-  
-+ [{shinyMixR} 0.5.2](https://cran.r-project.org/package=shinyMixR): Interactive 'shiny' Dashboard for 'nlmixr2' - [diffify](https://diffify.com/R/shinyMixR)
-  
-+ [{tensorflow} 2.20.0](https://cran.r-project.org/package=tensorflow): R Interface to 'TensorFlow' - [diffify](https://diffify.com/R/tensorflow)
-
-+ [{gtrendsR} 1.5.2](https://cran.r-project.org/package=gtrendsR): Perform and Display Google Trends Queries - [diffify](https://diffify.com/R/gtrendsR)
-
-+ [{longevity} 1.2.2](https://cran.r-project.org/package=longevity): Statistical Methods for the Analysis of Excess Lifetimes - [diffify](https://diffify.com/R/longevity)
-
-+ [{simplecolors} 0.1.3](https://cran.r-project.org/package=simplecolors): Access Color Names Using a Standardized Nomenclature - [diffify](https://diffify.com/R/simplecolors)
-  
-+ [{tidyllm} 0.3.5](https://cran.r-project.org/package=tidyllm): Tidy Integration of Large Language Models - [diffify](https://diffify.com/R/tidyllm)
-
-+ [{modeldata} 1.5.1](https://cran.r-project.org/package=modeldata): Data Sets Useful for Modeling Examples - [diffify](https://diffify.com/R/modeldata)
-  
-+ [{ipaddress} 1.0.3](https://cran.r-project.org/package=ipaddress): Data Analysis for IP Addresses and Networks - [diffify](https://diffify.com/R/ipaddress)
-  
-+ [{Certara.RsNLME} 3.1.0](https://cran.r-project.org/package=Certara.RsNLME): Pharmacometric Modeling - [diffify](https://diffify.com/R/Certara.RsNLME)
-
-+ [{rdocdump} 0.1.1](https://cran.r-project.org/package=rdocdump): Dump 'R' Package Source, Documentation, and Vignettes into One
-File - [diffify](https://diffify.com/R/rdocdump)
-
-+ [{ggtranslate} 0.1.1](https://cran.r-project.org/package=ggtranslate): A 'ggplot2' Extension for Translating Plot Text - [diffify](https://diffify.com/R/ggtranslate)
-
-+ [{httk} 2.7.1](https://cran.r-project.org/package=httk): High-Throughput Toxicokinetics - [diffify](https://diffify.com/R/httk)
-  
-+ [{xaringanthemer} 0.4.4](https://cran.r-project.org/package=xaringanthemer): Custom 'xaringan' CSS Themes - [diffify](https://diffify.com/R/xaringanthemer)
-
-+ [{astsa} 2.3](https://cran.r-project.org/package=astsa): Applied Statistical Time Series Analysis - [diffify](https://diffify.com/R/astsa)
-
-+ [{ironseed} 0.2.0](https://cran.r-project.org/package=ironseed): Improved Random Number Generator Seeding - [diffify](https://diffify.com/R/ironseed)
-  
-+ [{BioStatR} 4.0.2](https://cran.r-project.org/package=BioStatR): Initiation à La Statistique Avec R - [diffify](https://diffify.com/R/BioStatR)
-  
-+ [{NPP} 0.7.0](https://cran.r-project.org/package=NPP): Normalized Power Prior Bayesian Analysis - [diffify](https://diffify.com/R/NPP)
-
-+ [{asht} 1.0.3](https://cran.r-project.org/package=asht): Applied Statistical Hypothesis Tests - [diffify](https://diffify.com/R/asht)
-  
-+ [{utilityFunctionTools} 1.0](https://cran.r-project.org/package=utilityFunctionTools): P-Spline Regression for Utility Functions and Derived Measures - [diffify](https://diffify.com/R/utilityFunctionTools)
-
 ### Videos and Podcasts
 
-- [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
++ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
+
+### Gist & Cookbook
+
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
 
 ### Tutorials
 
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
-
-+ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
-
-<img width="713" height="470" alt="Screenshot 2025-08-26 at 19 52 48" src="https://github.com/user-attachments/assets/d2bc11ae-8159-47e5-8435-3c45a6accad0" />
-
-+ [The birthday problem](https://r.iresmi.net/posts/2025/birthdays/)
-  
-+ [Men's domestic chores and fertility rates - Part II](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
-
-<img width="644" height="353" alt="Screenshot 2025-08-26 at 19 47 16" src="https://github.com/user-attachments/assets/1d25ca31-86a0-416d-8d1f-fa8f9f399ff8" />
-
-+ [Global Modeling with GluonTS DeepAR: Future of Semiconductors in the U.S.](https://datageeek.com/2025/08/17/global-modeling-with-gluonts-deepar-future-of-semiconductors-in-the-u-s/)
-
-<img width="679" height="454" alt="Screenshot 2025-08-26 at 19 52 02" src="https://github.com/user-attachments/assets/eb560e49-06e7-4c9b-9876-8990aadfc39a" />
-
-+ [Revolutionary RandomWalker Update: 23 New Functions Transform Stochastic Modeling in R](https://www.spsanderson.com/steveondata/posts/2025-08-19/)
-
-+ [How to Write Robust shinytest2 Tests for R Shiny Apps](https://jakubsobolewski.com/blog/robust-shinytest2)
-
-+ [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
-  
-+ [ANES 2024 is Out! How to Analyze the Data with R](https://rworks.dev/posts/anes2024/)
-
-<img width="827" height="590" alt="Screenshot 2025-08-26 at 19 54 32" src="https://github.com/user-attachments/assets/8ab6a144-f18f-475f-8e8e-48c09a661344" />
-
 
 ### R Project Updates
 
@@ -205,13 +93,16 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-- [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
-- [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-- [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
+### Grants & Funding
+
+
+### Datasets
 
 
 ### Connect
@@ -220,14 +111,5 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3lwwhpxmnhk2h" data-bluesky-cid="bafyreibvc5cjrjonpaa6pywnxtyypftejq3erfrumrl2wegap5b5d63dru" data-bluesky-embed-color-mode="system"><p lang="en">From code to canvas 🎨
-
-#RStats #Rtistry #GenerativeArt #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lwwhpxmnhk2h?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lwwhpxmnhk2h?ref_src=embed">August 21, 2025 at 6:29 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of ar-Russayfah, Jordan created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/h1mdjBvVWY">pic.twitter.com/h1mdjBvVWY</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1960222826801057918?ref_src=twsrc%5Etfw">August 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:afzvlfdykltfynplfwjoljq5/app.bsky.feed.post/3lwwolgfdt22f" data-bluesky-cid="bafyreihvs6umvl6oa2hs6m325v6vofelr32uzdjdqlzwxahjhcwldfypwi" data-bluesky-embed-color-mode="system"><p lang="en">#Quotes<br><br><a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5/post/3lwwolgfdt22f?ref_src=embed">[image or embed]</a></p>&mdash; m. (<a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5?ref_src=embed">@mrh2197.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:afzvlfdykltfynplfwjoljq5/post/3lwwolgfdt22f?ref_src=embed">August 21, 2025 at 8:31 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-
