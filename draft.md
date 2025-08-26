@@ -7,21 +7,32 @@ image: https://rweekly.org/public/facebook.png
 
 - [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
+
 
 ### Highlight
 
 ### Insights
 
 + [Introducing g6R 0.1.0: a network widget for R.](https://cynkra.com/blog/2025-07-10-g6R)
-
-### R in the Real World
+  
++ [Little useless-useful R functions – Absurd converter with Markdown report](https://tomaztsql.wordpress.com/2025/08/17/little-useless-useful-r-functions-absurd-converter-with-markdown-report/)
+  
 
 ### R in Organizations
 
+- [Announcing the 2025 Table and Plotnine Contests](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/)
+
++ [How R Powers Cancer Research and Community Teaching in Austria](https://r-consortium.org/posts/how-r-powers-cancer-research-and-community-teaching-in-austria/)
+
++ [R Loves Math: cpp11armadillo connects R with Armadillo C++ linear algebra library, prioritizes prioritize safety over speed](https://r-consortium.org/posts/r-loves-math-cpp11armadillo-connects-r-with-armadillo-cpp-linear-algebra-library-prioritizes-prioritize-safety-over-speed/)
+
++ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
+
 ### R in Academia
 
-### Resources
++ [Nonparametric serial interval estimation](https://statsandr.com/blog/nonparametric-serial-interval-estimation/)
+
 
 ### New Packages
 
@@ -30,30 +41,47 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-**Bioconductor**
-
-**GitHub or Bitbucket**
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [x13binary 1.1.61.1 on CRAN: Micro Fix](http://dirk.eddelbuettel.com/blog/2025/08/20#x13binary_1.1.61.1)
+
++ [RcppArmadillo 14.6.3-1 on CRAN: Minor Upstream Bug Fixes](http://dirk.eddelbuettel.com/blog/2025/08/20#rcpparmadillo_14.6.3-1)
+
 - [{huxtable} 5.7.0](https://hughjonesd.github.io/huxtable)
+  
 - [{osmdata} 0.3.0](https://cran.r-project.org/package=osmdata): Import 'OpenStreetMap' data from Overpass servers - [diffify](https://diffify.com/R/osmdata)
+
+- [ragnar 0.2](https://www.tidyverse.org/blog/2025/08/ragnar-0-2/)
+
++ [mall 0.2.0](https://blogs.rstudio.com/tensorflow/posts/2025-08-19-mall-0-2)
 
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-### Gist & Cookbook
-
-### Shiny Apps
-
-### R Internationally
 
 ### Tutorials
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
++ [The birthday problem](https://r.iresmi.net/posts/2025/birthdays/)
+  
++ [Men's domestic chores and fertility rates - Part II](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
+
++ [Global Modeling with GluonTS DeepAR: Future of Semiconductors in the U.S.](https://datageeek.com/2025/08/17/global-modeling-with-gluonts-deepar-future-of-semiconductors-in-the-u-s/)
+
++ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
+
++ [Revolutionary RandomWalker Update: 23 New Functions Transform Stochastic Modeling in R](https://www.spsanderson.com/steveondata/posts/2025-08-19/)
+
++ [How to Write Robust shinytest2 Tests for R Shiny Apps](https://jakubsobolewski.com/blog/robust-shinytest2)
+
++ [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
+  
++ [ANES 2024 is Out! How to Analyze the Data with R](https://rworks.dev/posts/anes2024/)
+
 
 ### R Project Updates
 
@@ -73,9 +101,6 @@ Events in 3 Months:
 
 - [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-### Datasets
 
 ### Connect
 
