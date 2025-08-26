@@ -24,13 +24,16 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### R in Organizations
 
-- [Announcing the 2025 Table and Plotnine Contests](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/)
-
 + [How R Powers Cancer Research and Community Teaching in Austria](https://r-consortium.org/posts/how-r-powers-cancer-research-and-community-teaching-in-austria/)
+
+<img width="484" height="210" alt="Screenshot 2025-08-26 at 19 44 29" src="https://github.com/user-attachments/assets/933b12b1-45d6-4906-94d2-d83c9a9a2a09" />
+
+- [Announcing the 2025 Table and Plotnine Contests](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/)
 
 + [R Loves Math: cpp11armadillo connects R with Armadillo C++ linear algebra library, prioritizes prioritize safety over speed](https://r-consortium.org/posts/r-loves-math-cpp11armadillo-connects-r-with-armadillo-cpp-linear-algebra-library-prioritizes-prioritize-safety-over-speed/)
 
-+ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
+<img width="209" height="214" alt="Screenshot 2025-08-26 at 19 45 24" src="https://github.com/user-attachments/assets/7ffc4db3-595c-47e0-941b-7baea9a426ce" />
+
 
 ### R in Academia
 
@@ -100,6 +103,8 @@ Large Datasets
 
 + [mall 0.2.0](https://blogs.rstudio.com/tensorflow/posts/2025-08-19-mall-0-2)
 
+<img width="730" height="387" alt="Screenshot 2025-08-26 at 19 51 18" src="https://github.com/user-attachments/assets/483a5be1-62fb-4810-95ba-414318a7477b" />
+
 + [{BayesianReasoning} 0.4.3](https://cran.r-project.org/package=BayesianReasoning): Plot Positive and Negative Predictive Values for Medical Tests - [diffify](https://diffify.com/R/BayesianReasoning)
 
 + [{GGally} 2.4.0](https://cran.r-project.org/package=GGally): Extension to 'ggplot2' - [diffify](https://diffify.com/R/GGally)
@@ -163,13 +168,19 @@ File - [diffify](https://diffify.com/R/rdocdump)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
++ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
+
+<img width="713" height="470" alt="Screenshot 2025-08-26 at 19 52 48" src="https://github.com/user-attachments/assets/d2bc11ae-8159-47e5-8435-3c45a6accad0" />
+
 + [The birthday problem](https://r.iresmi.net/posts/2025/birthdays/)
   
 + [Men's domestic chores and fertility rates - Part II](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
 
+<img width="644" height="353" alt="Screenshot 2025-08-26 at 19 47 16" src="https://github.com/user-attachments/assets/1d25ca31-86a0-416d-8d1f-fa8f9f399ff8" />
+
 + [Global Modeling with GluonTS DeepAR: Future of Semiconductors in the U.S.](https://datageeek.com/2025/08/17/global-modeling-with-gluonts-deepar-future-of-semiconductors-in-the-u-s/)
 
-+ [Introduction to Julia for R users](https://nrennie.rbind.io/blog/introduction-julia-r-users/)
+<img width="679" height="454" alt="Screenshot 2025-08-26 at 19 52 02" src="https://github.com/user-attachments/assets/eb560e49-06e7-4c9b-9876-8990aadfc39a" />
 
 + [Revolutionary RandomWalker Update: 23 New Functions Transform Stochastic Modeling in R](https://www.spsanderson.com/steveondata/posts/2025-08-19/)
 
@@ -178,6 +189,8 @@ File - [diffify](https://diffify.com/R/rdocdump)
 + [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
   
 + [ANES 2024 is Out! How to Analyze the Data with R](https://rworks.dev/posts/anes2024/)
+
+<img width="827" height="590" alt="Screenshot 2025-08-26 at 19 54 32" src="https://github.com/user-attachments/assets/8ab6a144-f18f-475f-8e8e-48c09a661344" />
 
 
 ### R Project Updates
@@ -197,6 +210,8 @@ Events in 3 Months:
 - [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 - [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
 
 
 ### Connect
