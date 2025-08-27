@@ -5,7 +5,10 @@
 
 get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
   stopifnot("feeds can not be missing" = !is.null(feeds))
-  res <- unlist(purrr::map(feeds, ~.get_rss_post(.x, since_days_ago = since_days_ago)))
+  res <- unlist(purrr::map(
+    feeds,
+    ~ .get_rss_post(.x, since_days_ago = since_days_ago)
+  ))
   cat(res, sep = "\n")
   invisible(res)
 }
@@ -39,12 +42,16 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
     if (all(is.na(all_posts$inferred_date))) return(NULL)
     "inferred_date"
   }
-  recent <- as.POSIXct(all_posts[[date_col]]) >= as.POSIXct(Sys.Date() - since_days_ago)
+  recent <- as.POSIXct(all_posts[[date_col]]) >=
+    as.POSIXct(Sys.Date() - since_days_ago)
   new_posts <- all_posts[recent, , drop = FALSE]
   new_posts <- new_posts[!is.na(new_posts[[url_col]]), , drop = FALSE]
   if (nrow(new_posts) == 0) return(NULL)
   # process atom slugs
-  if (all(startsWith(new_posts[[url_col]], "/")) && utils::hasName(new_posts, "item_guid")) {
+  if (
+    all(startsWith(new_posts[[url_col]], "/")) &&
+      utils::hasName(new_posts, "item_guid")
+  ) {
     new_posts[[url_col]] <- paste0(urltools::domain(feed), new_posts[[url_col]])
   }
   message("*** ", nrow(new_posts), " posts detected!")
