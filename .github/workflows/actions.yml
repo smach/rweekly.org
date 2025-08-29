@@ -27,6 +27,7 @@ jobs:
             any::tidyRSS
             any::urltools
             any::pkgsearch
+            any::RCurl
 
       - name: Check out repository
         uses: actions/checkout@v4
