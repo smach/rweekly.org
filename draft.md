@@ -18,19 +18,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Measuring LLM Effectiveness - Max Kuhn & Simon Couch (slides)](https://topepo.github.io/2025_NYR/#/title-slide)
 
++ [I was wrong about tidymodels and LLMs](https://www.simonpcouch.com/blog/2025-08-26-predictive/)
+
++ [Using OpenAI Codex in Positron](https://blog.stephenturner.us/p/codex-positron)
 
 ### R in the Real World
 
++ [Men's domestic chores and fertility rates - Part II, technical notes](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
 
++ [A guide to actuarial techniques in R and Python](https://posit.co/blog/actuarial-techniques-r-python/)
 
 ### R in Organizations
 
-
++ [Introducing multideploy: Streamline file deployments across multiple repositories](https://blog.thecoatlessprofessor.com/programming/r/introducing-multideploy-streamline-file-deployments-across-multiple-repositories/)
 
 ### R in Academia
 
-
++ [surveydown: An open-source, markdown-based platform for programmable and reproducible surveys](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331002)
 
 ### Resources
 
@@ -62,10 +68,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [25 Things You Didn't Know You Could Do with R - Cascadia R Conf, Keynote](https://www.youtube.com/watch?v=wrPrIRcOVr0)
+
++ [Advanced R: Vectors (Chapter 3 discussion) ](https://www.youtube.com/watch?v=HRL1EursTR8)
 
 ### Gist & Cookbook
 
-
++ []()
 
 ### Shiny Apps
 
@@ -77,7 +86,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Creating messy datasets for teaching purposes with {truffle}](https://mmmdata.io/posts/2025/08/creating-messy-datasets-for-teaching-purposes-with-truffle/)
 
++ [Sliding Calculations of Risks of Federal Reserve Rate Cuts](https://datageeek.com/2025/08/24/sliding-calculations-of-risks-of-federal-reserve-rate-cuts/)
+
++ [How to Finally Fix Your Tables in Typst PDFs (using {gt} tables)](https://albert-rapp.de/posts/37_gt_typst/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -113,3 +126,7 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+
+
+
