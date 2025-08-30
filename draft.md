@@ -24,6 +24,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using OpenAI Codex in Positron](https://blog.stephenturner.us/p/codex-positron)
 
+- [💸 R-Consortium ISC Grant Applications Open!📦](https://r-consortium.org/all-projects/callforproposals.html) — funding to build packages and technical infrastructure for the R community
+
+
 ### R in the Real World
 
 + [Men's domestic chores and fertility rates - Part II, technical notes](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
