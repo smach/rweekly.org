@@ -2,7 +2,6 @@
 
 + [Time Series Forecasting in Python](https://www.jumpingrivers.com/blog/time-series-forecasting-python-arima/)
 + [Spotify Stats and Real Estate Insights: R User Group Finland Builds Practical Projects](https://r-consortium.org/posts/spotify-stats-and-real-estate-insights-r-user-group-finland-builds-practical-projects/)
-+ [Men's domestic chores and fertility rates - Part II, technical notes by @ellis2013nz](https://freerangestats.info/blog/2025/08/23/timeuse-technical)
 + [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
 + [rOpenSci News Digest, August 2025](https://ropensci.org/blog/2025/08/28/news-august-2025/)
 + [Exploring Open Science, R Packages, and Research Software Development at the CSIDNet AGM 2025](https://ropensci.org/blog/2025/08/26/csidnet-agm-2025/)
@@ -20,6 +19,12 @@
 + [Announcing posit::conf(2025) Virtual Day, Sept 16th!](https://posit.co/blog/posit-conf-2025-virtual-day/)
 + [July 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/july-2025-top-40-new-cran-packages/)
 # CRANberries UPDATED: ##
++ [{easybio} 1.2.1](https://cran.r-project.org/package=easybio): Comprehensive Single-Cell Annotation and Transcriptomic Analysis
+Toolkit - [diffify](https://diffify.com/R/easybio)
++ [{QTE.RD} 1.2.0](https://cran.r-project.org/package=QTE.RD): Quantile Treatment Effects under the Regression Discontinuity
+Design - [diffify](https://diffify.com/R/QTE.RD)
++ [{pharmaverseraw} 0.1.1](https://cran.r-project.org/package=pharmaverseraw): Raw Data for 'pharmaversesdtm' Package - [diffify](https://diffify.com/R/pharmaverseraw)
++ [{orbital} 0.3.1](https://cran.r-project.org/package=orbital): Predict with 'tidymodels' Workflows in Databases - [diffify](https://diffify.com/R/orbital)
 + [{crane} 0.2.0](https://cran.r-project.org/package=crane): Supplements the 'gtsummary' Package for Pharmaceutical Reporting - [diffify](https://diffify.com/R/crane)
 + [{bidux} 0.3.0](https://cran.r-project.org/package=bidux): Behavior Insight Design: A Toolkit for Integrating Behavioral
 Science in UI/UX Design - [diffify](https://diffify.com/R/bidux)
@@ -266,10 +271,6 @@ Multidimensional R Arrays - [diffify](https://diffify.com/R/easyNCDF)
 + [{ggridges} 0.5.7](https://cran.r-project.org/package=ggridges): Ridgeline Plots in 'ggplot2' - [diffify](https://diffify.com/R/ggridges)
 + [{ggpattern} 1.2.1](https://cran.r-project.org/package=ggpattern): 'ggplot2' Pattern Geoms - [diffify](https://diffify.com/R/ggpattern)
 + [{feasts} 0.4.2](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series - [diffify](https://diffify.com/R/feasts)
-+ [{screenshot} 0.9.2](https://cran.r-project.org/package=screenshot): Take Screenshots (Screen Capture) from R Command - [diffify](https://diffify.com/R/screenshot)
-+ [{scitb} 0.2.2](https://cran.r-project.org/package=scitb): Provides Some Useful Functions for Making Statistical Tables - [diffify](https://diffify.com/R/scitb)
-+ [{MKMeans} 3.3](https://cran.r-project.org/package=MKMeans): A Modern K-Means (MKMeans) Clustering Algorithm - [diffify](https://diffify.com/R/MKMeans)
-+ [{exametrika} 1.6.1](https://cran.r-project.org/package=exametrika): Test Theory Analysis and Biclustering - [diffify](https://diffify.com/R/exametrika)
 # CRANberries NEW: ##
 + [{WSCdata} 0.1.0](https://cran.r-project.org/package=WSCdata): A New Four-Arm Within-Study Comparison Data on Math and
 Vocabulary Training
