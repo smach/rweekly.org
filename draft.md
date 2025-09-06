@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{gdalraster} 2.2.1](https://cran.r-project.org/package=gdalraster): Bindings to GDAL (Geospatial Data Abstraction Library) - [diffify](https://diffify.com/R/gdalraster)
+
 + [{mirai} 2.5.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R
 
 + [{nanonext} 1.7.0](https://cran.r-project.org/package=nanonext): R binding for Nanomsg Next Generation
