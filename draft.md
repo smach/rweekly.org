@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[How to Manually Simulate (Seasonal) Time Series in R](https://www.peterlicari.com/posts/simulate_ts_2025/) -- Looping through AR up through to SARIMAX series
 
 ### R in the Real World
 
