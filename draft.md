@@ -1,39 +1,43 @@
 ---
-layout: draft
 title: R Weekly 2025-W38
-description: Draft of the R Weekly
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jonathankitt.bsky.social), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
++ 
 
++ 
+
++ 
 
 ### Insights
 
-[How to Manually Simulate (Seasonal) Time Series in R](https://www.peterlicari.com/posts/simulate_ts_2025/) -- Looping through AR up through to SARIMAX series
++ [ggplot2 4.0.0](https://www.tidyverse.org/blog/2025/09/ggplot2-4-0-0/)
++ [Little useless-useful R functions – Markov babbler](https://tomaztsql.wordpress.com/2025/09/10/little-useless-useful-r-functions-markov-babbler/)
++ [R6 Interfaces For Backend: Define What, Not How](https://jakubsobolewski.com/blog/testable-r6-interfaces)
++ [TidyDensity Update](https://www.spsanderson.com/steveondata/posts/2025-09-08/)
++ [Migrating from RStudio to Positron](https://positron.posit.co/migrate-rstudio.html)
+![](https://positron.posit.co/images/user-interface-for-rstudio-migration.jpeg)
 
 ### R in the Real World
 
++ [Who We Are and What We Do: Inside Jumping Rivers](https://www.jumpingrivers.com/blog/inside-jumping-rivers/)
 
-
-### R in Organizations
-
-
-
-### R in Academia
-
-
++ [Bagged Neural Networks: Will Bayrou’s Fell Affect the STOXX 600 Index?](https://datageeek.com/2025/09/09/bagged-neural-networks-will-bayrous-resignation-affect-the-stoxx-600-index/)
 
 ### Resources
 
++ [Introduction the Art of Visualization with ggplot2](https://nrennie.rbind.io/blog/art-of-viz-book/)
+
++ [R consortium - Oracle R Distribution 4.4.1 Now Available with Enhanced Performance](https://r-consortium.org/posts/oracle-r-distribution-441-now-available-with-enhanced-performance/)
+
+![](https://r-consortium.org/posts/oracle-r-distribution-441-now-available-with-enhanced-performance/oracle-machine-learning-header.png)
 
 
 ### New Packages
@@ -41,42 +45,35 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
-**CRAN**
-
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{rsamplr} 0.1.1](https://cran.r-project.org/package=rsamplr): Sampling Algorithms and Spatially Balanced Sampling
++ [{ivolcano} 0.0.1](https://cran.r-project.org/package=ivolcano): Interactive Volcano Plot
++ [{workspace} 0.1.5](https://cran.r-project.org/package=workspace): Manage Collections of Datasets and Objects
++ [{GPflexViz} 1.0.0](https://cran.r-project.org/package=GPflexViz): Graphical Visualizations Related to Genomic Prediction
++ [{inshiny} 0.1.0](https://cran.r-project.org/package=inshiny): Compact Inline Widgets for 'shiny' Apps
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{ggstatsplot} 0.13.2](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
++ [{purrrlyr} 0.0.10](https://cran.r-project.org/package=purrrlyr): Tools at the Intersection of 'purrr' and 'dplyr' - [diffify](https://diffify.com/R/purrrlyr)
++ [{dbplyr} 2.5.1](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
++ [{rix} 0.17.2](https://cran.r-project.org/package=rix): Reproducible Data Science Environments with 'Nix' - [diffify](https://diffify.com/R/rix)
++ [{survivoR} 2.3.7](https://cran.r-project.org/package=survivoR): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
+
 ### Videos and Podcasts
 
-+ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
-
-### Gist & Cookbook
-
-
++ 
 
 ### Shiny Apps
 
-
-
-### R Internationally
-
-
++ 
 
 ### Tutorials
 
++ [Creating and managing Canvas quizzes with R/exams and vvcanvas](https://www.R-exams.org/tutorials/vvcanvas/)
+
++ [How to Manually Simulate (Seasonal) Time Series in R](https://www.peterlicari.com/posts/simulate_ts_2025/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -87,9 +84,19 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Call for Participation
 
-<blockquote class="mastodon-embed" data-embed-url="https://hachyderm.io/@rOpenSci/114162880770558405/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://hachyderm.io/@rOpenSci/114162880770558405" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @rOpenSci@hachyderm.io</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://hachyderm.io/" async src="https://hachyderm.io/embed.js"></script>
++ [Help Us Design a New Git(Hub) Organizational Dashboard](https://ropensci.org/blog/2025/09/11/repometrics-call-help/)
+
++ [R consortium call for proposals](https://r-consortium.org/all-projects/callforproposals.html)
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:dipimkebgc3f4w6skpb553jk/app.bsky.feed.post/3lylonrk6fs2f" data-bluesky-cid="bafyreigvuns5bujvnxhynzf7fjv3oeceoiecbls6vlrvlk2llftb7oelom" data-bluesky-embed-color-mode="system"><p lang="en">🚀 The R Consortium Technical Grants Call for Proposals is open until Oct 1, 2025!
+</script>
+
+
 
 ### Upcoming Events in 3 Months
+
++ [From a slow analysis script to a fast and structured program in R workshop](https://r-posts.com/from-a-slow-analysis-script-to-a-fast-and-structured-program-in-r-workshop/)
+
++ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
 
 Events in 3 Months:
 
@@ -99,11 +106,7 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
++ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
 
 ### Connect
 
@@ -111,5 +114,19 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3lyb3gjubmk24" data-bluesky-cid="bafyreidzrzpuocpvrracpcmpnhepfel6bhm6c4aaye76dctr2nf3gkutym" data-bluesky-embed-color-mode="system"><p lang="en">For this week&#x27;s #TidyTuesday, hex grid maps showing seasonal shifts in frog observations across Australia
+
+Code: github.com/gkaramanis/t...
+
+#RStats #dataviz<br><br><a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lyb3gjubmk24?ref_src=embed">[image or embed]</a></p>&mdash; Georgios Karamanis (<a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf?ref_src=embed">@karaman.is</a>) <a href="https://bsky.app/profile/did:plc:s5sz3q5ffbgcdymwohle4tmf/post/3lyb3gjubmk24?ref_src=embed">7 septembre 2025 à 18:13</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3lycvy3urq22o" data-bluesky-cid="bafyreifrpsjgior6zpxnvs7uifudiyqoiylmjjh6nm55unj5r2c56tgbcq" data-bluesky-embed-color-mode="system"><p lang="en">🎨
+
+#Rtistry #GenArtClub #RStats #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lycvy3urq22o?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3lycvy3urq22o?ref_src=embed">8 septembre 2025 à 11:40</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ctipukv4sf6gsvr2owg7tbbz/app.bsky.feed.post/3lylv7tx37fc2" data-bluesky-cid="bafyreifkmzjrvuebudbiy6d3swr73hal67xh62x2j3wk4ayuh3nlwshh54" data-bluesky-embed-color-mode="system"><p lang="en">Oh, boy, I has missed this positron feature. You can link your github account and access PR and issues directly from the IDE.
+
+#RStats<br><br><a href="https://bsky.app/profile/did:plc:ctipukv4sf6gsvr2owg7tbbz/post/3lylv7tx37fc2?ref_src=embed">[image or embed]</a></p>&mdash; Elio Campitelli (<a href="https://bsky.app/profile/did:plc:ctipukv4sf6gsvr2owg7tbbz?ref_src=embed">@eliocamp.mastodon.social.ap.brid.gy</a>) <a href="https://bsky.app/profile/did:plc:ctipukv4sf6gsvr2owg7tbbz/post/3lylv7tx37fc2?ref_src=embed">12 septembre 2025 à 01:21</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
