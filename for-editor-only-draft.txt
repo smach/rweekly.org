@@ -32,6 +32,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+### Tutorials
+
+
+
 ### Resources
 
 
@@ -72,10 +76,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R Internationally
-
-
-
-### Tutorials
 
 
 
