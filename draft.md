@@ -88,6 +88,10 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Introducing admiralneuro!](https://pharmaverse.github.io/blog/posts/2025-09-15-introducing.../introducing_admiralneuro.html)
 
++ [progressr 0.16.0 on CRAN: An Inclusive, Unifying API for Progress Updates](https://progressr.futureverse.org/)
+
++ [future.batchtools 0.21.0 on CRAN: Parallel and Distributed Processing via High-Performance-Compute (HPC) Job Schedulers](https://future.batchtools.futureverse.org/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
