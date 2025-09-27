@@ -62,6 +62,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [Survivor Australia vs. The World is now in {survivoR}](http://gradientdescending.com/survivor-australia-vs-the-world-is-now-in-survivor/)
+
++ [RcppSimdJson 0.1.14 on CRAN: New Upstream Major](http://dirk.eddelbuettel.com/blog/2025/09/14#rcppsimdjson_0.1.14)
+
++ [RcppSMC 0.2.9 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2025/09/09#rcppsmc_0.2.9)
+
++ [RcppArmadillo 15.0.2-1 on CRAN: New Upstream, Some Changes](http://dirk.eddelbuettel.com/blog/2025/09/08#rcpparmadillo_15.0.2-1)
+
++ [Introducing admiralneuro!](https://pharmaverse.github.io/blog/posts/2025-09-15-introducing.../introducing_admiralneuro.html)
+
++ [progressr 0.16.0 on CRAN: An Inclusive, Unifying API for Progress Updates](https://progressr.futureverse.org/)
+
++ [future.batchtools 0.21.0 on CRAN: Parallel and Distributed Processing via High-Performance-Compute (HPC) Job Schedulers](https://future.batchtools.futureverse.org/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
