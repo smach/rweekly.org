@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
-
++ [A Novel Analysis — Literally](https://www.quantumjitter.com/project/saowtu/) - Readability & lexical dispersion of a novella using quanteda, ggplot2 and gutenbergr.
 
 
 ### R in Organizations
