@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://bsky.app/profile/rpodcast.bsky.social), with help from the R Weekly team members and contributors.
 
 
 
@@ -25,11 +25,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [A Novel Analysis — Literally](https://www.quantumjitter.com/project/saowtu/) - Readability & lexical dispersion of a novella using quanteda, ggplot2 and gutenbergr.
-
-
-### R in Organizations
-
-
 
 ### R in Academia
 
@@ -81,6 +76,9 @@ Procedures for p Values
 
 + [{diegr} 0.1.0](https://cran.r-project.org/package=diegr): Dynamic and Interactive EEG Graphics
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/README-topoplot-1-resized.png)
+
+2025/W40/README-topoplot-1-resized.png
 + [{dtlg} 0.0.2](https://cran.r-project.org/package=dtlg): A Performance-Focused Package for Clinical Trial Tables
 
 + [{edgemodelr} 0.1.0](https://cran.r-project.org/package=edgemodelr): Local Language Model Inference
@@ -104,14 +102,11 @@ Modifications
 
 + [{DAGassist} 0.2.4](https://cran.r-project.org/package=DAGassist): Test Robustness with Directed Acyclic Graphs
 
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 + [blueycolors](https://github.com/ekholme/blueycolors/): Provides bluey-inspired color pallettes and ggplot2 scales
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/blueycolors-resized.png)
 
 ### Updated Packages
 
@@ -198,6 +193,9 @@ Priors - [diffify](https://diffify.com/R/GPTCM)
 
 + [{WeibullR.plotly} 0.3.2](https://cran.r-project.org/package=WeibullR.plotly): Interactive Weibull Probability Plots - [diffify](https://diffify.com/R/WeibullR.plotly)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/weibullR-resized.png)
+
+
 + [{gt} 1.1.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables - [diffify](https://diffify.com/R/gt)
 
 + [{dataspice} 1.1.1](https://cran.r-project.org/package=dataspice): Create Lightweight Schema.org Descriptions of Data - [diffify](https://diffify.com/R/dataspice)
@@ -210,23 +208,13 @@ Priors - [diffify](https://diffify.com/R/GPTCM)
 
 + [{networkR} 0.1.5](https://cran.r-project.org/package=networkR): Network Analysis and Visualization - [diffify](https://diffify.com/R/networkR)
 
-
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [The Shiny side of LLMs Part 3](https://shiny.posit.co/blog/posts/shiny-side-of-llms-part-3/)
-
-### R Internationally
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
