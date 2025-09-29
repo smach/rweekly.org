@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W40
+title: R Weekly 2025-W41
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,48 +8,37 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Eric Nantz](https://bsky.app/profile/rpodcast.bsky.social), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
 ### Highlight
 
+
+
 ### Insights
 
-+ [Ten year anniversary of Free Range Statistics by @ellis2013nz](https://freerangestats.info/blog/2025/09/24/ten-years)
 
-+ [A Gentle Introduction to Open Science](https://ropensci.org/blog/2025/09/23/gentle-openscience/)
-
-+ [Revamping the Shiny Dev Series Site](https://shinydevseries.com/blog/2025-09-21-revamp-site/)
 
 ### R in the Real World
 
-+ [A Novel Analysis — Literally](https://www.quantumjitter.com/project/saowtu/) - Readability & lexical dispersion of a novella using quanteda, ggplot2 and gutenbergr.
+
+
+### R in Organizations
+
+
 
 ### R in Academia
 
-+ [A Note on the Dirichlet Distribution](https://rworks.dev/posts/note-on-dirichlet/)
 
 
 ### Tutorials
 
-+ [Jumping in the Ducklake with nothing but R on](https://discindo.org/posts/2025-09-20-r-ducklake/)
 
-+ [Testing with {testthat}](https://www.jumpingrivers.com/blog/r-testthat/)
-
-+ [Combining any model with GARCH(1,1) for probabilistic stock forecasting](https://thierrymoudiki.github.io/blog/2025/09/23/r/ANYMODEL-plus-GARCH)
-
-+ [Generating Synthetic Data with R-vine Copulas using esgtoolkit in R](https://thierrymoudiki.github.io/blog/2025/09/21/r/synthetic-copulas)
-
-+ [How to Find the Max Value in Each Row in R](https://www.spsanderson.com/steveondata/posts/2025-09-22/)
-
-+ [Clean R Tests with `local_mocked_bindings` and Dependency Wrapping](https://jakubsobolewski.com/blog/clean-tests-with-local_mocked_bindings)
-
-+ [T test in R](https://www.codingthepast.com/2025/09/21/T-Test-in-R.html)
 
 ### Resources
 
-+ [Slidecrafting - Making beautiful slides with reveal.js and Quarto](https://slidecrafting-book.com/)
+
 
 ### New Packages
 
@@ -59,162 +48,36 @@ This week’s release was curated by [Eric Nantz](https://bsky.app/profile/rpodc
 
 **CRAN**
 
-+ [plumber2 0.1.0](https://www.tidyverse.org/blog/2025/09/plumber2-0-1-0/)
 
-+ [shinystate 0.1.0 is available on CRAN!](https://shinydevseries.com/blog/2025-09-24-shinystate-cran/)
 
-+ [rcppmlpackexamples 0.0.1 on CRAN: New Package](http://dirk.eddelbuettel.com/blog/2025/09/21#rcppmlpackexamples_0.0.1)
+**Bioconductor**
 
-+ [{gglyph} 0.2.0](https://cran.r-project.org/package=gglyph): Network-Style Visualization of Directed Pairwise Relationships
 
-+ [{elixir} 0.1.0](https://cran.r-project.org/package=elixir): Transmutation of Languages
-
-+ [{containr} 0.1.1](https://cran.r-project.org/package=containr): Containerize Your 'R' Project
-
-+ [{bnpMTP} 1.0.0](https://cran.r-project.org/package=bnpMTP): Bayesian Nonparametric Sensitivity Analysis of Multiple Testing
-Procedures for p Values
-
-+ [{diegr} 0.1.0](https://cran.r-project.org/package=diegr): Dynamic and Interactive EEG Graphics
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/README-topoplot-1-resized.png)
-
-2025/W40/README-topoplot-1-resized.png
-+ [{dtlg} 0.0.2](https://cran.r-project.org/package=dtlg): A Performance-Focused Package for Clinical Trial Tables
-
-+ [{edgemodelr} 0.1.0](https://cran.r-project.org/package=edgemodelr): Local Language Model Inference
-
-+ [{PortfolioTesteR} 0.1.1](https://cran.r-project.org/package=PortfolioTesteR): Test Investment Strategies with English-Like Code
-
-+ [{player} 0.1.0](https://cran.r-project.org/package=player): Play Games in the Console
-
-+ [{screenshotbase} 0.1.0](https://cran.r-project.org/package=screenshotbase): Client for the 'Screenshotbase' API
-
-+ [{piecemeal} 0.1.0](https://cran.r-project.org/package=piecemeal): Wrangle Large Simulation Studies
-
-+ [{linkeR} 0.1.2](https://cran.r-project.org/package=linkeR): Link Interactive Plots and Tables in 'shiny' Applications
-
-+ [{modelSelection} 1.0.3](https://cran.r-project.org/package=modelSelection): High-Dimensional Model Selection
-
-+ [{glioblastomaEHRsData} 0.1.0](https://cran.r-project.org/package=glioblastomaEHRsData): Descriptive Analysis on 3 EHRs Datasets
-
-+ [{ggDNAvis} 0.2.1](https://cran.r-project.org/package=ggDNAvis): 'ggplot2'-Based Tools for Visualising DNA Sequences and
-Modifications
-
-+ [{DAGassist} 0.2.4](https://cran.r-project.org/package=DAGassist): Test Robustness with Directed Acyclic Graphs
 
 **GitHub or Bitbucket**
 
-+ [blueycolors](https://github.com/ekholme/blueycolors/): Provides bluey-inspired color pallettes and ggplot2 scales
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/blueycolors-resized.png)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [progressr 0.16.0 on CRAN: An Inclusive, Unifying API for Progress Updates](https://progressr.futureverse.org/)
-
-+ [future.batchtools 0.21.0 on CRAN: Parallel and Distributed Processing via High-Performance-Compute (HPC) Job Schedulers](https://future.batchtools.futureverse.org/)
-
-+ [tint 0.1.6 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2025/09/25#tint_0.1.6)
-
-+ [ggsci 4.0.0](https://nanx.me/blog/post/ggsci-4-0-0/): 400+ new color palettes
-
-+ [{V8} 7.0.0](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
-
-+ [{SqlRender} 1.19.4](https://cran.r-project.org/package=SqlRender): Rendering Parameterized SQL and Translation to Dialects - [diffify](https://diffify.com/R/SqlRender)
-
-+ [{papaja} 0.1.4](https://cran.r-project.org/package=papaja): Prepare American Psychological Association Journal Articles with R Markdown - [diffify](https://diffify.com/R/papaja)
-
-+ [{fuzzySim} 4.36](https://cran.r-project.org/package=fuzzySim): Fuzzy Similarity in Species Distributions - [diffify](https://diffify.com/R/fuzzySim)
-
-+ [{CausalImpact} 1.4.1](https://cran.r-project.org/package=CausalImpact): Inferring Causal Effects using Bayesian Structural Time-Series Models - [diffify](https://diffify.com/R/CausalImpact)
-
-+ [{Analitica} 1.8.5](https://cran.r-project.org/package=Analitica): Exploratory Data Analysis, Group Comparison Tools, and Other Procedures - [diffify](https://diffify.com/R/Analitica)
-
-+ [{tabxplor} 1.3.1](https://cran.r-project.org/package=tabxplor): User-Friendly Tables with Color Helpers for Data Exploration - [diffify](https://diffify.com/R/tabxplor)
-
-+ [{survAUC} 1.4-0](https://cran.r-project.org/package=survAUC): Estimators of Prediction Accuracy for Time-to-Event Data - [diffify](https://diffify.com/R/survAUC)
-
-+ [{simStateSpace} 1.2.11](https://cran.r-project.org/package=simStateSpace): Simulate Data from State Space Models - [diffify](https://diffify.com/R/simStateSpace)
-
-+ [{rio} 1.2.4](https://cran.r-project.org/package=rio): A Swiss-Army Knife for Data I/O - [diffify](https://diffify.com/R/rio)
-
-+ [{plspm} 0.6.0](https://cran.r-project.org/package=plspm): Partial Least Squares Path Modeling (PLS-PM) - [diffify](https://diffify.com/R/plspm)
-
-+ [{NNS} 11.6](https://cran.r-project.org/package=NNS): Nonlinear Nonparametric Statistics - [diffify](https://diffify.com/R/NNS)
-
-+ [{neonUtilities} 3.0.2](https://cran.r-project.org/package=neonUtilities): Utilities for Working with NEON Data - [diffify](https://diffify.com/R/neonUtilities)
-
-+ [{dexter} 1.7.0](https://cran.r-project.org/package=dexter): Data Management and Analysis of Tests - [diffify](https://diffify.com/R/dexter)
-
-+ [{rly} 1.7.7](https://cran.r-project.org/package=rly): Tools to Create Formal Language Parser - [diffify](https://diffify.com/R/rly)
-
-+ [{ArchaeoPhases} 2.1.0](https://cran.r-project.org/package=ArchaeoPhases): Post-Processing of Markov Chain Monte Carlo Simulations for Chronological Modelling - [diffify](https://diffify.com/R/ArchaeoPhases)
-
-+ [{eye} 1.3.0](https://cran.r-project.org/package=eye): Analysis of Eye Data - [diffify](https://diffify.com/R/eye)
-
-+ [{FlexRL} 0.1.1](https://cran.r-project.org/package=FlexRL): A Flexible Model for Record Linkage - [diffify](https://diffify.com/R/FlexRL)
-
-+ [{statConfR} 0.2.1](https://cran.r-project.org/package=statConfR): Models of Decision Confidence and Measures of Metacognition - [diffify](https://diffify.com/R/statConfR)
-
-+ [{microsimulation} 1.4.5](https://cran.r-project.org/package=microsimulation): Discrete Event Simulation in R and C++, with Tools for Cost-Effectiveness Analysis - [diffify](https://diffify.com/R/microsimulation)
-
-+ [{dscore} 1.11.0](https://cran.r-project.org/package=dscore): D-Score for Child Development - [diffify](https://diffify.com/R/dscore)
-
-+ [{plsdepot} 0.3.0](https://cran.r-project.org/package=plsdepot): Partial Least Squares (PLS) Data Analysis Methods - [diffify](https://diffify.com/R/plsdepot)
-
-+ [{GPTCM} 1.1.2](https://cran.r-project.org/package=GPTCM): Generalized Promotion Time Cure Model with Bayesian Shrinkage
-Priors - [diffify](https://diffify.com/R/GPTCM)
-
-+ [{TrialSimulator} 1.3.0](https://cran.r-project.org/package=TrialSimulator): Clinical Trial Simulator - [diffify](https://diffify.com/R/TrialSimulator)
-
-+ [{metacor} 1.2.0](https://cran.r-project.org/package=metacor): Meta-Analytic Effect Size Calculation for Pre-Post Designs with Correlation Imputation - [diffify](https://diffify.com/R/metacor)
-
-+ [{tint} 0.1.6](https://cran.r-project.org/package=tint): 'tint' is not 'Tufte' - [diffify](https://diffify.com/R/tint)
-
-+ [{siera} 0.5.4](https://cran.r-project.org/package=siera): Generate Analysis Results Programmes Using ARS Metadata - [diffify](https://diffify.com/R/siera)
-
-+ [{inTextSummaryTable} 3.3.5](https://cran.r-project.org/package=inTextSummaryTable): Creation of in-Text Summary Table - [diffify](https://diffify.com/R/inTextSummaryTable)
-
-+ [{autoslider.core} 0.3.1](https://cran.r-project.org/package=autoslider.core): Slide Automation for Tables, Listings and Figures - [diffify](https://diffify.com/R/autoslider.core)
-
-+ [{forcats} 1.0.1](https://cran.r-project.org/package=forcats): Tools for Working with Categorical Variables (Factors) - [diffify](https://diffify.com/R/forcats)
-
-+ [{planr} 0.6.1](https://cran.r-project.org/package=planr): Tools for Supply Chain Management, Demand and Supply Planning - [diffify](https://diffify.com/R/planr)
-
-+ [{ronfig} 0.0.3](https://cran.r-project.org/package=ronfig): Load Configuration Values - [diffify](https://diffify.com/R/ronfig)
-
-+ [{nanoarrow} 0.7.0-1](https://cran.r-project.org/package=nanoarrow): Interface to the 'nanoarrow' 'C' Library - [diffify](https://diffify.com/R/nanoarrow)
-
-+ [{ggcompare} 0.0.5](https://cran.r-project.org/package=ggcompare): Mean Comparison in 'ggplot2' - [diffify](https://diffify.com/R/ggcompare)
-
-+ [{extrafont} 0.20](https://cran.r-project.org/package=extrafont): Tools for Using Fonts - [diffify](https://diffify.com/R/extrafont)
-
-+ [{WeibullR.plotly} 0.3.2](https://cran.r-project.org/package=WeibullR.plotly): Interactive Weibull Probability Plots - [diffify](https://diffify.com/R/WeibullR.plotly)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2025/W40/weibullR-resized.png)
-
-
-+ [{gt} 1.1.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables - [diffify](https://diffify.com/R/gt)
-
-+ [{dataspice} 1.1.1](https://cran.r-project.org/package=dataspice): Create Lightweight Schema.org Descriptions of Data - [diffify](https://diffify.com/R/dataspice)
-
-+ [{waiter} 0.2.5.1](https://cran.r-project.org/package=waiter): Loading Screen for 'Shiny' - [diffify](https://diffify.com/R/waiter)
-
-+ [{DatabaseConnector} 7.0.0](https://cran.r-project.org/package=DatabaseConnector): Connecting to Various Database Platforms - [diffify](https://diffify.com/R/DatabaseConnector)
-
-+ [{fastplyr} 0.9.9](https://cran.r-project.org/package=fastplyr): Fast Alternatives to 'tidyverse' Functions - [diffify](https://diffify.com/R/fastplyr)
-
-+ [{networkR} 0.1.5](https://cran.r-project.org/package=networkR): Network Analysis and Visualization - [diffify](https://diffify.com/R/networkR)
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
+
+### Gist & Cookbook
+
+
+
 ### Shiny Apps
 
-+ [The Shiny side of LLMs Part 3](https://shiny.posit.co/blog/posts/shiny-side-of-llms-part-3/)
+
+
+### R Internationally
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -229,14 +92,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
-
-+ [Bayesian Optimization for Sequential Decisions with Multi-Arm Bandits](https://r-posts.com/bayesian-optimization-for-sequential-decisions-with-multi-arm-bandits/)
-
-+ [Release party for ggplot2 4.0.0](https://bit.ly/join-gg-extenders)
-
-+ [How to use pointblank to understand, validate, and document your data](https://r-consortium.org/webinars/how-to-use-pointblank-to-understand-validate-and-document-your-data.html)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -258,7 +113,3 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:epgc4meeiie56auktjjbi4zf/app.bsky.feed.post/3lzrvolombk2c" data-bluesky-cid="bafyreibkgyfqtramrfvdsudaanpx65rioyhziqu2mjcuqvodzckxb6mxre" data-bluesky-embed-color-mode="system"><p lang="en">Positron running on a small Raspberry Pi CM5 computer (Hackberry pi). Why am I compelled to do things like this? #rstats #python #quartopub<br><br><a href="https://bsky.app/profile/did:plc:epgc4meeiie56auktjjbi4zf/post/3lzrvolombk2c?ref_src=embed">[image or embed]</a></p>&mdash; Ted Laderas (<a href="https://bsky.app/profile/did:plc:epgc4meeiie56auktjjbi4zf?ref_src=embed">@tladeras.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:epgc4meeiie56auktjjbi4zf/post/3lzrvolombk2c?ref_src=embed">September 26, 2025 at 10:10 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@dgkf/115257407439842271/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@dgkf/115257407439842271" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @dgkf@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
