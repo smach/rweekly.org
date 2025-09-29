@@ -18,7 +18,24 @@
 + [2025-09-26 AI Newsletter](https://posit.co/blog/2025-09-26-ai-newsletter/)
 + [A Note on the Dirichlet Distribution](https://rworks.dev/posts/note-on-dirichlet/)
 # CRANberries UPDATED: ##
-+ [{V8} 7.0.0](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
++ [{structSSI} 1.2.0](https://cran.r-project.org/package=structSSI): Multiple Testing for Hypotheses with Hierarchical or Group
+Structure - [diffify](https://diffify.com/R/structSSI)
++ [{galisats} 2.2.0](https://cran.r-project.org/package=galisats): Configuration of Jupiter's Four Largest Satellites - [diffify](https://diffify.com/R/galisats)
++ [{checkdown} 0.0.13](https://cran.r-project.org/package=checkdown): Check-Fields and Check-Boxes for 'rmarkdown' - [diffify](https://diffify.com/R/checkdown)
++ [{cIRT} 1.3.3](https://cran.r-project.org/package=cIRT): Choice Item Response Theory - [diffify](https://diffify.com/R/cIRT)
++ [{rrum} 0.2.2](https://cran.r-project.org/package=rrum): Bayesian Estimation of the Reduced Reparameterized Unified Model
+with Gibbs Sampling - [diffify](https://diffify.com/R/rrum)
++ [{ohoegdm} 0.1.1](https://cran.r-project.org/package=ohoegdm): Ordinal Higher-Order Exploratory General Diagnostic Model for
+Polytomous Data - [diffify](https://diffify.com/R/ohoegdm)
++ [{edina} 0.1.2](https://cran.r-project.org/package=edina): Bayesian Estimation of an Exploratory Deterministic Input, Noisy
+and Gate Model - [diffify](https://diffify.com/R/edina)
++ [{agena.ai} 1.1.2](https://cran.r-project.org/package=agena.ai): R Wrapper for 'agena.ai' API - [diffify](https://diffify.com/R/agena.ai)
++ [{terra} 1.8-70](https://cran.r-project.org/package=terra): Spatial Data Analysis - [diffify](https://diffify.com/R/terra)
++ [{soilDB} 2.8.13](https://cran.r-project.org/package=soilDB): Soil Database Interface - [diffify](https://diffify.com/R/soilDB)
++ [{MRMCaov} 0.3.1](https://cran.r-project.org/package=MRMCaov): Multi-Reader Multi-Case Analysis of Variance - [diffify](https://diffify.com/R/MRMCaov)
++ [{liver} 1.22](https://cran.r-project.org/package=liver): Foundations Toolkit and Datasets for Data Science - [diffify](https://diffify.com/R/liver)
++ [{archeofrag} 1.2.3](https://cran.r-project.org/package=archeofrag): Spatial Analysis in Archaeology from Refitting Fragments - [diffify](https://diffify.com/R/archeofrag)
++ [{V8} 8.0.0](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
 + [{SqlRender} 1.19.4](https://cran.r-project.org/package=SqlRender): Rendering Parameterized SQL and Translation to Dialects - [diffify](https://diffify.com/R/SqlRender)
 + [{SIMPLE.REGRESSION} 0.2.7](https://cran.r-project.org/package=SIMPLE.REGRESSION): OLS, Moderated, Logistic, and Count Regressions Made Simple - [diffify](https://diffify.com/R/SIMPLE.REGRESSION)
 + [{Rttf2pt1} 1.3.14](https://cran.r-project.org/package=Rttf2pt1): 'ttf2pt1' Program - [diffify](https://diffify.com/R/Rttf2pt1)
@@ -30,7 +47,7 @@ R Markdown - [diffify](https://diffify.com/R/papaja)
 + [{CausalImpact} 1.4.1](https://cran.r-project.org/package=CausalImpact): Inferring Causal Effects using Bayesian Structural Time-Series
 Models - [diffify](https://diffify.com/R/CausalImpact)
 + [{blosc} 0.1.2](https://cran.r-project.org/package=blosc): Compress and Decompress Data Using the 'BLOSC' Library - [diffify](https://diffify.com/R/blosc)
-+ [{Analitica} 1.8.5](https://cran.r-project.org/package=Analitica): Exploratory Data Analysis, Group Comparison Tools, and Other
++ [{Analitica} 2.0.0](https://cran.r-project.org/package=Analitica): Exploratory Data Analysis, Group Comparison Tools, and Other
 Procedures - [diffify](https://diffify.com/R/Analitica)
 + [{unmarked} 1.5.1](https://cran.r-project.org/package=unmarked): Models for Data from Unmarked Animals - [diffify](https://diffify.com/R/unmarked)
 + [{tabxplor} 1.3.1](https://cran.r-project.org/package=tabxplor): User-Friendly Tables with Color Helpers for Data Exploration - [diffify](https://diffify.com/R/tabxplor)
@@ -237,22 +254,12 @@ Analysis - [diffify](https://diffify.com/R/afmToolkit)
 + [{RiemBase} 0.2.6](https://cran.r-project.org/package=RiemBase): Functions and C++ Header Files for Computation on Manifolds - [diffify](https://diffify.com/R/RiemBase)
 + [{PowerTOST} 1.5-7](https://cran.r-project.org/package=PowerTOST): Power and Sample Size for (Bio)Equivalence Studies - [diffify](https://diffify.com/R/PowerTOST)
 + [{fastplyr} 0.9.9](https://cran.r-project.org/package=fastplyr): Fast Alternatives to 'tidyverse' Functions - [diffify](https://diffify.com/R/fastplyr)
-+ [{ExtDist} 0.7-4](https://cran.r-project.org/package=ExtDist): Extending the Range of Functions for Probability Distributions - [diffify](https://diffify.com/R/ExtDist)
-+ [{DIZtools} 1.0.3](https://cran.r-project.org/package=DIZtools): Lightweight Utilities for 'DIZ' R Package Development - [diffify](https://diffify.com/R/DIZtools)
-+ [{rtiddlywiki} 0.5.0](https://cran.r-project.org/package=rtiddlywiki): R Interface for 'TiddlyWiki' - [diffify](https://diffify.com/R/rtiddlywiki)
-+ [{quollr} 0.3.13](https://cran.r-project.org/package=quollr): Visualising How Nonlinear Dimension Reduction Warps Your Data - [diffify](https://diffify.com/R/quollr)
-+ [{plotthis} 0.8.0](https://cran.r-project.org/package=plotthis): High-Level Plotting Built Upon 'ggplot2' and Other Plotting
-Packages - [diffify](https://diffify.com/R/plotthis)
-+ [{networkR} 0.1.5](https://cran.r-project.org/package=networkR): Network Analysis and Visualization - [diffify](https://diffify.com/R/networkR)
-+ [{coda.plot} 0.1.10](https://cran.r-project.org/package=coda.plot): Plots for Compositional Data - [diffify](https://diffify.com/R/coda.plot)
-+ [{ArctosR} 0.1.3](https://cran.r-project.org/package=ArctosR): An Interface to the 'Arctos' Database - [diffify](https://diffify.com/R/ArctosR)
-+ [{matchingR} 2.0.0](https://cran.r-project.org/package=matchingR): Matching Algorithms in R and C++ - [diffify](https://diffify.com/R/matchingR)
-+ [{ggsci} 4.0.0](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
-'ggplot2' - [diffify](https://diffify.com/R/ggsci)
-+ [{geosimilarity} 3.8](https://cran.r-project.org/package=geosimilarity): Geographically Optimal Similarity - [diffify](https://diffify.com/R/geosimilarity)
-+ [{rapsimng} 0.4.5](https://cran.r-project.org/package=rapsimng): APSIM Next Generation - [diffify](https://diffify.com/R/rapsimng)
-+ [{smile} 1.1.0](https://cran.r-project.org/package=smile): Spatial Misalignment: Interpolation, Linkage, and Estimation - [diffify](https://diffify.com/R/smile)
 # CRANberries NEW: ##
++ [{spuriouscorrelations} 0.1](https://cran.r-project.org/package=spuriouscorrelations): Datasets with Strong and Spurious Correlations
++ [{ppks} 1.0](https://cran.r-project.org/package=ppks): Permutation Based Paired Kolmogorov-Smirnov Test
++ [{DEmixR} 0.1.1](https://cran.r-project.org/package=DEmixR): Fit Two-Component Normal and Lognormal Mixture Models
++ [{BioWorldR} 0.1.0](https://cran.r-project.org/package=BioWorldR): A Curated Collection of Biodiversity and Species Datasets and
+Utilities
 + [{SVAlignR} 0.9.2](https://cran.r-project.org/package=SVAlignR): Recovering Structure of Long Molecules from Structural Variation
 Data
 + [{gglyph} 0.2.0](https://cran.r-project.org/package=gglyph): Network-Style Visualization of Directed Pairwise Relationships
