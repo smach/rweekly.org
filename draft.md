@@ -5,79 +5,78 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+- [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
-
-
 
 ### Insights
 
+- [Iterating some sample data](https://kieranhealy.org/blog/archives/2025/10/03/iterating-some-sample-data/)
 
+- [Exploring ggbot2: Creating a volcano plot with your voice](https://tomsing1.github.io/blog/posts/ggbot2/)
+
+- [The Cadence of Behavior-Driven Development](https://jakubsobolewski.com/blog/bdd-cadence)
 
 ### R in the Real World
 
+- [The Sovereign Tech Fund invests $450,000 in R Foundation to Enhance R’s Sustainability and Security](https://r-consortium.org/posts/sovereign-tech-fund-invests-450000-in-r-foundation-to-enhance-r-sustainability-and-security/)
 
+- [rOpenSci Code of Conduct Committee Templates](https://ropensci.org/blog/2025/09/30/coc-templates/)
+
+- [rOpenSci News Digest, September 2025](https://ropensci.org/blog/2025/09/29/news-september-2025/)
+
+- [R-multiverse: a new way to publish R packages](https://ropensci.org/commcalls/r-multiverse/)
+
+- [Uncertainty Analysis: Gold vs. Bitcoin](https://datageeek.com/2025/09/29/uncertainty-analysis-gold-vs-bitcoin/)
 
 ### R in Organizations
 
-
-
 ### R in Academia
-
-
 
 ### Tutorials
 
+- [#052: Running r-ci with Coverage](http://dirk.eddelbuettel.com/blog/2025/10/01#052_r-ci_and_coverage)
 
+- [#051: A Neat Little Rcpp Trick](http://dirk.eddelbuettel.com/blog/2025/09/30#051_a_neat_rcpp_trick)
+
+- [ggplot2 styling](https://www.tidyverse.org/blog/2025/10/ggplot2-styling/)
+
+- [Data Imputation and Scaling with healthyR.ai: A Guide for R Programmers](https://www.spsanderson.com/steveondata/posts/2025-09-29/)
+
+- [Mapply: When You Need to Iterate Over Multiple Inputs](https://drmowinckels.io/blog/2025/mapply/)
 
 ### Resources
 
-
-
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
-
 
 **CRAN**
 
-
-
 **Bioconductor**
 
-
-
 **GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+- [tinythemes 0.0.4 at CRAN: Micro Maintenance](http://dirk.eddelbuettel.com/blog/2025/10/02#tinythemes_0.0.4)
+
 ### Videos and Podcasts
 
-+ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
+- [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 ### Gist & Cookbook
 
+### Web Apps
 
-
-### Shiny Apps
-
-
+- [Real-time pricing with a pretrained probabilistic stock return model](https://thierrymoudiki.github.io/blog/2025/10/01/r/python/realtime-pricing)
 
 ### R Internationally
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -93,23 +92,20 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
+- [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+- [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+- [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 ### Grants & Funding
 
-
 ### Datasets
-
 
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
-
 
 ### Quotes of the Week
