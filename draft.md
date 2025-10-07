@@ -21,6 +21,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Raking a Survey to Another Survey](https://www.practicalsignificance.com/posts/npors-2025/)
+
 ### Resources
 
 ### New Packages
@@ -37,6 +39,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{svrep} 0.9.0](https://cran.r-project.org/package=svrep): Provides tools for creating and working with survey replicate weights, extending functionality of the 'survey' package - [diffify](https://diffify.com/R/svrep/0.8.0/0.9.0)
 
 ### Videos and Podcasts
 
