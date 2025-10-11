@@ -32,6 +32,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [qol 1.0.1](https://CRAN.R-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs
+
 **Bioconductor**
 
 **GitHub or Bitbucket**
