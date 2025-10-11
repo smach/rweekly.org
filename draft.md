@@ -44,6 +44,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{svrep} 0.9.0](https://cran.r-project.org/package=svrep): Provides tools for creating and working with survey replicate weights, extending functionality of the 'survey' package - [diffify](https://diffify.com/R/svrep/0.8.0/0.9.0)
 
++ [{future.callr} 0.10.2](https://future.callr.futureverse.org/): A Future Backend for Parallel Processing using 'callr' - [diffify](https://diffify.com/R/future.callr/0.10.1/0.10.2)
+
+
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
