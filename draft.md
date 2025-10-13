@@ -5,142 +5,81 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-- [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
-+ [Aaaaand… they’re off!](https://jcarroll.xyz/2025/10/07/aaaaand-theyre-off.html)
 
-+ [Generative AI for Data Visualisation](https://nrennie.rbind.io/blog/gen-ai-data-viz/)
-
-+ [Behavior-Driven Development in R Shiny: A Step-By-Step Example](https://jakubsobolewski.com/blog/bdd-shiny-feature)
 
 ### Insights
 
-+ [foreach: Making All %dopar% Behave Like %dofuture% Everywhere](https://www.jottr.org/2025/10/08/dofuture-everywhere/)
 
-+ [A Primer on Domain Verification](https://ropensci.org/blog/2025/10/10/verification/)
 
-+ [Generative AI for Data Visualisation](https://nrennie.rbind.io/blog/gen-ai-data-viz/)
+### R in the Real World
 
-![](https://raw.githubusercontent.com/rweekly/image/refs/heads/master/2025/W42/unnamed-chunk-3-1_600.png)
 
-+ [2025-10-10 AI Newsletter](https://posit.co/blog/2025-10-10-ai-newsletter/)
 
-![](https://raw.githubusercontent.com/rweekly/image/refs/heads/master/2025/W42/PST-Blog-AI-Newsletter-v2_600.jpg)
+### R in Organizations
 
-+ [Aaaaand… they’re off!](https://jcarroll.xyz/2025/10/07/aaaaand-theyre-off.html)
 
-![](https://raw.githubusercontent.com/rweekly/image/refs/heads/master/2025/W42/eqq3Bdo_600.jpeg)
 
-+ [Mapping locations related to the Amelia Earhart disappearance by @ellis2013nz](https://freerangestats.info/blog/2025/10/05/earhart-map)
+### R in Academia
+
+
 
 ### Tutorials
 
-+ [Raking a Survey to Another Survey](https://www.practicalsignificance.com/posts/npors-2025/)
 
-+ [Halloween in the Round](https://kieranhealy.org/blog/archives/2025/10/08/halloween-in-the-round/)
-
-+ [A new simstudy function to make simulating replications easier](https://www.rdatagen.net/post/2025-10-07-scenario-list-facilitating-simulation-replications/)
-
-+ [Nested Forecasting with Spark: Blockchain ETF Trends](https://datageeek.com/2025/10/10/nested-forecasting-with-spark/)
-
-+ [How to Select Row with Max Value in Specific Column in R](https://www.spsanderson.com/steveondata/posts/2025-10-06/)
-
-+ [Behavior-Driven Development in R Shiny: A Step-By-Step Example](https://jakubsobolewski.com/blog/bdd-shiny-feature)
-
-+ [Deploy Multiple Shiny Apps from One R Package](https://jakubsobolewski.com/blog/multiple-shiny-app-in-package)
-
-+ [My Attempt To Reproduce Stanford HIVdb Sequence and Mutation Analysis From Scratch](https://www.kenkoonwong.com/blog/hiv-genotype/)
 
 ### Resources
 
-+ [Resource for using Large Language Model tools in R](http://www.seascapemodels.org/rstats/2025/10/06/llm-tools-for-r-book.html)
 
-+ [New online book AI Assistants for Scientific Coding](http://www.seascapemodels.org/rstats/2025/10/05/AI-assistants-for-scientific-coding.html)
-
-+ [The Tidyomics Ecosystem](https://tidyomics.github.io/tidyomicsBlog/posts/2025-10-10-introducing-tidyomics-ecosystem/)
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
+
 
 **CRAN**
 
-+ [qol 1.0.1](https://CRAN.R-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs
 
-+ [{easyRef} 0.1.0](https://cran.r-project.org/package=easyRef): Easy Reference Generation for R Packages
-+ [{apathe} 0.1.0](https://cran.r-project.org/package=apathe): American Psychological Association Thesis Templates for R Markdown
-+ [{unexcel} 0.1.0](https://cran.r-project.org/package=unexcel): Revert Excel Serial Dates Back to Intended Day.Month Numerics
-+ [{pipetime} 0.0.1](https://cran.r-project.org/package=pipetime): Tools to Time Pipe Operations
-+ [{rixpress} 0.10.0](https://cran.r-project.org/package=rixpress): Build Reproducible Analytical Pipelines with 'Nix'
-+ [{Latamverse} 0.1.0](https://cran.r-project.org/package=Latamverse): Latin American Data via 'RESTful' APIs and Curated Datasets
-+ [{FakeDataR} 0.2.2](https://cran.r-project.org/package=FakeDataR): Privacy-Preserving Synthetic Data for 'LLM' Workflows
-+ [{summarytabl} 0.1.0](https://cran.r-project.org/package=summarytabl): Generate Summary Tables for Continuous, Ordinal, and Categorical Data
-+ [{healthmotionR} 0.1.0](https://cran.r-project.org/package=healthmotionR): A Comprehensive Collection of Health and Human Motion Datasets
+
+**Bioconductor**
+
+
+
+**GitHub or Bitbucket**
+
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{svrep} 0.9.0](https://cran.r-project.org/package=svrep): Provides tools for creating and working with survey replicate weights, extending functionality of the 'survey' package - [diffify](https://diffify.com/R/svrep/0.8.0/0.9.0)
-
-+ [{future.callr} 0.10.2](https://future.callr.futureverse.org/): A Future Backend for Parallel Processing using 'callr' - [diffify](https://diffify.com/R/future.callr/0.10.1/0.10.2)
-
-+ [RcppArmadillo 15 CRAN Transition: Offering Office Hours](http://dirk.eddelbuettel.com/blog/2025/10/10#rcpparmadillo_15_transition_office_hours)
-
-+ [xptr 1.2.0 on CRAN: New(ly Adopted) Package!](http://dirk.eddelbuettel.com/blog/2025/10/09#xptr_1.2.0)
-
-+ [RPushbullet 0.3.5: Mostly Maintenance](http://dirk.eddelbuettel.com/blog/2025/10/08#rpushbullet_0.3.5)
-
-+ [{hesim} 0.5.7](https://cran.r-project.org/package=hesim): Health Economic Simulation Modeling and Decision Analysis - [diffify](https://diffify.com/R/hesim)
-+ [{future.callr} 0.10.2](https://cran.r-project.org/package=future.callr): A Future API for Parallel Processing using 'callr' - [diffify](https://diffify.com/R/future.callr)
-+ [{volker} 3.2.0](https://cran.r-project.org/package=volker): High-Level Functions for Tabulating, Charting and Reporting Survey Data - [diffify](https://diffify.com/R/volker)
-+ [{survivoR} 2.3.8](https://cran.r-project.org/package=survivoR): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
-+ [{rspm} 0.7.0](https://cran.r-project.org/package=rspm): 'RStudio' Package Manager - [diffify](https://diffify.com/R/rspm)
-+ [{Rfast} 2.1.5.2](https://cran.r-project.org/package=Rfast): A Collection of Efficient and Extremely Fast R Functions - [diffify](https://diffify.com/R/Rfast)
-+ [{ggmapcn} 0.2.0](https://cran.r-project.org/package=ggmapcn): Customizable China Map Visualizations - [diffify](https://diffify.com/R/ggmapcn)
-+ [{V8} 8.0.1](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
-+ [{loon.ggplot} 1.3.5](https://cran.r-project.org/package=loon.ggplot): A Grammar of Interactive Graphics - [diffify](https://diffify.com/R/loon.ggplot)
-+ [{broadcast} 0.1.5.3](https://cran.r-project.org/package=broadcast): Broadcasted Array Operations Like 'NumPy' - [diffify](https://diffify.com/R/broadcast)
-+ [{gtExtras} 0.6.1](https://cran.r-project.org/package=gtExtras): Extending 'gt' for Beautiful HTML Tables - [diffify](https://diffify.com/R/gtExtras)
-+ [{datapack} 1.4.2](https://cran.r-project.org/package=datapack): A Flexible Container to Transport and Manipulate Data and Associated Resources - [diffify](https://diffify.com/R/datapack)
-+ [{jsmodule} 1.6.15](https://cran.r-project.org/package=jsmodule): 'RStudio' Addins and 'Shiny' Modules for Medical Research - [diffify](https://diffify.com/R/jsmodule)
-+ [{redquack} 0.3.0](https://cran.r-project.org/package=redquack): Transfer 'REDCap' Data to Database - [diffify](https://diffify.com/R/redquack)
-+ [{oysteR} 0.1.4](https://cran.r-project.org/package=oysteR): Scans R Projects for Vulnerable Third Party Dependencies - [diffify](https://diffify.com/R/oysteR)
-+ [{matlib} 1.0.1](https://cran.r-project.org/package=matlib): Matrix Functions for Teaching and Learning Linear Algebra and Multivariate Statistics - [diffify](https://diffify.com/R/matlib)
-+ [{colorblindcheck} 1.0.4](https://cran.r-project.org/package=colorblindcheck): Check Color Palettes for Problems with Color Vision Deficiency - [diffify](https://diffify.com/R/colorblindcheck)
-+ [{gtfs2gps} 2.1-3](https://cran.r-project.org/package=gtfs2gps): Converting Transport Data from GTFS Format to GPS-Like Records - [diffify](https://diffify.com/R/gtfs2gps)
-+ [{escalation} 0.2.3](https://cran.r-project.org/package=escalation): A Modular Approach to Dose-Finding Clinical Trials - [diffify](https://diffify.com/R/escalation)
-+ [{ggvenn} 0.1.19](https://cran.r-project.org/package=ggvenn): Draw Venn Diagram by 'ggplot2' - [diffify](https://diffify.com/R/ggvenn)
-+ [{REDCapR} 1.6.0](https://cran.r-project.org/package=REDCapR): Interaction Between R and REDCap - [diffify](https://diffify.com/R/REDCapR)
-+ [{prome} 2.0.1.9](https://cran.r-project.org/package=prome): Patient-Reported Outcome Data Analysis with Stan - [diffify](https://diffify.com/R/prome)
-+ [{easysurv} 2.0.2](https://cran.r-project.org/package=easysurv): Simplify Survival Data Analysis and Model Fitting - [diffify](https://diffify.com/R/easysurv)
-+ [{gglogger} 0.1.7](https://cran.r-project.org/package=gglogger): Track 'ggplot2' Calls - [diffify](https://diffify.com/R/gglogger)
-+ [{ggseqplot} 0.8.8](https://cran.r-project.org/package=ggseqplot): Render Sequence Plots using 'ggplot2' - [diffify](https://diffify.com/R/ggseqplot)
-+ [{sassy} 1.2.9](https://cran.r-project.org/package=sassy): Makes 'R' Easier for Everyone - [diffify](https://diffify.com/R/sassy)
-+ [{linkeR} 0.1.3](https://cran.r-project.org/package=linkeR): Link Interactive Plots and Tables in 'shiny' Applications - [diffify](https://diffify.com/R/linkeR)
-+ [{anipaths} 0.10.6](https://cran.r-project.org/package=anipaths): Animation of Multiple Trajectories with Uncertainty - [diffify](https://diffify.com/R/anipaths)
-+ [{ggiraph} 0.9.2](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive - [diffify](https://diffify.com/R/ggiraph)
-+ [{runonce} 0.3.3](https://cran.r-project.org/package=runonce): Run Once and Save Result - [diffify](https://diffify.com/R/runonce)
-+ [{timeplyr} 1.1.1](https://cran.r-project.org/package=timeplyr): Fast Tidy Tools for Date and Date-Time Manipulation - [diffify](https://diffify.com/R/timeplyr)
-+ [{uscongress} 1.0.2](https://cran.r-project.org/package=uscongress): Fetch United States Congressional Records (1995-Present) - [diffify](https://diffify.com/R/uscongress)
-
-
 ### Videos and Podcasts
 
-- [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
++ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-+ [What can you do with Positron Assistant?](https://www.youtube.com/watch?v=X_eqwFFH4jI)
 
-+ [R-Ladies Gaborone (EN) - Positron for RStudio Users: A Gentle Introduction with Isabella Velásquez](https://www.youtube.com/watch?v=2fOQzgkxi6g)
+### Gist & Cookbook
+
+
 
 ### Shiny Apps
 
-+ [R port of llama2.c](https://thierrymoudiki.github.io/blog/2025/10/09/r/llama2-c)
+
+
+### R Internationally
+
+
+
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
@@ -154,13 +93,17 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-- [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
-- [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-- [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [R+AI 2025 from R Consortium](https://rconsortium.github.io/RplusAI_website/)
+### Grants & Funding
+
+
+### Datasets
+
 
 ### Connect
 
@@ -168,11 +111,5 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@nrennie/115356267887599540/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@nrennie/115356267887599540" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @nrennie@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
-
-
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@coolbutuseless/115355027906228509/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@coolbutuseless/115355027906228509" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @coolbutuseless@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
 
 ### Quotes of the Week
-
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@jonthegeek/115367132706467678/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@jonthegeek/115367132706467678" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @jonthegeek@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
