@@ -87,6 +87,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R-Ladies Gaborone (EN) - Positron for RStudio Users: A Gentle Introduction with Isabella Velásquez](https://www.youtube.com/watch?v=2fOQzgkxi6g)
 
++ [Positron: data explorer exports dplyr code](https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code)
+
 ### Shiny Apps
 
 + [R port of llama2.c](https://thierrymoudiki.github.io/blog/2025/10/09/r/llama2-c)
