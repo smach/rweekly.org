@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+[Extracting location from text with Gemini](https://www.jla-data.net/eng/extracting-location-from-text-with-gemini-ai/)
 
 
 ### Resources
