@@ -19,6 +19,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
 
 ### R in the Real World
@@ -127,6 +128,7 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
 
 
 
