@@ -1,7 +1,6 @@
 ---
 layout: draft
 title: R Weekly 2025-W00
-
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
