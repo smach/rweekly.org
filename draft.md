@@ -35,6 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+- [Developing a Python package when coming from R: experience feedback](https://yohann-data.fr/posts/pkg_dev_python/)
 
 
 ### Resources
