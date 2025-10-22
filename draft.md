@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
 
 ### R in the Real World
@@ -46,11 +47,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
+
+
 **CRAN**
 
 - [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
+
 **Bioconductor**
+
+
 
 
 
@@ -62,6 +68,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [progressr 0.17.0](https://progressr.futureverse.org): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr/0.16.0/0.17.0)
+
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -72,6 +82,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 + [Positron: data explorer exports dplyr code](https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code)
+
+
 
 ### Shiny Apps
 
@@ -115,3 +127,8 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+
+
+
+
