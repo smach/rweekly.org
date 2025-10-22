@@ -48,7 +48,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+- [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
 **Bioconductor**
 
