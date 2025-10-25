@@ -20,6 +20,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
++ [Can you predict when Lou Bega's greatest hit, Mambo No. 5, was released based on the names of all the women mentioned in the song?](https://yawpr.substack.com/p/project-a-little-bit-of-reverend)
 
 ### R in the Real World
 
@@ -57,6 +58,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
++ [{galaxias} 0.1.1](https://galaxias.ala.org.au/R/):  Build Darwin Core Archives in R
+
+![]()
 
 **Bioconductor**
 
@@ -80,6 +84,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [ R demo | ANOVA (One-Way) | Fisher’s, Welch’s, Bayesian, Robust | Conduct, visualise, interpret + 😉 ](https://www.youtube.com/watch?v=JDGtLG0Tceo)
+
++ [What Makes a Good Data Visualization?](https://www.youtube.com/watch?v=SeLucCb05Dk)
 
 ### Gist & Cookbook
 
@@ -135,7 +142,12 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A visualisation of forest canopy height in Shiretoko National Park, Hokkaido, two ways. Which do you prefer? I can never decide. What I can say is that Shiretoko is beautiful. And windy. And the sika are unafraid. Also, hot waterfalls.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/O16SBsOzla">pic.twitter.com/O16SBsOzla</a></p>&mdash; terence (@researchremora) <a href="https://twitter.com/researchremora/status/1981724327599829224?ref_src=twsrc%5Etfw">October 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:yd3s3toqp7gqq3gvdygti5w7/app.bsky.feed.post/3m3q2rcwo222v" data-bluesky-cid="bafyreiensnm7hidtu5dzhxkcz5iw22726xkfw7bdcmiduwmrplckmuh3o4" data-bluesky-embed-color-mode="system"><p lang="en">One of my favorite aspects of the R community is the hex sticker culture.
+To this day one of my proudest #rstats contributions was artwork for two: purrr and forcats<br><br><a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7/post/3m3q2rcwo222v?ref_src=embed">[image or embed]</a></p>&mdash; We Are R-Ladies (<a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7?ref_src=embed">@weare.rladies.org</a>) <a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7/post/3m3q2rcwo222v?ref_src=embed">October 22, 2025 at 4:26 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:wzpeutmhirgyaj56z7mpchcm/app.bsky.feed.post/3m3p4zdvfp22i" data-bluesky-cid="bafyreigp4pdojqdp2g6rommwcpmsdn3qfi5xc6jgmpeobhqxogjln3i5vu" data-bluesky-embed-color-mode="system"><p lang="en">I&#x27;m excited to share a new version of the Air formatter for #rstats, with support for tabular formatting! Super useful with `tibble::tribble()` calls or `data.table::fcase()`.
 
+It&#x27;s currently experimental as we&#x27;re looking to get feedback on the feature, so please let us know what you think.<br><br><a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm/post/3m3p4zdvfp22i?ref_src=embed">[image or embed]</a></p>&mdash; Lionel Henry (<a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm?ref_src=embed">@lionelhenry.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm/post/3m3p4zdvfp22i?ref_src=embed">October 21, 2025 at 7:34 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
