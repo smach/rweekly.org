@@ -1,14 +1,32 @@
 # RSS POSTS: ##
 
++ [gssrdoc Updates](https://kieranhealy.org/blog/archives/2025/10/19/gssrdoc-updates/)
++ [Creating a Python Package with Poetry for Beginners Part2](https://www.jumpingrivers.com/blog/python-package-part-two/)
 + [RcppArmadillo 15.2.0-0 on GitHub: New Upstream, Simpler OpenMP](http://dirk.eddelbuettel.com/blog/2025/10/20#rcpparmadillo_15.2.0-0)
 + [Graceful Internet Packages](https://ropensci.org/commcalls/graceful-internet-packages/)
 + [rOpenSci News Digest, October 2025](https://ropensci.org/blog/2025/10/24/news-october-2025/)
 + [Go for Launch! Packages Shipped to the R-Multiverse](https://ropensci.org/blog/2025/10/22/packages-multiverse/)
++ [Mapping Antarctica](https://dieghernan.github.io/202510_mapping-antarctica/)
 + [Python Time Management: A Beginner’s Guide to Keeping Time, Scheduling Tasks, and Launching Programs](https://www.spsanderson.com/steveondata/posts/2025-10-23/)
 + [How to Master Data Cleaning in R: Three Methods for Removing Empty Rows](https://www.spsanderson.com/steveondata/posts/2025-10-20/)
 + [Compositional modeling of plant communities with Dirichlet regression](https://ecogambler.netlify.app/blog/plant-community-dirichlet/)
-
++ [2025-10-24 AI Newsletter](https://posit.co/blog/2025-10-24-ai-newsletter/)
++ [Be Mindful of the Time](https://rworks.dev/posts/5-state-ctmc-model/)
++ [A pathetic tale of searching for an R function on Google](https://chainsawriot.com/postmannheim/2025/10/23/ddg.html)
++ [Weekly recap (Oct 24, 2025)](https://blog.stephenturner.us/p/weekly-recap-oct-24-2025)
++ [Switching word processors with Zotero](https://blog.stephenturner.us/p/switching-word-processors-with-zotero)
++ [Speeding up UMAP plots for single cell gene expression analysis](https://victoryuan.com/posts/2025-10-13-fast-umap-plots-in-r/)
 # CRANberries UPDATED: ##
++ [{vntrs} 0.2.0](https://cran.r-project.org/package=vntrs): Variable Neighborhood Trust Region Search - [diffify](https://diffify.com/R/vntrs)
++ [{StreamCatTools} 0.9.1](https://cran.r-project.org/package=StreamCatTools): 'StreamCatTools' - [diffify](https://diffify.com/R/StreamCatTools)
++ [{hdtg} 0.2.2](https://cran.r-project.org/package=hdtg): Generate Samples from Multivariate Truncated Normal
+Distributions - [diffify](https://diffify.com/R/hdtg)
++ [{bskyr} 0.4.0](https://cran.r-project.org/package=bskyr): Interact with 'Bluesky' Social - [diffify](https://diffify.com/R/bskyr)
++ [{mintyr} 0.1.2](https://cran.r-project.org/package=mintyr): Streamlined Data Processing Tools for Genomic Selection - [diffify](https://diffify.com/R/mintyr)
++ [{reticulate} 1.44.0](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
++ [{ggsci} 4.1.0](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
+'ggplot2' - [diffify](https://diffify.com/R/ggsci)
++ [{Cubist} 0.5.1](https://cran.r-project.org/package=Cubist): Rule- And Instance-Based Regression Modeling - [diffify](https://diffify.com/R/Cubist)
 + [{corrmeta} 1.0.1](https://cran.r-project.org/package=corrmeta): Correlated Meta-Analysis - [diffify](https://diffify.com/R/corrmeta)
 + [{rd2d} 0.0.3](https://cran.r-project.org/package=rd2d): Boundary Regression Discontinuity Designs - [diffify](https://diffify.com/R/rd2d)
 + [{bayesmove} 0.2.3](https://cran.r-project.org/package=bayesmove): Non-Parametric Bayesian Analyses of Animal Movement - [diffify](https://diffify.com/R/bayesmove)
@@ -225,18 +243,6 @@ Coefficients - [diffify](https://diffify.com/R/betaSandwich)
 + [{betaDelta} 1.0.6](https://cran.r-project.org/package=betaDelta): Confidence Intervals for Standardized Regression Coefficients - [diffify](https://diffify.com/R/betaDelta)
 + [{HDShOP} 0.1.6](https://cran.r-project.org/package=HDShOP): High-Dimensional Shrinkage Optimal Portfolios - [diffify](https://diffify.com/R/HDShOP)
 + [{henna} 0.3.4](https://cran.r-project.org/package=henna): A Versatile Visualization Suite - [diffify](https://diffify.com/R/henna)
-+ [{import} 1.3.4](https://cran.r-project.org/package=import): An Import Mechanism for R - [diffify](https://diffify.com/R/import)
-+ [{visualpred} 0.1.2](https://cran.r-project.org/package=visualpred): Visualization 2D of Binary Classification Models - [diffify](https://diffify.com/R/visualpred)
-+ [{mlt} 1.7-0](https://cran.r-project.org/package=mlt): Most Likely Transformations - [diffify](https://diffify.com/R/mlt)
-+ [{AssumpSure} 1.1.2](https://cran.r-project.org/package=AssumpSure): 'shiny' Application for Statistical Test Assumption Checking and
-Guidance - [diffify](https://diffify.com/R/AssumpSure)
-+ [{ebirdst} 3.2023.1](https://cran.r-project.org/package=ebirdst): Access and Analyze eBird Status and Trends Data Products - [diffify](https://diffify.com/R/ebirdst)
-+ [{brfinance} 0.2.2](https://cran.r-project.org/package=brfinance): Simplified Access to Brazilian Financial and Macroeconomic Data - [diffify](https://diffify.com/R/brfinance)
-+ [{PMwR} 1.1-0](https://cran.r-project.org/package=PMwR): Portfolio Management with R - [diffify](https://diffify.com/R/PMwR)
-
-
-
-
 # CRANberries NEW: ##
 + [{rdav} 0.1.3](https://cran.r-project.org/package=rdav): Simple 'WebDAV' Client
 + [{sumup} 1.0.0](https://cran.r-project.org/package=sumup): Utilizing Automated Text Analysis to Support Interpretation of
