@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
 
 ### R in the Real World
@@ -32,6 +33,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+### Tutorials
+
+- [Extracting location from text with Gemini](https://www.jla-data.net/eng/extracting-location-from-text-with-gemini-ai/)
+
+- [Developing a Python package when coming from R: experience feedback](https://yohann-data.fr/posts/pkg_dev_python/)
+
+
+
 ### Resources
 
 
@@ -42,11 +51,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
+
+
 **CRAN**
 
+- [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
 
 **Bioconductor**
+
+
 
 
 
@@ -58,12 +72,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [progressr 0.17.0](https://progressr.futureverse.org): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr/0.16.0/0.17.0)
+
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
 ### Gist & Cookbook
+
+
+
++ [Positron: data explorer exports dplyr code](https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code)
 
 
 
@@ -75,15 +97,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-### Tutorials
-
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ New Zealand 2025](https://pretix.eu/r-contributors/r-dev-day-nz-25/): Auckland University or remote (Americas / Asia-Pacific), Tue 16 - Wed 17 (NZST). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Sunday 7 December**.
 
 ### Call for Participation
 
@@ -113,3 +134,8 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+
+
+
+
