@@ -22,17 +22,24 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Can you predict when Lou Bega's greatest hit, Mambo No. 5, was released based on the names of all the women mentioned in the song?](https://yawpr.substack.com/p/project-a-little-bit-of-reverend)
 
++ [Cycles in Lynx Numbers](https://datawookie.dev/blog/2025/10/cycles-in-lynx-numbers/)
+
++ [Reducing the Backlog of Open Bug Reports](https://blog.r-project.org/2025/10/13/reducing-the-backlog-of-open-bug-reports/)
+
 ### R in the Real World
 
-
+- [Inequality and homicide, within-country and between country by @ellis2013nz](https://freerangestats.info/blog/2025/10/18/homicide-and-gini)
 
 ### R in Organizations
 
-
+  
++ [Recognition Beyond Blog Post Authors](https://ropensci.org/blog/2025/10/14/blog-roles/)
 
 ### R in Academia
 
-
+- [Two New Preprints on Multilevel Hidden Markov Models](http://jmbh.github.io//mlHMM_papers/)
+  
+- [Tutorial Paper on Movement Tracking of Psychological Processes Using *mousestrap*](http://jmbh.github.io//MousetrapTutorial/)
 
 ### Tutorials
 
@@ -40,11 +47,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Developing a Python package when coming from R: experience feedback](https://yohann-data.fr/posts/pkg_dev_python/)
 
++ [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
-
+- [Integrating Python Forecasting with R’s Tidyverse](https://datageeek.com/2025/10/14/integrating-python-forecasting-with-rs-tidyverse/)
+  
 ### Resources
 
-
++ [New, work-in-progress book on spatial data visualization in R](https://geocompx.org/post/2025/tmap-bp1/)
 
 ### New Packages
 
@@ -78,7 +87,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [progressr 0.17.0](https://progressr.futureverse.org): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr/0.16.0/0.17.0)
 
-
++ [ML quacks: Combining duckdb and mlpack](http://dirk.eddelbuettel.com/blog/2025/10/17#ml_quacks_combining_duckdb_mlpack)
+  
++ [qlcal 0.0.17 on CRAN: Regular Update](http://dirk.eddelbuettel.com/blog/2025/10/14#qlcal-r_0.0.17)
+  
++ [RcppSpdlog 0.0.23 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/10/12#rcppspdlog_0.0.23)
+  
 
 ### Videos and Podcasts
 
@@ -87,6 +101,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [ R demo | ANOVA (One-Way) | Fisher’s, Welch’s, Bayesian, Robust | Conduct, visualise, interpret + 😉 ](https://www.youtube.com/watch?v=JDGtLG0Tceo)
 
 + [What Makes a Good Data Visualization?](https://www.youtube.com/watch?v=SeLucCb05Dk)
+
++ [Explore #TidyTuesday literary prizes with Positron’s Data Explorer](https://juliasilge.com/blog/literary-prizes/)
 
 ### Gist & Cookbook
 
