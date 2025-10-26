@@ -26,13 +26,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Reducing the Backlog of Open Bug Reports](https://blog.r-project.org/2025/10/13/reducing-the-backlog-of-open-bug-reports/)
 
++ [A pathetic tale of searching for an R function on Google](https://chainsawriot.com/postmannheim/2025/10/23/ddg.html)
+
 ### R in the Real World
 
 - [Inequality and homicide, within-country and between country by @ellis2013nz](https://freerangestats.info/blog/2025/10/18/homicide-and-gini)
 
 ### R in Organizations
 
-  
 + [Recognition Beyond Blog Post Authors](https://ropensci.org/blog/2025/10/14/blog-roles/)
 
 ### R in Academia
@@ -41,15 +42,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
   
 - [Tutorial Paper on Movement Tracking of Psychological Processes Using *mousestrap*](http://jmbh.github.io//MousetrapTutorial/)
 
++ [Dataset and R codes for "Elevational Patterns of Plant Species Richness: Insights from Western Himalayas"](https://figshare.com/articles/journal_contribution/Dataset_and_R_codes_for_i_Exploring_Elevational_Patterns_of_Plant_Species_Richness_Insights_from_Western_Himalayas_i_/23828784/3)
+
 ### Tutorials
 
 - [Extracting location from text with Gemini](https://www.jla-data.net/eng/extracting-location-from-text-with-gemini-ai/)
 
 - [Developing a Python package when coming from R: experience feedback](https://yohann-data.fr/posts/pkg_dev_python/)
 
-+ [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
-
 - [Integrating Python Forecasting with R’s Tidyverse](https://datageeek.com/2025/10/14/integrating-python-forecasting-with-rs-tidyverse/)
+  
++ [Be Mindful of the Time](https://rworks.dev/posts/5-state-ctmc-model/)  
+
++ [Speeding up UMAP plots for single cell gene expression analysis](https://victoryuan.com/posts/2025-10-13-fast-umap-plots-in-r/)
+
++ [Compositional modeling of plant communities with Dirichlet regression](https://ecogambler.netlify.app/blog/plant-community-dirichlet/)
+
++ [Mapping Antarctica](https://dieghernan.github.io/202510_mapping-antarctica/)
+
+![]()
   
 ### Resources
 
@@ -60,25 +71,56 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
-
-
 **CRAN**
 
 - [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
-+ [{galaxias} 0.1.1](https://galaxias.ala.org.au/R/):  Build Darwin Core Archives in R
++ [{galaxias} 0.1.1](https://galaxias.ala.org.au/R/): Build Darwin Core Archives in R
 
 ![]()
 
-**Bioconductor**
-
-
-
-
-
-**GitHub or Bitbucket**
-
++ [{rdav} 0.1.3](https://cran.r-project.org/package=rdav): Simple 'WebDAV' Client
++ [{sumup} 1.0.0](https://cran.r-project.org/package=sumup): Utilizing Automated Text Analysis to Support Interpretation of
+Narrative Feedback
++ [{poseticDataAnalysis} 0.1.0](https://cran.r-project.org/package=poseticDataAnalysis): Posetic Data Analysis
++ [{CompositionalSR} 1.0](https://cran.r-project.org/package=CompositionalSR): Spatial Regression Models with Compositional Data
++ [{tind} 0.2](https://cran.r-project.org/package=tind): A Common Representation of Time Indices of Different Types
++ [{OmopOnSpark} 0.1.0](https://cran.r-project.org/package=OmopOnSpark): Using a Common Data Model on 'Spark'
++ [{ci} 0.0.1](https://cran.r-project.org/package=ci): Confidence Intervals for Education
++ [{bayesQRsurvey} 0.1.4](https://cran.r-project.org/package=bayesQRsurvey): Bayesian Quantile Regression Models for Complex Survey Data
+Analysis
++ [{scf} 1.0.4](https://cran.r-project.org/package=scf): Analyzing the Survey of Consumer Finances
++ [{NeEDS4BigData} 1.0.1](https://cran.r-project.org/package=NeEDS4BigData): New Experimental Design Based Subsampling Methods for Big Data
++ [{mcmodule} 1.1.0](https://cran.r-project.org/package=mcmodule): Modular Monte Carlo Risk Analysis
++ [{CFM} 0.6.0](https://cran.r-project.org/package=CFM): Analyzing Censored Factor Models
++ [{BRPL} 1.0.2](https://cran.r-project.org/package=BRPL): Methods for Bivariate Poverty Line Calculations
++ [{alpmixBayes} 0.1.0](https://cran.r-project.org/package=alpmixBayes): Bayesian Estimation for Alpha-Mixture Survival Models
++ [{GHRmodel} 0.1.0](https://cran.r-project.org/package=GHRmodel): Bayesian Hierarchical Modelling of Spatio-Temporal Health Data
++ [{testthatdocs} 1.0.23](https://cran.r-project.org/package=testthatdocs): Automated and Idempotent Unit Tests Documentation for
+Reproducible Quality Assurance
++ [{LLMing} 1.0.0](https://cran.r-project.org/package=LLMing): Large Language Model (LLM) Tools for Psychological Text Analysis
++ [{FracFixR} 1.0.0](https://cran.r-project.org/package=FracFixR): Compositional Statistical Framework for RNA Fractionation
++ [{EFM} 0.5.0](https://cran.r-project.org/package=EFM): Elliptical Factor Models
++ [{AgeTopicModels} 0.1.0](https://cran.r-project.org/package=AgeTopicModels): Inferring Age-Dependent Disease Topic from Diagnosis Data
++ [{Rfuzzycoco} 0.1.0](https://cran.r-project.org/package=Rfuzzycoco): Provides an R Interface to the 'FuzzyCoCo' C++ Library and
+Extends It
++ [{paisaje} 0.1.1](https://cran.r-project.org/package=paisaje): Spatial and Environmental Data Tools for Landscape Ecology
++ [{evanverse} 0.3.7](https://cran.r-project.org/package=evanverse): Utility Functions for Data Analysis and Visualization
++ [{tteICE} 1.0.1](https://cran.r-project.org/package=tteICE): Treatment Effect Estimation for Time-to-Event Data with
+Intercurrent Events
++ [{SimplicialComplex} 0.1.0](https://cran.r-project.org/package=SimplicialComplex): Topological Data Analysis: Simplicial Complex
++ [{rosario} 0.1.0](https://cran.r-project.org/package=rosario): A Null Model Algorithm to Analyze Cyclical Data in Ecology
++ [{faunabr} 1.0.0](https://cran.r-project.org/package=faunabr): Explore Catálogo Taxônomico da Fauna do Brasil Database
++ [{epmfd} 1.1.1](https://cran.r-project.org/package=epmfd): Exploratory and Person/Item Misfit Diagnostics for Polytomous
+Data
++ [{CortSineScore} 0.1.0](https://cran.r-project.org/package=CortSineScore): Compute Cortisol Sine Score (CSS) for Diurnal Cortisol Analysis
++ [{compIndexBuilder} 1.0.0](https://cran.r-project.org/package=compIndexBuilder): Composite Index Builder & Analytics 'shiny' App
++ [{bigPCAcpp} 0.9.0](https://cran.r-project.org/package=bigPCAcpp): Principal Component Analysis for 'bigmemory' Matrices
++ [{funbootband} 0.2.0](https://cran.r-project.org/package=funbootband): Simultaneous Prediction and Confidence Bands for Time Series
++ [{arete} 0.1](https://cran.r-project.org/package=arete): Automated REtrieval from TExt
++ [{RPIV} 1.0.0](https://cran.r-project.org/package=RPIV): Residual Prediction Test for Well-Specification of Instrumental
+Variable Models
++ [{lightsf} 0.1.0](https://cran.r-project.org/package=lightsf): A Curated Collection of Georeferenced and Spatial Datasets
 
 
 ### Updated Packages
@@ -86,13 +128,36 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [progressr 0.17.0](https://progressr.futureverse.org): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr/0.16.0/0.17.0)
-
 + [ML quacks: Combining duckdb and mlpack](http://dirk.eddelbuettel.com/blog/2025/10/17#ml_quacks_combining_duckdb_mlpack)
-  
 + [qlcal 0.0.17 on CRAN: Regular Update](http://dirk.eddelbuettel.com/blog/2025/10/14#qlcal-r_0.0.17)
-  
 + [RcppSpdlog 0.0.23 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/10/12#rcppspdlog_0.0.23)
-  
++ [{vntrs} 0.2.0](https://cran.r-project.org/package=vntrs): Variable Neighborhood Trust Region Search - [diffify](https://diffify.com/R/vntrs)
++ [{StreamCatTools} 0.9.1](https://cran.r-project.org/package=StreamCatTools): 'StreamCatTools' - [diffify](https://diffify.com/R/StreamCatTools)
++ [{hdtg} 0.2.2](https://cran.r-project.org/package=hdtg): Generate Samples from Multivariate Truncated Normal
+Distributions - [diffify](https://diffify.com/R/hdtg)
++ [{bskyr} 0.4.0](https://cran.r-project.org/package=bskyr): Interact with 'Bluesky' Social - [diffify](https://diffify.com/R/bskyr)
++ [{mintyr} 0.1.2](https://cran.r-project.org/package=mintyr): Streamlined Data Processing Tools for Genomic Selection - [diffify](https://diffify.com/R/mintyr)
++ [{reticulate} 1.44.0](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
++ [{ggsci} 4.1.0](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
+'ggplot2' - [diffify](https://diffify.com/R/ggsci)
++ [{rtestim} 1.0.1](https://cran.r-project.org/package=rtestim): Estimate the Effective Reproductive Number with Trend Filtering - [diffify](https://diffify.com/R/rtestim)
++ [{tinytiger} 0.0.11](https://cran.r-project.org/package=tinytiger): Lightweight Interface to TIGER/Line Shapefiles - [diffify](https://diffify.com/R/tinytiger)
++ [{tidypopgen} 0.4.0](https://cran.r-project.org/package=tidypopgen): Tidy Population Genetics - [diffify](https://diffify.com/R/tidypopgen)
++ [{pracma} 2.4.6](https://cran.r-project.org/package=pracma): Practical Numerical Math Functions - [diffify](https://diffify.com/R/pracma)
++ [{tikatuwq} 0.7.2](https://cran.r-project.org/package=tikatuwq): Water Quality Assessment and Environmental Compliance in Brazil - [diffify](https://diffify.com/R/tikatuwq)
++ [{googleLanguageR} 0.3.1.1](https://cran.r-project.org/package=googleLanguageR): Call Google's 'Natural Language', 'Cloud Translation', 'Cloud
+Speech', and 'Cloud Text-to-Speech' APIs - [diffify](https://diffify.com/R/googleLanguageR)
++ [{BAwiR} 1.4](https://cran.r-project.org/package=BAwiR): Analysis of Basketball Data - [diffify](https://diffify.com/R/BAwiR)
++ [{warbleR} 1.1.37](https://cran.r-project.org/package=warbleR): Streamline Bioacoustic Analysis - [diffify](https://diffify.com/R/warbleR)
++ [{unitizer} 1.4.23](https://cran.r-project.org/package=unitizer): Interactive R Unit Tests - [diffify](https://diffify.com/R/unitizer)
++ [{rfars} 2.0.2](https://cran.r-project.org/package=rfars): Download and Analyze Crash Data - [diffify](https://diffify.com/R/rfars)
++ [{promises} 1.4.0](https://cran.r-project.org/package=promises): Abstractions for Promise-Based Asynchronous Programming - [diffify](https://diffify.com/R/promises)
++ [{VSURF} 1.2.1](https://cran.r-project.org/package=VSURF): Variable Selection Using Random Forests - [diffify](https://diffify.com/R/VSURF)
++ [{svglite} 2.2.2](https://cran.r-project.org/package=svglite): An 'SVG' Graphics Device - [diffify](https://diffify.com/R/svglite)
++ [{clifford} 1.1-2](https://cran.r-project.org/package=clifford): Arbitrary Dimensional Clifford Algebras - [diffify](https://diffify.com/R/clifford)
++ [{MLE} 1.6](https://cran.r-project.org/package=MLE): Maximum Likelihood Estimation of Various Univariate and
+Multivariate Distributions - [diffify](https://diffify.com/R/MLE)
++ [{henna} 0.3.4](https://cran.r-project.org/package=henna): A Versatile Visualization Suite - [diffify](https://diffify.com/R/henna)
 
 ### Videos and Podcasts
 
@@ -104,21 +169,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Explore #TidyTuesday literary prizes with Positron’s Data Explorer](https://juliasilge.com/blog/literary-prizes/)
 
++ [Regression on Order Statistics (ROS) Use ros (NADA2) With (In) R Software ](https://www.youtube.com/watch?v=Pzz2lDWojH0)
+
 ### Gist & Cookbook
 
-
-
 + [Positron: data explorer exports dplyr code](https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code)
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -143,11 +198,7 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
++ [Graceful Internet Packages](https://ropensci.org/commcalls/graceful-internet-packages/): Thursday, 06 November 2025 15:00 UTC
 
 ### Connect
 
