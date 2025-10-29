@@ -18,171 +18,72 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-* [Futures: Interrupts, Crashes, and Retries](https://www.jottr.org/2025/10/16/interrupts-crashes-retries/)
 
-+ [Can you predict when Lou Bega's greatest hit, Mambo No. 5, was released based on the names of all the women mentioned in the song?](https://yawpr.substack.com/p/project-a-little-bit-of-reverend)
-
-+ [Cycles in Lynx Numbers](https://datawookie.dev/blog/2025/10/cycles-in-lynx-numbers/)
-
-+ [Reducing the Backlog of Open Bug Reports](https://blog.r-project.org/2025/10/13/reducing-the-backlog-of-open-bug-reports/)
-
-+ [A pathetic tale of searching for an R function on Google](https://chainsawriot.com/postmannheim/2025/10/23/ddg.html)
 
 ### R in the Real World
 
-- [Inequality and homicide, within-country and between country by @ellis2013nz](https://freerangestats.info/blog/2025/10/18/homicide-and-gini)
+
 
 ### R in Organizations
 
-+ [Recognition Beyond Blog Post Authors](https://ropensci.org/blog/2025/10/14/blog-roles/)
+
 
 ### R in Academia
 
-- [Two New Preprints on Multilevel Hidden Markov Models](http://jmbh.github.io//mlHMM_papers/)
-  
-- [Tutorial Paper on Movement Tracking of Psychological Processes Using *mousestrap*](http://jmbh.github.io//MousetrapTutorial/)
 
-+ [Dataset and R codes for "Elevational Patterns of Plant Species Richness: Insights from Western Himalayas"](https://figshare.com/articles/journal_contribution/Dataset_and_R_codes_for_i_Exploring_Elevational_Patterns_of_Plant_Species_Richness_Insights_from_Western_Himalayas_i_/23828784/3)
 
 ### Tutorials
 
-- [Extracting location from text with Gemini](https://www.jla-data.net/eng/extracting-location-from-text-with-gemini-ai/)
 
-- [Developing a Python package when coming from R: experience feedback](https://yohann-data.fr/posts/pkg_dev_python/)
 
-- [Integrating Python Forecasting with R’s Tidyverse](https://datageeek.com/2025/10/14/integrating-python-forecasting-with-rs-tidyverse/)
-  
-+ [Be Mindful of the Time](https://rworks.dev/posts/5-state-ctmc-model/)  
-
-+ [Speeding up UMAP plots for single cell gene expression analysis](https://victoryuan.com/posts/2025-10-13-fast-umap-plots-in-r/)
-
-+ [Compositional modeling of plant communities with Dirichlet regression](https://ecogambler.netlify.app/blog/plant-community-dirichlet/)
-
-+ [Mapping Antarctica](https://dieghernan.github.io/202510_mapping-antarctica/)
-
-![]()
-  
 ### Resources
 
-+ [New, work-in-progress book on spatial data visualization in R](https://geocompx.org/post/2025/tmap-bp1/)
+
 
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
+
 **CRAN**
 
-- [partialling.out 0.2.0](https://docs.ropensci.org/partialling.out/): Partial residuals from linear and fixed effects models
 
-+ [{galaxias} 0.1.1](https://galaxias.ala.org.au/R/): Build Darwin Core Archives in R
 
-![]()
+**Bioconductor**
 
-+ [{rdav} 0.1.3](https://cran.r-project.org/package=rdav): Simple 'WebDAV' Client
-+ [{sumup} 1.0.0](https://cran.r-project.org/package=sumup): Utilizing Automated Text Analysis to Support Interpretation of
-Narrative Feedback
-+ [{poseticDataAnalysis} 0.1.0](https://cran.r-project.org/package=poseticDataAnalysis): Posetic Data Analysis
-+ [{CompositionalSR} 1.0](https://cran.r-project.org/package=CompositionalSR): Spatial Regression Models with Compositional Data
-+ [{tind} 0.2](https://cran.r-project.org/package=tind): A Common Representation of Time Indices of Different Types
-+ [{OmopOnSpark} 0.1.0](https://cran.r-project.org/package=OmopOnSpark): Using a Common Data Model on 'Spark'
-+ [{ci} 0.0.1](https://cran.r-project.org/package=ci): Confidence Intervals for Education
-+ [{bayesQRsurvey} 0.1.4](https://cran.r-project.org/package=bayesQRsurvey): Bayesian Quantile Regression Models for Complex Survey Data
-Analysis
-+ [{scf} 1.0.4](https://cran.r-project.org/package=scf): Analyzing the Survey of Consumer Finances
-+ [{NeEDS4BigData} 1.0.1](https://cran.r-project.org/package=NeEDS4BigData): New Experimental Design Based Subsampling Methods for Big Data
-+ [{mcmodule} 1.1.0](https://cran.r-project.org/package=mcmodule): Modular Monte Carlo Risk Analysis
-+ [{CFM} 0.6.0](https://cran.r-project.org/package=CFM): Analyzing Censored Factor Models
-+ [{BRPL} 1.0.2](https://cran.r-project.org/package=BRPL): Methods for Bivariate Poverty Line Calculations
-+ [{alpmixBayes} 0.1.0](https://cran.r-project.org/package=alpmixBayes): Bayesian Estimation for Alpha-Mixture Survival Models
-+ [{GHRmodel} 0.1.0](https://cran.r-project.org/package=GHRmodel): Bayesian Hierarchical Modelling of Spatio-Temporal Health Data
-+ [{testthatdocs} 1.0.23](https://cran.r-project.org/package=testthatdocs): Automated and Idempotent Unit Tests Documentation for
-Reproducible Quality Assurance
-+ [{LLMing} 1.0.0](https://cran.r-project.org/package=LLMing): Large Language Model (LLM) Tools for Psychological Text Analysis
-+ [{FracFixR} 1.0.0](https://cran.r-project.org/package=FracFixR): Compositional Statistical Framework for RNA Fractionation
-+ [{EFM} 0.5.0](https://cran.r-project.org/package=EFM): Elliptical Factor Models
-+ [{AgeTopicModels} 0.1.0](https://cran.r-project.org/package=AgeTopicModels): Inferring Age-Dependent Disease Topic from Diagnosis Data
-+ [{Rfuzzycoco} 0.1.0](https://cran.r-project.org/package=Rfuzzycoco): Provides an R Interface to the 'FuzzyCoCo' C++ Library and
-Extends It
-+ [{paisaje} 0.1.1](https://cran.r-project.org/package=paisaje): Spatial and Environmental Data Tools for Landscape Ecology
-+ [{evanverse} 0.3.7](https://cran.r-project.org/package=evanverse): Utility Functions for Data Analysis and Visualization
-+ [{tteICE} 1.0.1](https://cran.r-project.org/package=tteICE): Treatment Effect Estimation for Time-to-Event Data with
-Intercurrent Events
-+ [{SimplicialComplex} 0.1.0](https://cran.r-project.org/package=SimplicialComplex): Topological Data Analysis: Simplicial Complex
-+ [{rosario} 0.1.0](https://cran.r-project.org/package=rosario): A Null Model Algorithm to Analyze Cyclical Data in Ecology
-+ [{faunabr} 1.0.0](https://cran.r-project.org/package=faunabr): Explore Catálogo Taxônomico da Fauna do Brasil Database
-+ [{epmfd} 1.1.1](https://cran.r-project.org/package=epmfd): Exploratory and Person/Item Misfit Diagnostics for Polytomous
-Data
-+ [{CortSineScore} 0.1.0](https://cran.r-project.org/package=CortSineScore): Compute Cortisol Sine Score (CSS) for Diurnal Cortisol Analysis
-+ [{compIndexBuilder} 1.0.0](https://cran.r-project.org/package=compIndexBuilder): Composite Index Builder & Analytics 'shiny' App
-+ [{bigPCAcpp} 0.9.0](https://cran.r-project.org/package=bigPCAcpp): Principal Component Analysis for 'bigmemory' Matrices
-+ [{funbootband} 0.2.0](https://cran.r-project.org/package=funbootband): Simultaneous Prediction and Confidence Bands for Time Series
-+ [{arete} 0.1](https://cran.r-project.org/package=arete): Automated REtrieval from TExt
-+ [{RPIV} 1.0.0](https://cran.r-project.org/package=RPIV): Residual Prediction Test for Well-Specification of Instrumental
-Variable Models
-+ [{lightsf} 0.1.0](https://cran.r-project.org/package=lightsf): A Curated Collection of Georeferenced and Spatial Datasets
+
+
+**GitHub or Bitbucket**
+
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [progressr 0.17.0](https://progressr.futureverse.org): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr/0.16.0/0.17.0)
-+ [ML quacks: Combining duckdb and mlpack](http://dirk.eddelbuettel.com/blog/2025/10/17#ml_quacks_combining_duckdb_mlpack)
-+ [qlcal 0.0.17 on CRAN: Regular Update](http://dirk.eddelbuettel.com/blog/2025/10/14#qlcal-r_0.0.17)
-+ [RcppSpdlog 0.0.23 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/10/12#rcppspdlog_0.0.23)
-+ [{vntrs} 0.2.0](https://cran.r-project.org/package=vntrs): Variable Neighborhood Trust Region Search - [diffify](https://diffify.com/R/vntrs)
-+ [{StreamCatTools} 0.9.1](https://cran.r-project.org/package=StreamCatTools): 'StreamCatTools' - [diffify](https://diffify.com/R/StreamCatTools)
-+ [{hdtg} 0.2.2](https://cran.r-project.org/package=hdtg): Generate Samples from Multivariate Truncated Normal
-Distributions - [diffify](https://diffify.com/R/hdtg)
-+ [{bskyr} 0.4.0](https://cran.r-project.org/package=bskyr): Interact with 'Bluesky' Social - [diffify](https://diffify.com/R/bskyr)
-+ [{mintyr} 0.1.2](https://cran.r-project.org/package=mintyr): Streamlined Data Processing Tools for Genomic Selection - [diffify](https://diffify.com/R/mintyr)
-+ [{reticulate} 1.44.0](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
-+ [{ggsci} 4.1.0](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
-'ggplot2' - [diffify](https://diffify.com/R/ggsci)
-+ [{rtestim} 1.0.1](https://cran.r-project.org/package=rtestim): Estimate the Effective Reproductive Number with Trend Filtering - [diffify](https://diffify.com/R/rtestim)
-+ [{tinytiger} 0.0.11](https://cran.r-project.org/package=tinytiger): Lightweight Interface to TIGER/Line Shapefiles - [diffify](https://diffify.com/R/tinytiger)
-+ [{tidypopgen} 0.4.0](https://cran.r-project.org/package=tidypopgen): Tidy Population Genetics - [diffify](https://diffify.com/R/tidypopgen)
-+ [{pracma} 2.4.6](https://cran.r-project.org/package=pracma): Practical Numerical Math Functions - [diffify](https://diffify.com/R/pracma)
-+ [{tikatuwq} 0.7.2](https://cran.r-project.org/package=tikatuwq): Water Quality Assessment and Environmental Compliance in Brazil - [diffify](https://diffify.com/R/tikatuwq)
-+ [{googleLanguageR} 0.3.1.1](https://cran.r-project.org/package=googleLanguageR): Call Google's 'Natural Language', 'Cloud Translation', 'Cloud
-Speech', and 'Cloud Text-to-Speech' APIs - [diffify](https://diffify.com/R/googleLanguageR)
-+ [{BAwiR} 1.4](https://cran.r-project.org/package=BAwiR): Analysis of Basketball Data - [diffify](https://diffify.com/R/BAwiR)
-+ [{warbleR} 1.1.37](https://cran.r-project.org/package=warbleR): Streamline Bioacoustic Analysis - [diffify](https://diffify.com/R/warbleR)
-+ [{unitizer} 1.4.23](https://cran.r-project.org/package=unitizer): Interactive R Unit Tests - [diffify](https://diffify.com/R/unitizer)
-+ [{rfars} 2.0.2](https://cran.r-project.org/package=rfars): Download and Analyze Crash Data - [diffify](https://diffify.com/R/rfars)
-+ [{promises} 1.4.0](https://cran.r-project.org/package=promises): Abstractions for Promise-Based Asynchronous Programming - [diffify](https://diffify.com/R/promises)
-+ [{VSURF} 1.2.1](https://cran.r-project.org/package=VSURF): Variable Selection Using Random Forests - [diffify](https://diffify.com/R/VSURF)
-+ [{svglite} 2.2.2](https://cran.r-project.org/package=svglite): An 'SVG' Graphics Device - [diffify](https://diffify.com/R/svglite)
-+ [{clifford} 1.1-2](https://cran.r-project.org/package=clifford): Arbitrary Dimensional Clifford Algebras - [diffify](https://diffify.com/R/clifford)
-+ [{MLE} 1.6](https://cran.r-project.org/package=MLE): Maximum Likelihood Estimation of Various Univariate and
-Multivariate Distributions - [diffify](https://diffify.com/R/MLE)
-+ [{henna} 0.3.4](https://cran.r-project.org/package=henna): A Versatile Visualization Suite - [diffify](https://diffify.com/R/henna)
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-+ [ R demo | ANOVA (One-Way) | Fisher’s, Welch’s, Bayesian, Robust | Conduct, visualise, interpret + 😉 ](https://www.youtube.com/watch?v=JDGtLG0Tceo)
-
-+ [What Makes a Good Data Visualization?](https://www.youtube.com/watch?v=SeLucCb05Dk)
-
-+ [Explore #TidyTuesday literary prizes with Positron’s Data Explorer](https://juliasilge.com/blog/literary-prizes/)
-
-+ [Regression on Order Statistics (ROS) Use ros (NADA2) With (In) R Software ](https://www.youtube.com/watch?v=Pzz2lDWojH0)
 
 ### Gist & Cookbook
 
-+ [Positron: data explorer exports dplyr code](https://blog.stephenturner.us/p/positron-data-explorer-exports-dplyr-code)
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
- - Announcing [R Dev Day @ New Zealand 2025](https://pretix.eu/r-contributors/r-dev-day-nz-25/): Auckland University or remote (Americas / Asia-Pacific), Tue 16 - Wed 17 (NZST). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Sunday 7 December**.
 
 ### Call for Participation
 
@@ -198,7 +99,11 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [Graceful Internet Packages](https://ropensci.org/commcalls/graceful-internet-packages/): Thursday, 06 November 2025 15:00 UTC
+### Grants & Funding
+
+
+### Datasets
+
 
 ### Connect
 
@@ -208,13 +113,3 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A visualisation of forest canopy height in Shiretoko National Park, Hokkaido, two ways. Which do you prefer? I can never decide. What I can say is that Shiretoko is beautiful. And windy. And the sika are unafraid. Also, hot waterfalls.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/O16SBsOzla">pic.twitter.com/O16SBsOzla</a></p>&mdash; terence (@researchremora) <a href="https://twitter.com/researchremora/status/1981724327599829224?ref_src=twsrc%5Etfw">October 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:yd3s3toqp7gqq3gvdygti5w7/app.bsky.feed.post/3m3q2rcwo222v" data-bluesky-cid="bafyreiensnm7hidtu5dzhxkcz5iw22726xkfw7bdcmiduwmrplckmuh3o4" data-bluesky-embed-color-mode="system"><p lang="en">One of my favorite aspects of the R community is the hex sticker culture.
-To this day one of my proudest #rstats contributions was artwork for two: purrr and forcats<br><br><a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7/post/3m3q2rcwo222v?ref_src=embed">[image or embed]</a></p>&mdash; We Are R-Ladies (<a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7?ref_src=embed">@weare.rladies.org</a>) <a href="https://bsky.app/profile/did:plc:yd3s3toqp7gqq3gvdygti5w7/post/3m3q2rcwo222v?ref_src=embed">October 22, 2025 at 4:26 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:wzpeutmhirgyaj56z7mpchcm/app.bsky.feed.post/3m3p4zdvfp22i" data-bluesky-cid="bafyreigp4pdojqdp2g6rommwcpmsdn3qfi5xc6jgmpeobhqxogjln3i5vu" data-bluesky-embed-color-mode="system"><p lang="en">I&#x27;m excited to share a new version of the Air formatter for #rstats, with support for tabular formatting! Super useful with `tibble::tribble()` calls or `data.table::fcase()`.
-
-It&#x27;s currently experimental as we&#x27;re looking to get feedback on the feature, so please let us know what you think.<br><br><a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm/post/3m3p4zdvfp22i?ref_src=embed">[image or embed]</a></p>&mdash; Lionel Henry (<a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm?ref_src=embed">@lionelhenry.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:wzpeutmhirgyaj56z7mpchcm/post/3m3p4zdvfp22i?ref_src=embed">October 21, 2025 at 7:34 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-

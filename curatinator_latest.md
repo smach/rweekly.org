@@ -16,6 +16,8 @@
 + [Weekly recap (Oct 24, 2025)](https://blog.stephenturner.us/p/weekly-recap-oct-24-2025)
 + [Switching word processors with Zotero](https://blog.stephenturner.us/p/switching-word-processors-with-zotero)
 + [Speeding up UMAP plots for single cell gene expression analysis](https://victoryuan.com/posts/2025-10-13-fast-umap-plots-in-r/)
+
+
 # CRANberries UPDATED: ##
 + [{vntrs} 0.2.0](https://cran.r-project.org/package=vntrs): Variable Neighborhood Trust Region Search - [diffify](https://diffify.com/R/vntrs)
 + [{StreamCatTools} 0.9.1](https://cran.r-project.org/package=StreamCatTools): 'StreamCatTools' - [diffify](https://diffify.com/R/StreamCatTools)
@@ -243,6 +245,10 @@ Coefficients - [diffify](https://diffify.com/R/betaSandwich)
 + [{betaDelta} 1.0.6](https://cran.r-project.org/package=betaDelta): Confidence Intervals for Standardized Regression Coefficients - [diffify](https://diffify.com/R/betaDelta)
 + [{HDShOP} 0.1.6](https://cran.r-project.org/package=HDShOP): High-Dimensional Shrinkage Optimal Portfolios - [diffify](https://diffify.com/R/HDShOP)
 + [{henna} 0.3.4](https://cran.r-project.org/package=henna): A Versatile Visualization Suite - [diffify](https://diffify.com/R/henna)
+
+
+
+
 # CRANberries NEW: ##
 + [{rdav} 0.1.3](https://cran.r-project.org/package=rdav): Simple 'WebDAV' Client
 + [{sumup} 1.0.0](https://cran.r-project.org/package=sumup): Utilizing Automated Text Analysis to Support Interpretation of
