@@ -1,13 +1,16 @@
 ---
 layout: draft
-title: R Weekly 2025-W45
+title: R Weekly 2025-W46
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Jon Calder](https://bsky.app/profile/jonmcalder.bsky.social), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
@@ -15,13 +18,7 @@ This week’s release was curated by [Jon Calder](https://bsky.app/profile/jonmc
 
 ### Insights
 
-+ [Of course, someone has to write imperative code to build reproducible data science pipelines. It doesn’t have to be you.](https://brodrigues.co/posts/2025-10-29-imperative-vs-function.html)
 
-+ [September 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/september-2025-top-40-new-cran-packages/)
-
-+ [New Council Members](https://pharmaverse.github.io/blog/posts/2025-10-31_new__counci.../new__council__members.html)
-
-+ [rOpenSci News Digest, October 2025](https://ropensci.org/blog/2025/10/24/news-october-2025/)
 
 ### R in the Real World
 
@@ -33,25 +30,15 @@ This week’s release was curated by [Jon Calder](https://bsky.app/profile/jonmc
 
 ### R in Academia
 
-+ [Bioconductor 3.22 Released](https://blog.stephenturner.us/p/bioconductor-3-22)
+
 
 ### Tutorials
 
-+ [RAG with Ollama and ragnar in R: A Practical Guide for R Programmers](https://www.spsanderson.com/steveondata/posts/2025-10-29/)
 
-+ [Pledging My Time VII](https://quantixed.org/2025/10/30/pledging-my-time-vii/)
-
-![Pledging My Time VII](https://raw.githubusercontent.com/rweekly/image/master/2025/W45/frankfurt_marathon_2025_finish_times_by_age_class.png)
-
-+ [#054: Faster r-ci Continuous Integration via r2u Container](http://dirk.eddelbuettel.com/blog/2025/10/27#054_faster_r-ci)
-
-+ [Neon Ghosts with ggplot2](https://drmowinckels.io/blog/2025/neon-ghosts/)
-
-+ [Simplifying Interactions with Complex Widgets in shinytest2 Using JavaScript APIs](https://jakubsobolewski.com/blog/shinytest2-complex-widgets)
 
 ### Resources
 
-+ [posit::conf(2025) Quarto workshop materials](https://quarto.org/docs/blog/posts/2025-10-27-conf-workshops-materials/)
+
 
 ### New Packages
 
@@ -69,15 +56,11 @@ This week’s release was curated by [Jon Calder](https://bsky.app/profile/jonmc
 
 **GitHub or Bitbucket**
 
-+ [{Rmlx} 0.1.0](https://github.com/hughjonesd/Rmlx) - R interface to Apple's mlx library for array-based computing on Apple GPUs
 
-+ [{mutagen} 0.2.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-+ [{mcptools} 0.2.0](https://cran.r-project.org/package=mcptools): Model Context Protocol Servers and Clients - [diffify](https://diffify.com/R/mcptools)
 
 ### Videos and Podcasts
 
@@ -110,8 +93,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Graceful Internet Packages](https://ropensci.org/commcalls/graceful-internet-packages/)
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
@@ -123,9 +104,6 @@ Events in 3 Months:
 
 ### Datasets
 
-+ [GSS Release](https://kieranhealy.org/blog/archives/2025/10/28/gss-release/): General Social Survey Cumulative Data (1972-2024, R2)
-
-![GSS Release](https://raw.githubusercontent.com/rweekly/image/master/2025/W45/gss-immigration.png)
 
 ### Connect
 
@@ -133,23 +111,5 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3m4lnygckks2p" data-bluesky-cid="bafyreieuzb2m7aenna5vkfugsw2lxwoeep534yklkym3unyfxk65iszev4" data-bluesky-embed-color-mode="system"><p lang="en">🚴 Where do bike accidents with personal injuries happen in Cologne?
-This map shows hotspots within 2.5 km of the city center in 2024. Each purple dot = one accident involving a bike where someone got hurt.
-
-#30DayMapChallenge | Day 01 - Points #rstats<br><br><a href="https://bsky.app/profile/did:plc:bjm7fq6jgotowpim5ggfbzw6/post/3m4lnygckks2p?ref_src=embed">[image or embed]</a></p>&mdash; Ansgar Wolsing (<a href="https://bsky.app/profile/did:plc:bjm7fq6jgotowpim5ggfbzw6?ref_src=embed">@ansgarw.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:bjm7fq6jgotowpim5ggfbzw6/post/3m4lnygckks2p?ref_src=embed">1 November 2025 at 20:52</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3m4nvnp3j7k2c" data-bluesky-cid="bafyreibjds6vkkftfsg23ws2wsmu27acgl7byipbt2azhgs2iqdokqs67u" data-bluesky-embed-color-mode="system"><p lang="en">It&#x27;s day 2 of the #30DayMapChallenge! 🗺️
-
-A fairly minimalist map of street *lines* in Melbourne 🦘 
-
-#DataViz #RStats #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3m4nvnp3j7k2c?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3m4nvnp3j7k2c?ref_src=embed">2 November 2025 at 18:15</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:777eanw7giyjd76dwatpch3d/app.bsky.feed.post/3m4jgf4qgf22l" data-bluesky-cid="bafyreialtvin6jow6v237ztkbjk2gjbnw2zz4c3hh7dern4slz57bubs2y" data-bluesky-embed-color-mode="system"><p lang="en">Me: The least-helpful workshops are often the ones given by people who just Know Too Much 🥹
-Data Friend: Have you see that blog post about this?
-Me: No, show me!
-Data Friend: anniemueller.com/posts/how-i-...
-Me: BRB SENDING THIS TO EVERYONE I KNOW 😂
-
-#rstats #python #databs<br><br><a href="https://bsky.app/profile/did:plc:777eanw7giyjd76dwatpch3d/post/3m4jgf4qgf22l?ref_src=embed">[image or embed]</a></p>&mdash; Libby Heeren (<a href="https://bsky.app/profile/did:plc:777eanw7giyjd76dwatpch3d?ref_src=embed">@libbyheeren.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:777eanw7giyjd76dwatpch3d/post/3m4jgf4qgf22l?ref_src=embed">31 October 2025 at 23:31</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
