@@ -8,76 +8,66 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jonathankitt.bsky.social), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
-
-
 ### Insights
 
-
++ [Reverse dependency check speedrun: a data.table case study](https://nanx.me/blog/post/revdep-speedrun/)
+![Reverse dependency check speedrun: a data.table case study](https://nanx.me/blog/post/revdep-speedrun/images/btop.png)
++ [Anaconda ends R support - Here's what it means and how to move forward](https://posit.co/blog/anaconda-ends-r-support-heres-what-it-means-and-how-to-move-forward/)
 
 ### R in the Real World
 
-
-
-### R in Organizations
-
-
++ [Impact study of vaccination campaigns](https://epiconcept-paris.github.io/vaccinationimpact/index.html)
++ [Mamdani vs Sliwa and Cuomo](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa-and-cuomo/)
+![Mamdani vs Sliwa and Cuomo](https://kieranhealy.org/blog/archives/2025/11/06/mamdani-vs-sliwa-and-cuomo/subway-mamdani-slimo-dotmap300.png)
 
 ### R in Academia
 
-
++ [Computo - A journal for transparent and reproducible research in statistics and machine learning](https://ropensci.org/blog/2025/11/06/computo-journal-reproducible-research-statistics-machine-learning/)
 
 ### Tutorials
 
-
++ [An introduction to writing your own ggplot2 geoms](https://rworks.dev/posts/ggplot2-extensions/)
++ [How to analyze bluesky posts and trends with R](https://www.storybench.org/how-to-analyze-bluesky-posts-and-trends-with-r/)
++ [Reversed - Day 5 of the #30DayMapChallenge](https://r.iresmi.net/posts/2025/reversed/)
+![Reversed - Day 5 of the #30DayMapChallenge](https://r.iresmi.net/posts/2025/reversed/index_files/figure-html/fig-map-1.png)
++ [Behavior-driven development in R Shiny: setting up test preconditions with given steps](https://jakubsobolewski.com/blog/bdd-shiny-given/)
 
 ### Resources
 
-
++ [Introduction to building (better) R packages](https://nrennie.rbind.io/r-pharma-2025-r-packages/#/title-slide)
 
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
 **CRAN**
 
-
++ [{releaser} 1.0.0](https://cran.r-project.org/package=releaser): Help with Preparing a New Version of an R Package
++ [{brand.yml} 0.1.0](https://cran.r-project.org/package=brand.yml): Unified Branding with a Simple YAML File
++ [{PublicationBiasBenchmark} 0.1.0](https://cran.r-project.org/package=PublicationBiasBenchmark): Benchmark for Publication Bias Correction Methods
++ [{btw} 1.0.0](https://cran.r-project.org/package=btw): A Toolkit for Connecting R and Large Language Models
++ [{vaccinationimpact} 0.1.0](https://cran.r-project.org/package=vaccinationimpact): Impact Study of Vaccination Campaigns
 
 **Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{torch} 0.16.3](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration - [diffify](https://diffify.com/R/torch)
++ [{torchvision} 0.8.0](https://cran.r-project.org/package=torchvision): Models, Datasets and Transformations for Images - [diffify](https://diffify.com/R/torchvision)
++ [{huxtable} 5.8.0](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats - [diffify](https://diffify.com/R/huxtable)
++ [{stringr} 1.6.0](https://cran.r-project.org/package=stringr): Simple, Consistent Wrappers for Common String Operations - [diffify](https://diffify.com/R/stringr)
++ [{purrr} 1.2.0](https://cran.r-project.org/package=purrr): Functional Programming Tools - [diffify](https://diffify.com/R/purrr)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -99,17 +89,18 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:cyrfft6tjqkzuceouctm7be5/app.bsky.feed.post/3m4yvcb7b422l" data-bluesky-cid="bafyreibeuwmtklgd4phkyjj5xhcqtgd3yhhgdowfmqbkusfge5u5lgws3a" data-bluesky-embed-color-mode="system"><p lang="en">Day 6 of the #30DayMapChallenge makes things 3D! I took my elevation map from yesterday and made it so with the {rayshader} package. 
+
+#DataViz #RStats #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:cyrfft6tjqkzuceouctm7be5/post/3m4yvcb7b422l?ref_src=embed">[image or embed]</a></p>&mdash; Josh Persi (<a href="https://bsky.app/profile/did:plc:cyrfft6tjqkzuceouctm7be5?ref_src=embed">@joshpersi.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:cyrfft6tjqkzuceouctm7be5/post/3m4yvcb7b422l?ref_src=embed">7 novembre 2025 à 02:08</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:iz6v2itga76zik4okvzlv6di/app.bsky.feed.post/3m4ypkx7du22q" data-bluesky-cid="bafyreiawizkue3ujeqlk4k3kj6jhf75ud4kmzlfen67cbvg7ju6qjrzcje" data-bluesky-embed-color-mode="system"><p lang="en">Do you teach #rstats? Do your students complain about how lame and old-fashioned dplyr is? Don&#x27;t worry: I have the solution for you: github.com/hadley/genzp.... 
+
+genzplyr is dplyr, but bussin fr fr no cap.<br><br><a href="https://bsky.app/profile/did:plc:iz6v2itga76zik4okvzlv6di/post/3m4ypkx7du22q?ref_src=embed">[image or embed]</a></p>&mdash; Hadley Wickham (<a href="https://bsky.app/profile/did:plc:iz6v2itga76zik4okvzlv6di?ref_src=embed">@hadley.nz</a>) <a href="https://bsky.app/profile/did:plc:iz6v2itga76zik4okvzlv6di/post/3m4ypkx7du22q?ref_src=embed">7 novembre 2025 à 00:25</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
