@@ -56,6 +56,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+- [{RmlxStats}](https://hughjonesd.github.io/RmlxStats) - Statistical modelling front-ends that run on Apple GPU hardware via the Rmlx array library.
+
+
 
 
 ### Updated Packages
