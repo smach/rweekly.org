@@ -20,6 +20,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+
 ### R in the Real World
 
 
@@ -34,6 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [How much do you know about pipes?](https://joshuamarie.github.io/joshuamarie/posts/05-pipes/)
 
 
 ### Resources
