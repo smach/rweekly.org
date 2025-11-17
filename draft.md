@@ -10,10 +10,13 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
 
-
-
 ### Highlight
 
++ [When plotting, LLMs see what they expect to see](https://posit.co/blog/introducing-bluffbench/)
+
++ [Winners of the 2025 Table Contest](https://posit.co/blog/2025-table-contest-winners/)
+
++ [How much do you know about pipes?](https://joshuamarie.github.io/joshuamarie/posts/05-pipes/)
 
 
 ### Insights
@@ -25,6 +28,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Evaluating a New Job Market Data Feed](https://datawookie.dev/blog/2025/11/evaluating-a-new-job-market-data-feed/)
 + [When plotting, LLMs see what they expect to see](https://posit.co/blog/introducing-bluffbench/)
 + [Winners of the 2025 Table Contest](https://posit.co/blog/2025-table-contest-winners/)
+
+![](https://raw.githubusercontent.com/rweekly/image/refs/heads/master/2025/W47/gt_600.jpg)
+
 + [Spatial autocorrelation: what’s the problem?](https://dosull.github.io/posts/2025-11-14-gia-chapter-2A-spatial-autocorrelation/)
 + [Using R/anomalize to identify delays in games of Australian Rules football](https://nsaunders.wordpress.com/2025/11/12/using-r-anomalize-to-identify-delays-in-games-of-australian-rules-football/)
 + [Rainfall](https://r.iresmi.net/posts/2025/rainfall/)
@@ -33,17 +39,10 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [10 minutes](https://r.iresmi.net/posts/2025/10_minutes/)
 
 
-### R in the Real World
-
-
-
-### R in Organizations
-
-
-
 ### R in Academia
 
 + [Python is not a great language for data science. Part 1: The experience](https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for)
+
 
 ### Tutorials
 
@@ -54,6 +53,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [R+AI: Use RAG from your database to gain insights into the R Consortium](https://r-consortium.org/posts/rplusai-use-rag-from-your-database-to-gain-insights-into-the-r-consortium2
 + [Python package development for R developers Part 2](https://yohann-data.fr/posts/pkg_dev_python_episode2/)
+
 
 ### New Packages
 
@@ -76,17 +76,11 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [{shinyfa} 0.0.1](https://cran.r-project.org/package=shinyfa): Analyze the File Contents of 'shiny' Directories
 + [{funviewR} 0.1.0](https://cran.r-project.org/package=funviewR): Visualize Function Call Dependencies in R Source Code
 
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 - [{RmlxStats}](https://hughjonesd.github.io/RmlxStats) - Statistical modelling front-ends that run on Apple GPU hardware via the Rmlx array library.
 - [side::kick(), a coding agent for RStudio](https://www.simonpcouch.com/blog/2025-11-11-sidekick/)
-
-
+- [{mutagen} 0.4.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Updated Packages
 
@@ -141,25 +135,12 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [posit::conf(2025) talks on YouTube](https://blog.stephenturner.us/p/posit-conf-2025-youtube-playlist)
 + [Introduction to Empirical Macroeconomics with R](https://www.youtube.com/watch?v=zjjM0l2r6gM)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-### Call for Participation
 
 
 ### Upcoming Events in 3 Months
@@ -174,17 +155,14 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
 
+### Quotes of the Weeke
 
-### Quotes of the Week
+<blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@safest_integer/115559407986936326/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@safest_integer/115559407986936326" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @safest_integer@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
+
+<blockquote class="mastodon-embed" data-embed-url="https://social.cologne/@kamapu/115558861085286067/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://social.cologne/@kamapu/115558861085286067" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @kamapu@social.cologne</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://social.cologne/" async src="https://assets.social.cologne/embed.js"></script>
