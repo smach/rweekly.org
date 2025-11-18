@@ -56,6 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+- [{talib}](https://github.com/serkor1/ta-lib-R): An Interface to TA-Lib for Technical Analysis and Candlestick Pattern Recognition in R
 
 
 ### Updated Packages
