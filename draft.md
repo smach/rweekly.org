@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-- [Jarl: Just Another R Linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
+- [Jarl: just another R linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
 
 ### R in the Real World
 
