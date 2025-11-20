@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Why I wrote Rmlx](https://hughjonesd.github.io/why-I-wrote-Rmlx.html)
 
 ### R in the Real World
 
