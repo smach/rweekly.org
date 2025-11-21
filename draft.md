@@ -63,6 +63,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{gdalraster} 2.3.0](https://cran.r-project.org/package=gdalraster): API bindings to GDAL (Geospatial Data Abstraction Library) - [diffify](https://diffify.com/R/gdalraster)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
