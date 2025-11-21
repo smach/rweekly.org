@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
-
+- [Sparkle & Atmosphere: Bringing Your R Dashboards to Life](https://tigertang.org/sparkler/)
 
 
 ### Resources
@@ -57,7 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **GitHub or Bitbucket**
 
 - [{talib}](https://github.com/serkor1/ta-lib-R): An Interface to TA-Lib for Technical Analysis and Candlestick Pattern Recognition in R
-
+- [{sparkler}](https://github.com/CodingTigerTang/sparkler): Lightweight visual engines for confetti, fireworks, and atmospheric weather in Shiny and RMarkdown.
 
 ### Updated Packages
 
@@ -73,7 +73,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
-
+- [Sparkler Package Demo](https://tigertang.shinyapps.io/sparkler/)
 
 
 ### R Internationally
