@@ -22,6 +22,17 @@
 + [Weekly Recap (Nov 21, 2025)](https://blog.stephenturner.us/p/weekly-recap-nov-21-2025)
 + [Labels for Clear Feedback in Peer Review](https://blog.stephenturner.us/p/labels-for-clear-feedback-in-peer-review)
 # CRANberries UPDATED: ##
++ [{spatstat.explore} 3.6-0](https://cran.r-project.org/package=spatstat.explore): Exploratory Data Analysis for the 'spatstat' Family - [diffify](https://diffify.com/R/spatstat.explore)
++ [{exametrika} 1.7.0](https://cran.r-project.org/package=exametrika): Test Theory Analysis and Biclustering - [diffify](https://diffify.com/R/exametrika)
++ [{stochtree} 0.2.0](https://cran.r-project.org/package=stochtree): Stochastic Tree Ensembles (XBART and BART) for Supervised
+Learning and Causal Inference - [diffify](https://diffify.com/R/stochtree)
++ [{reporter} 1.4.5](https://cran.r-project.org/package=reporter): Creates Statistical Reports - [diffify](https://diffify.com/R/reporter)
++ [{RcppArmadillo} 15.2.2-1](https://cran.r-project.org/package=RcppArmadillo): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra
+Library - [diffify](https://diffify.com/R/RcppArmadillo)
++ [{cubature} 2.1.4-1](https://cran.r-project.org/package=cubature): Adaptive Multivariate Integration over Hypercubes - [diffify](https://diffify.com/R/cubature)
++ [{brglm2} 1.0.1](https://cran.r-project.org/package=brglm2): Bias Reduction in Generalized Linear Models - [diffify](https://diffify.com/R/brglm2)
++ [{cnd} 0.1.1](https://cran.r-project.org/package=cnd): Create and Register Conditions - [diffify](https://diffify.com/R/cnd)
++ [{tidycensuskr} 0.2.4](https://cran.r-project.org/package=tidycensuskr): Easy Access for South Korea Census Data and Boundaries - [diffify](https://diffify.com/R/tidycensuskr)
 + [{FLORAL} 0.6.0](https://cran.r-project.org/package=FLORAL): Fit Log-Ratio Lasso Regression for Compositional Data - [diffify](https://diffify.com/R/FLORAL)
 + [{ecocbo} 1.0.0](https://cran.r-project.org/package=ecocbo): Calculating Optimum Sampling Effort in Community Ecology - [diffify](https://diffify.com/R/ecocbo)
 + [{devianLM} 1.0.7](https://cran.r-project.org/package=devianLM): Detecting Extremal Values in a Normal Linear Model - [diffify](https://diffify.com/R/devianLM)
@@ -241,15 +252,6 @@ Volatilities - [diffify](https://diffify.com/R/greeks)
 + [{espadon} 1.11.3](https://cran.r-project.org/package=espadon): Easy Study of Patient DICOM Data in Oncology - [diffify](https://diffify.com/R/espadon)
 + [{EvalTest} 1.0.5](https://cran.r-project.org/package=EvalTest): A 'shiny' App to Evaluate Diagnostic Tests Performance - [diffify](https://diffify.com/R/EvalTest)
 + [{LTFHPlus} 2.2.0](https://cran.r-project.org/package=LTFHPlus): Implementation of LT-FH++ - [diffify](https://diffify.com/R/LTFHPlus)
-+ [{skylight} 1.4](https://cran.r-project.org/package=skylight): A Simple Sky Illuminance Model - [diffify](https://diffify.com/R/skylight)
-+ [{antaresEditObject} 0.9.3](https://cran.r-project.org/package=antaresEditObject): Edit an 'Antares' Simulation - [diffify](https://diffify.com/R/antaresEditObject)
-+ [{spatstat.univar} 3.1-5](https://cran.r-project.org/package=spatstat.univar): One-Dimensional Probability Distribution Support for the
-'spatstat' Family - [diffify](https://diffify.com/R/spatstat.univar)
-+ [{SHELF} 1.12.1](https://cran.r-project.org/package=SHELF): Tools to Support the Sheffield Elicitation Framework - [diffify](https://diffify.com/R/SHELF)
-+ [{robfilter} 4.1.6](https://cran.r-project.org/package=robfilter): Robust Time Series Filters - [diffify](https://diffify.com/R/robfilter)
-+ [{xml2} 1.5.0](https://cran.r-project.org/package=xml2): Parse XML - [diffify](https://diffify.com/R/xml2)
-+ [{future} 1.68.0](https://cran.r-project.org/package=future): Unified Parallel and Distributed Processing in R for Everyone - [diffify](https://diffify.com/R/future)
-+ [{dipsaus} 0.3.2](https://cran.r-project.org/package=dipsaus): A Dipping Sauce for Data Analysis and Visualizations - [diffify](https://diffify.com/R/dipsaus)
 # CRANberries NEW: ##
 + [{McMiso} 0.1.2](https://cran.r-project.org/package=McMiso): Multicore Multivariable Isotonic Regression
 + [{estar} 1.0-0](https://cran.r-project.org/package=estar): Ecological Stability Metrics
