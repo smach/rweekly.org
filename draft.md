@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Why I wrote Rmlx](https://hughjonesd.github.io/why-I-wrote-Rmlx.html)
+
 - [My First Contribution to base R](https://rhian.rbind.io/posts/2025-10-31_r-dev-day/)
 
 - [Jarl: just another R linter](https://www.etiennebacher.com/posts/2025-11-20-introducing-jarl/)
