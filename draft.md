@@ -67,6 +67,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{qol} 1.1.0](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
+
 + [{gdalraster} 2.3.0](https://cran.r-project.org/package=gdalraster): API bindings to GDAL (Geospatial Data Abstraction Library) - [diffify](https://diffify.com/R/gdalraster)
 
 ### Videos and Podcasts
