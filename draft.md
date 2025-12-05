@@ -13,6 +13,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Seeing the forest for the lines - Scaling complex base plots in Shiny](https://simon-smart88.github.io/forest_plot_blog/forest_blog.html) 
+
 ### R in the Real World
 
 ### R in Organizations
