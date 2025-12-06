@@ -23,7 +23,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [LatinR 2025: future.p2p: Peer-to-Peer Compute Clusters in R](https://www.jottr.org/2025/12/03/future.p2p-latinr2025-slides/)
 
-
 + [Net migration in Pacific island countries by @ellis2013nz](https://freerangestats.info/blog/2025/12/04/pacific-net-migration)
 
 + [Visual summaries of population in Pacific islands by @ellis2013nz](https://freerangestats.info/blog/2025/11/30/pacific-population)
@@ -35,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How the tables turned](https://www.rostrum.blog/posts/2025-11-30-turn-tables/index.html)
 
 + [Introducing the Posit Connect Gallery: Essential Extensions for Managing Long-Lived Content](https://posit.co/blog/introducing-the-posit-connect-gallery/)
+
++ [Haskell IS a Great Language for Data Science](https://jcarroll.com.au/2025/12/05/haskell-is-a-great-language-for-data-science/)
 
 ### R in the Real World
 
