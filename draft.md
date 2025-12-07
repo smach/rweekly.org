@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{tidytab} 0.2.0](https://github.com/gvelasq/tidytab): Create tidyverse-friendly tables of frequencies
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
