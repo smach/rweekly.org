@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **GitHub or Bitbucket**
 
 
+- [{quartify}](https://github.com/ddotta/quartify) - R package that automatically converts R scripts into Quarto markdown documents and can directly render them to HTML. It also integrates lintr and styler for code quality, and provides a web app to test and preview the conversion in your browser.
+
 
 ### Updated Packages
 
