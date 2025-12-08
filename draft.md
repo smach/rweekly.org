@@ -7,9 +7,16 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
 
 ### Highlight
+
++ [2025-12-05 AI Newsletter](https://posit.co/blog/2025-12-05-ai-newsletter/)
+
++ [The Test Set: Now on YouTube + a look at what’s next](https://posit.co/blog/the-test-set-now-on-youtube/)
+
++ [Haskell IS a Great Language for Data Science](https://jcarroll.com.au/2025/12/05/haskell-is-a-great-language-for-data-science/)
+
 
 ### Insights
 
@@ -37,6 +44,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Haskell IS a Great Language for Data Science](https://jcarroll.com.au/2025/12/05/haskell-is-a-great-language-for-data-science/)
 
++ [Nightlife of Barcelona Neighborhoods](https://jmsallan.netlify.app/blog/nightlife-of-barcelona-neighborhoods/)
+
 ### R in the Real World
 
 + [R Consortium announces JD Long as keynote speaker for R!sk 2026](https://r-consortium.org/posts/r-consortium-announces-jd-long-as-keynote-speaker-for-rsk-2026/)
@@ -63,21 +72,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Remove Column Names in R: Complete Guide to unname() and Alternative Methods](https://www.spsanderson.com/steveondata/posts/2025-12-01/)
 
-### Resources
-
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 + [October 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/october-2025-top-40-new-cran-packages/)
-
-
-**CRAN**
-
-**Bioconductor**
-
-**GitHub or Bitbucket**
 
 ### Updated Packages
 
@@ -109,8 +109,6 @@ Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-pro
  - R Contributor Office Hours, Thursday December 11: [10:00-11:00 UTC (EMEA)](https://www.meetup.com/r-contributors/events/311344152/) or [12:00-13:00 PST (AMER)](https://www.meetup.com/r-contributors/events/311344204/), or Friday December 12: [15:00-16:00 UTC+13 (APAC)](https://www.meetup.com/r-contributors/events/311344211/). R core developer Paul Murrell will be joining the AMER and APAC office hours.
  - [R Dev Day @ New Zealand 2025, Auckland or Online](https://pretix.eu/r-contributors/r-dev-day-nz-25/). Stream 1, NZ / Americas: 09:00-12:00 UTC+13. Stream 2, NZ / Asia-Pacific: 15:00-18:00 UTC+13. Deadline end of day Monday December 8, 2025, anywhere on earth.
 
-### Call for Participation
-
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -123,8 +121,6 @@ Events in 3 Months:
 
 + [Start 2026 Ahead of the Curve: Boost Your Career with Jumping Rivers Training](https://www.jumpingrivers.com/blog/jr-training-2026-r-python-bayesian-statistics-machine-learning/)
 
-### Grants & Funding
-
 ### Datasets
 
 + [Introducing openESM: A database of openly available experience sampling datasets including R/Python interface](http://jmbh.github.io//OpenESM/)
@@ -135,4 +131,8 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@tylermorganwall/115682236397871950/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@tylermorganwall/115682236397871950" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @tylermorganwall@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
+
 ### Quotes of the Week
+
+<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@jonthegeek/115684249406613223/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@jonthegeek/115684249406613223" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @jonthegeek@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
