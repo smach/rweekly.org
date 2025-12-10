@@ -40,7 +40,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [convergenceDFM](https://CRAN.R-project.org/package=convergenceDFM) - Tools for diagnosing convergence in Dynamic Factor Models (DFM). ([GitHub](https://github.com/IsadoreNabi/convergenceDFM/wiki)). This library evaluates variable convergence by integrating DFM with Factor Ornstein-Uhlenbeck linear processes. Using Bayesian MCMC, it rigorously quantifies mean reversion speeds and cross-factor coupling.
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+- [valueprhr](https://github.com/isadorenabi/valueprhr) - A comprehensive econometric toolkit for analyzing the empirical relationship between direct prices (labor values) and prices of production. The package implements multiple complementary methodologies—from classical panel data models to Bayesian hierarchical specifications—enabling researchers to rigorously test the labor theory of value using high-frequency sectoral data constructed via Bayesian disaggregation. ([GitHub](https://github.com/isadorenabi/valueprhr))
+
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
