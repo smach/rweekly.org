@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [How to Assess Usage of your Package](https://ropensci.org/blog/2025/12/11/package-usage/)
 
 ### R in the Real World
 
@@ -42,7 +42,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
+- [convergenceDFM](https://CRAN.R-project.org/package=convergenceDFM) - Tools for diagnosing convergence in Dynamic Factor Models (DFM). ([GitHub](https://github.com/IsadoreNabi/convergenceDFM/wiki)). This library evaluates variable convergence by integrating DFM with Factor Ornstein-Uhlenbeck linear processes. Using Bayesian MCMC, it rigorously quantifies mean reversion speeds and cross-factor coupling.
+
+- [valueprhr](https://github.com/isadorenabi/valueprhr) - A comprehensive econometric toolkit for analyzing the empirical relationship between direct prices (labor values), prices of production, and market prices. The package implements multiple complementary methodologies—from classical panel data models to Bayesian hierarchical specifications—enabling researchers to rigorously test the labor theory of value using high-frequency sectoral data constructed via Bayesian disaggregation. ([GitHub](https://github.com/isadorenabi/valueprhr))
+
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 
@@ -55,7 +58,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
-
 
 - [{quartify}](https://github.com/ddotta/quartify) - R package that automatically converts R scripts into Quarto markdown documents and can directly render them to HTML. It also integrates lintr and styler for code quality, and provides a web app to test and preview the conversion in your browser.
 
