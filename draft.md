@@ -59,6 +59,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{mutagen} 0.5.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
+
 - [{quartify}](https://github.com/ddotta/quartify) - R package that automatically converts R scripts into Quarto markdown documents and can directly render them to HTML. It also integrates lintr and styler for code quality, and provides a web app to test and preview the conversion in your browser.
 
 + [{tidytab} 0.2.0](https://github.com/gvelasq/tidytab): Create tidyverse-friendly tables of frequencies
