@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [How to Assess Usage of your Package](https://ropensci.org/blog/2025/12/11/package-usage/)
 
 ### R in the Real World
 
