@@ -58,8 +58,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{mutagen} 0.5.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
-### Updated Packages
-
 
 ### Updated Packages
 
