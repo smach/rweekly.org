@@ -10,19 +10,40 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
+### Draft
+
++ [Counterfactual Scenario Analysis with ahead::ridge2f](https://thierrymoudiki.github.io/blog/2025/12/11/r/Counterfactual-Scenario-Analysis-with-ridge2f)
++ [Zero-Shot Probabilistic Time Series Forecasting with TabPFN 2.5 and nnetsauce](https://thierrymoudiki.github.io/blog/2025/12/10/python/TabPFN-2-5-nnetsauce)
++ [ARIMA-Black-Scholes: Semi-Parametric Market price of risk for Risk-Neutral Pricing (code + preprint)](https://thierrymoudiki.github.io/blog/2025/12/07/r/forecasting/ARIMA-Pricing)
++ [#056: Running r-ci with R-devel](http://dirk.eddelbuettel.com/blog/2025/12/11#056_r-ci_with_r-devel)
++ [Inference for non-probability samples with nonprobsvy package in R workshop](https://r-posts.com/inference-for-non-probability-samples-with-nonprobsvy-package-in-r-workshop/)
++ [Un-debunking the GAMLSS myth](https://www.zeileis.org/news/undebunking/)
++ [Smoothed ROC Curves, Calculus and Curvature](https://rworks.dev/posts/roc-and-differential-geometry/)
++ [GPT-5.2 Lies About Reading your Documents](https://blog.stephenturner.us/p/chatgpt-lies-about-reading-your-documents)
++ [Quoting the Resonant Computing Manifesto](https://blog.stephenturner.us/p/quoting-the-resonant-computing-manifesto)
++ [The False Choice Between Meaning and Accountability in Higher Education](https://blog.stephenturner.us/p/false-choice-meaning-accountability-ai-university)
 
 
 ### Highlight
 
++ [My year in data visualisation](https://nrennie.rbind.io/blog/year-in-data-viz-2025/)
 
 
 ### Insights
 
 + [How to Assess Usage of your Package](https://ropensci.org/blog/2025/12/11/package-usage/)
 
++ [Growing an R Community in a Shifting Tech Landscape: The Story of R-Ladies Zurich](https://r-consortium.org/posts/growing-an-r-community-in-a-shifting-tech-landscape-the-story-of-rladies-zurich/)
+
++ [My year in data visualisation](https://nrennie.rbind.io/blog/year-in-data-viz-2025/)
+
++ [Weekly Recap (December 12, 2025)](https://blog.stephenturner.us/p/weekly-recap-december-12-2025)
+
 ### R in the Real World
 
++ [Bridging Gaps and Breaking Barriers: A Year of R Innovation with the China PharmaRUG](https://r-consortium.org/posts/bridging-gaps-and-breaking-barriers-a-year-of-r-innovation-with-the-china-pharmarug/)
 
++ [Expanded FDA eCTD File Format Support for R Packages — A Milestone Achieved Through Industry–FDA Collaboration](https://r-consortium.org/posts/expanded-fda-ectd-file-format-support-for-r-packages/)
 
 ### R in Organizations
 
@@ -30,10 +51,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
++ [New Preprint: Mapping Climate Change Coverage: Causes, Consequences, and Solutions in German News Media, 2010–2024](http://jmbh.github.io//ClimateReportingGermany/)
 
 
 ### Tutorials
 
++ [Which LLM writes the best R code?](https://posit.co/blog/r-llm-evaluation-03/)
+
++ [Make Your Shiny Apps Accessible to Everyone – Free Jumping Rivers Webinar!](https://www.jumpingrivers.com/blog/jumping-rivers-webinar-shiny-accessibility/)
+
++ [Elephant(s) in the room: Graph neural networks, embeddings, and foundation models in spatial data science](https://jakubnowosad.com/posts/2025-12-15-agforum-talk/)
 
 
 ### Resources
