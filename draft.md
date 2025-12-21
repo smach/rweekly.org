@@ -8,125 +8,86 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Ryo Nakagawara](https://bsky.app/profile/rbyryo.bsky.social), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
-+ [My year in data visualisation](https://nrennie.rbind.io/blog/year-in-data-viz-2025/)
 
-+ [How to Assess Usage of your Package](https://ropensci.org/blog/2025/12/11/package-usage/)
-
-+ [{mutagen} 0.5.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Insights
 
-+ [How to Assess Usage of your Package](https://ropensci.org/blog/2025/12/11/package-usage/)
++ [RSMF: Enabling the Next Generation of Contributors to R](https://blog.r-project.org/2025/12/17/rsmf-enabling-the-next-generation-of-contributors-to-r/)
 
-+ [Growing an R Community in a Shifting Tech Landscape: The Story of R-Ladies Zurich](https://r-consortium.org/posts/growing-an-r-community-in-a-shifting-tech-landscape-the-story-of-rladies-zurich/)
-
-+ [UMAP in R and python, a rabbit hole](https://amjdomingues.com/posts/2025-11-25-ump-r-python/)
-
-<img width="593" height="595" alt="Screenshot 2025-12-15 at 22 26 37" src="https://github.com/user-attachments/assets/9f1d3ac2-7e88-49de-92c8-3a1d57d50c5a" />
-
-+ [Running r-ci with R-devel](http://dirk.eddelbuettel.com/blog/2025/12/11#056_r-ci_with_r-devel)
++ [Code Hosting Options Beyond GitHub](https://ropensci.org/blog/2025/12/17/beyond-github/)
 
 ### R in the Real World
 
-+ [Bridging Gaps and Breaking Barriers: A Year of R Innovation with the China PharmaRUG](https://r-consortium.org/posts/bridging-gaps-and-breaking-barriers-a-year-of-r-innovation-with-the-china-pharmarug/)
-
-+ [Expanded FDA eCTD File Format Support for R Packages — A Milestone Achieved Through Industry–FDA Collaboration](https://r-consortium.org/posts/expanded-fda-ectd-file-format-support-for-r-packages/)
-
-
-### R in Academia
-
-+ [New Preprint: Mapping Climate Change Coverage: Causes, Consequences, and Solutions in German News Media, 2010–2024](http://jmbh.github.io//ClimateReportingGermany/)
-
-+ [Un-debunking the GAMLSS myth](https://www.zeileis.org/news/undebunking/)
++ [Outliers in Data Analysis: Detecting Extreme Values Before Modeling in R with İstanbul Airbnb Data](https://mfatihtuzen.netlify.app/posts/2025-12-19_outliers/)
 
 ### Tutorials
 
-+ [Which LLM writes the best R code?](https://posit.co/blog/r-llm-evaluation-03/)
++ [UMAP in R and python, a rabbit hole](https://amjdomingues.com/posts/2025-11-25-ump-r-python/)
 
-+ [Make Your Shiny Apps Accessible to Everyone – Free Jumping Rivers Webinar!](https://www.jumpingrivers.com/blog/jumping-rivers-webinar-shiny-accessibility/)
++ [Introducing docorator to the pharmaverse](https://pharmaverse.github.io/blog/posts/2025-12-19_introducing/introducing_docorator.html)
 
-+ [Elephant(s) in the room: Graph neural networks, embeddings, and foundation models in spatial data science](https://jakubnowosad.com/posts/2025-12-15-agforum-talk/)
++ [Finally figured out a way to port python packages to R using uv and reticulate: example with nnetsauce](https://thierrymoudiki.github.io/blog/2025/12/17/r/python/new-nnetsauce-R-uv)
 
-<img width="814" height="459" alt="Screenshot 2025-12-15 at 22 27 44" src="https://github.com/user-attachments/assets/b67a0c0d-1391-497f-95d3-8e306f775f74" />
++ [How to draw the Economist-style graph with ggplot2 in R?](https://ozancanozdemir.github.io/r/how-to-draw-economist-type-chart-with-ggplot2-in-R/)
 
-
-+ [Counterfactual Scenario Analysis with ahead::ridge2f](https://thierrymoudiki.github.io/blog/2025/12/11/r/Counterfactual-Scenario-Analysis-with-ridge2f)
-
-+ [ARIMA-Black-Scholes: Semi-Parametric Market price of risk for Risk-Neutral Pricing (code + preprint)](https://thierrymoudiki.github.io/blog/2025/12/07/r/forecasting/ARIMA-Pricing)
-
-+ [Smoothed ROC Curves, Calculus and Curvature](https://rworks.dev/posts/roc-and-differential-geometry/)
-
-<img width="703" height="487" alt="Screenshot 2025-12-15 at 22 19 16" src="https://github.com/user-attachments/assets/50eb2f44-f5ff-4ff5-8562-43bae42b6d64" />
++ [Machine Learning Powered Naughty List: A Festive Jumping Rivers Story](https://www.jumpingrivers.com/blog/christmas-machine-learning-naughty-list/)
 
 ### New Packages
 
-**CRAN**
-
-- [convergenceDFM](https://CRAN.R-project.org/package=convergenceDFM) - Tools for diagnosing convergence in Dynamic Factor Models (DFM). ([GitHub](https://github.com/IsadoreNabi/convergenceDFM/wiki)). This library evaluates variable convergence by integrating DFM with Factor Ornstein-Uhlenbeck linear processes. Using Bayesian MCMC, it rigorously quantifies mean reversion speeds and cross-factor coupling.
-
-- [valueprhr](https://github.com/isadorenabi/valueprhr) - A comprehensive econometric toolkit for analyzing the empirical relationship between direct prices (labor values), prices of production, and market prices. The package implements multiple complementary methodologies—from classical panel data models to Bayesian hierarchical specifications—enabling researchers to rigorously test the labor theory of value using high-frequency sectoral data constructed via Bayesian disaggregation. ([GitHub](https://github.com/isadorenabi/valueprhr))
-
-- [topologyR](https://CRAN.R-project.org/package=topologyR) - Topological Connectivity Analysis for Numeric Data. ([GitHub](https://github.com/IsadoreNabi/topologyR/wiki)). Implements topological data analysis methods based on graph-theoretic approaches to discover structures in numerical data. The package helps determine whether data (such as time series) form a connected set, guiding the decision between using globally continuous methods or segmented modeling.
-
-- [EconCausal](https://cran.r-project.org/web/packages/EconCausal/index.html) - Causal Analysis for Macroeconomic Time Series. ([GitHub](https://github.com/IsadoreNabi/EconCausal/wiki)). A comprehensive suite for causal inference emphasizing temporal stability validation. It implements three complementary pipelines—Error-Correction Models with MARS, Bayesian Structural Time Series, and Bayesian GLM with AR(1) errors—to rigorously determine directional relationships and test their persistence across different regimes.
-
-- [BayesianDisaggregation](https://cran.r-project.org/web/packages/BayesianDisaggregation/index.html) - Bayesian Methods for Economic Data Disaggregation. ([GitHub](https://github.com/IsadoreNabi/BayesianDisaggregation/wiki)). This package provides a framework for relating information at incompatible levels of granularity (e.g., disaggregating national indices to sectors) using uncertain proxies. It employs analytical Bayesian updating and PCA/SVD signal extraction to incorporate uncertainty without the computational overhead of MCMC.
-
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-+ [{yaml12} 0.1.0](https://cran.r-project.org/package=yaml12): Fast 'YAML' 1.2 Parser and Formatter
-
-+ [{AdaptiveBoxplot} 0.1.1](https://cran.r-project.org/package=AdaptiveBoxplot): FDR(BH) Boxplot and FWER(Holm) Boxplot
-
-+ [{aNCA} 0.1.0](https://cran.r-project.org/package=aNCA): (Pre-)Clinical NCA in a Dynamic Shiny App
-
-+ [{distplyr} 0.2.0](https://cran.r-project.org/package=distplyr): Manipulate and Combine Probability Distributions
-  
-+ [{charisma} 1.0.0](https://cran.r-project.org/package=charisma): Reproducible Color Characterization of Digital Images for
-Biological Studies
+**CRAN**
 
 + [{shinyfilters} 0.2.0](https://cran.r-project.org/package=shinyfilters) - Use Shiny Inputs on Vectors, data.frames, or any R Object
-
-
-**GitHub or Bitbucket**
-
-+ [{mutagen} 0.5.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
-
-- [{quartify}](https://github.com/ddotta/quartify) - R package that automatically converts R scripts into Quarto markdown documents and can directly render them to HTML. It also integrates lintr and styler for code quality, and provides a web app to test and preview the conversion in your browser.
-
-+ [{tidytab} 0.2.0](https://github.com/gvelasq/tidytab): Create tidyverse-friendly tables of frequencies
++ [{readmit} 0.0.1](https://cran.r-project.org/package=readmit): Tools for Working with Hospital Readmissions Data
++ [{ukc19} 0.0.3](https://cran.r-project.org/package=ukc19): Datasets from the UK COVID-19 Outbreak
++ [{havel} 0.1.2](https://cran.r-project.org/package=havel): Visualize and Tabulate 'R' Package Dependencies
++ [{waysign} 0.1.0](https://cran.r-project.org/package=waysign): Multi-Purpose and High-Performance Routing
++ [{insetplot} 1.3.0](https://cran.r-project.org/package=insetplot): Inset Plots for Spatial Data Visualization
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{qol} 1.1.1](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
-
-+ [{vetiver} 0.2.7](https://cran.r-project.org/package=vetiver): Version, Share, Deploy, and Monitor Models - [diffify](https://diffify.com/R/vetiver)
-
-+ [{tidypredict} 1.0.1](https://cran.r-project.org/package=tidypredict): Run Predictions Inside the Database - [diffify](https://diffify.com/R/tidypredict)
-
-+ [{rde} 0.1.1](https://cran.r-project.org/package=rde): Reproducible Data Embedding - [diffify](https://diffify.com/R/rde)
-
-+ [{plumber} 1.3.1](https://cran.r-project.org/package=plumber): An API Generator for R - [diffify](https://diffify.com/R/plumber)
-
-+ [{pubchem.bio} 1.0.3](https://cran.r-project.org/package=pubchem.bio): Biologically Informed Metabolomic Libraries from 'PubChem' - [diffify](https://diffify.com/R/pubchem.bio)
-  
-+ [{maptiles} 0.11.0](https://cran.r-project.org/package=maptiles): Download and Display Map Tiles - [diffify](https://diffify.com/R/maptiles)
-
-+ [{Bchron} 4.7.8](https://cran.r-project.org/package=Bchron): Age-Depth Radiocarbon Modelling - [diffify](https://diffify.com/R/Bchron)
-
-+ [{SeuratObject} 5.3.0](https://cran.r-project.org/package=SeuratObject): Data Structures for Single Cell Data - [diffify](https://diffify.com/R/SeuratObject)
-
-+ [{geoflow} 1.1.0](https://cran.r-project.org/package=geoflow): Orchestrate Geospatial (Meta)Data Management Workflows and Manage FAIR Services - [diffify](https://diffify.com/R/geoflow)
++ [dang 0.0.17: New Features, Plus Maintenance](http://dirk.eddelbuettel.com/blog/2025/12/18#dang_0.0.17)
++ [RcppArmadillo 15.2.3-1 on CRAN: Upstream Update](http://dirk.eddelbuettel.com/blog/2025/12/17#rcpparmadillo_15.2.3-1)
++ [{tidyr} 1.3.2](https://cran.r-project.org/package=tidyr): Tidy Messy Data - [diffify](https://diffify.com/R/tidyr)
++ [{knitr} 1.51](https://cran.r-project.org/package=knitr): A General-Purpose Package for Dynamic Report Generation in R - [diffify](https://diffify.com/R/knitr)
++ [{futureverse} 0.1.1](https://cran.r-project.org/package=futureverse): Install 'Futureverse' in One Go - [diffify](https://diffify.com/R/futureverse)
++ [{e1071} 1.7-17](https://cran.r-project.org/package=e1071): Misc Functions of the Department of Statistics, Probability
+Theory Group (Formerly: E1071), TU Wien - [diffify](https://diffify.com/R/e1071)
++ [{dbscan} 1.2.4](https://cran.r-project.org/package=dbscan): Density-Based Spatial Clustering of Applications with Noise
+(DBSCAN) and Related Algorithms - [diffify](https://diffify.com/R/dbscan)
++ [{modeltime} 1.3.3](https://cran.r-project.org/package=modeltime): The Tidymodels Extension for Time Series Modeling - [diffify](https://diffify.com/R/modeltime)
++ [{PMwR} 1.2-0](https://cran.r-project.org/package=PMwR): Portfolio Management with R - [diffify](https://diffify.com/R/PMwR)
++ [{fImport} 4052.89](https://cran.r-project.org/package=fImport): Rmetrics - Importing Economic and Financial Data - [diffify](https://diffify.com/R/fImport)
++ [{selectr} 0.5-1](https://cran.r-project.org/package=selectr): Translate CSS Selectors to XPath Expressions - [diffify](https://diffify.com/R/selectr)
++ [{impectR} 2.5.3](https://cran.r-project.org/package=impectR): Access Data from the 'Impect' API - [diffify](https://diffify.com/R/impectR)
++ [{nhlscraper} 0.4.1](https://cran.r-project.org/package=nhlscraper): Scraper for National Hockey League Data - [diffify](https://diffify.com/R/nhlscraper)
++ [{ggsci} 4.2.0](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
+'ggplot2' - [diffify](https://diffify.com/R/ggsci)
++ [{mindr} 1.4.1](https://cran.r-project.org/package=mindr): Generate Mind Maps - [diffify](https://diffify.com/R/mindr)
++ [{ganttify} 0.1.8](https://cran.r-project.org/package=ganttify): Create Interactive Gantt Charts with Work Breakdown Structure - [diffify](https://diffify.com/R/ganttify)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
+### Shiny Apps
+
++ [AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns](https://statsandr.com/blog/associationexplorer-a-user-friendly-shiny-application-for-exploring-associations-and-visual-patterns/)
+
+### R Internationally
+
++ [Japan R 2025](https://japanr.connpass.com/event/374714/)
++ [R for Research Japan 2025](https://rjpusers.connpass.com/event/373551/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -150,16 +111,18 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@aRtsy_package/115699428591691098/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@aRtsy_package/115699428591691098" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @aRtsy_package@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:wga6sty4f4m54nnfdtjljczp/app.bsky.feed.post/3m74adnufsc2k" data-bluesky-cid="bafyreicryiaymyhsodsbxa43x5v2gbgmospzq47h7tbj7fmtun5lfgpsh4" data-bluesky-embed-color-mode="system"><p lang="en">I&#x27;ve always liked making bubbles in generative art 🫧🎨
+
+#rtistry #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:wga6sty4f4m54nnfdtjljczp/post/3m74adnufsc2k?ref_src=embed">[image or embed]</a></p>&mdash; Calle Börstell (<a href="https://bsky.app/profile/did:plc:wga6sty4f4m54nnfdtjljczp?ref_src=embed">@cborstell.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:wga6sty4f4m54nnfdtjljczp/post/3m74adnufsc2k?ref_src=embed">December 4, 2025 at 4:54 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@safest_integer/114329996541737881/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@safest_integer/114329996541737881" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @safest_integer@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
 
 ### Quotes of the Week
 
-<img width="592" height="534" alt="Screenshot 2025-12-15 at 22 14 12" src="https://github.com/user-attachments/assets/75beda71-59b2-4fc9-8fcf-931040f15878" />
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This lo-res, firefly-ridden render of Brasil&#39;s power transmission lines (osm and derived) took hours. Turns out even with Tyler&#39;s amazing optimizations, I can still bring the rendering process to a crawl. To be fair, it&#39;s over 150k lines. <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/HPZsfNgN8T">pic.twitter.com/HPZsfNgN8T</a></p>&mdash; terence (@researchremora) <a href="https://twitter.com/researchremora/status/1993857157133951464?ref_src=twsrc%5Etfw">November 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:wvmvjmwdooynkpxdwlghnvq6/app.bsky.feed.post/3m7mj3nbkgk2b" data-bluesky-cid="bafyreidcmtvgymilgtydsp3mhowwdth3c4uvdu25pd2ukxli3hha2fsm4q" data-bluesky-embed-color-mode="system"><p lang="en">I am still and always  
-After so many and so many years  
-That child who pulls on a string  
-In pursuit of the wind…  
-Philippe Soupault  
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:g45aloxzc3uipqonbokrcu5t/app.bsky.feed.post/3maelrehbz22y" data-bluesky-cid="bafyreiceixgr4s5eo2hzw6nx7sqiuqwfu22tlkko6qijvjvb4g54wsiqau" data-bluesky-embed-color-mode="system"><p lang="en">R climbs back up into the top ten programming languages
 
-Love Is In The Air (Flower Thrower) - Banksy 2013<br><br><a href="https://bsky.app/profile/did:plc:wvmvjmwdooynkpxdwlghnvq6/post/3m7mj3nbkgk2b?ref_src=embed">[image or embed]</a></p>&mdash; TRAstonDrs (<a href="https://bsky.app/profile/did:plc:wvmvjmwdooynkpxdwlghnvq6?ref_src=embed">@castltrastondrs.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:wvmvjmwdooynkpxdwlghnvq6/post/3m7mj3nbkgk2b?ref_src=embed">December 10, 2025 at 7:13 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+https://flowingdata.com/2025/12/19/r-climbs-back-up-into-the-top-ten-programming-languages/
+
+#rstats #datascience<br><br><a href="https://bsky.app/profile/did:plc:g45aloxzc3uipqonbokrcu5t/post/3maelrehbz22y?ref_src=embed">[image or embed]</a></p>&mdash; The R Data Scientist (<a href="https://bsky.app/profile/did:plc:g45aloxzc3uipqonbokrcu5t?ref_src=embed">@rstats.blaze.email</a>) <a href="https://bsky.app/profile/did:plc:g45aloxzc3uipqonbokrcu5t/post/3maelrehbz22y?ref_src=embed">December 20, 2025 at 6:05 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>

@@ -1,37 +1,35 @@
 # RSS POSTS: ##
 
 + [Finally figured out a way to port python packages to R using uv and reticulate: example with nnetsauce](https://thierrymoudiki.github.io/blog/2025/12/17/r/python/new-nnetsauce-R-uv)
-+ [AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns](https://statsandr.com/blog/associationexplorer-a-user-friendly-shiny-application-for-exploring-associations-and-visual-patterns/)
-+ [Machine Learning Powered Naughty List: A Festive Jumping Rivers Story](https://www.jumpingrivers.com/blog/christmas-machine-learning-naughty-list/)
-+ [2025 in Review: Growth, Community, & Momentum](https://r-consortium.org/posts/2025-in-review-growth-community-momentum/index.html)
-+ [Enabling the Next Generation of Contributors to R](https://r-consortium.org/posts/650K-for-R/index.html)
-+ [Empowering Government Professionals in Nepal Using R programming for Forestry Data Analysis](https://r-consortium.org/posts/empowering-government-professionals-in-nepal-using-r-programming-for-forestry-data-analysis/index.html)
-+ [Reviving Budapest Users of R Network and Reversing Diabetes: How Gergely Daroczi Brings Data to Life with R](https://r-consortium.org/posts/reviving-budapest-users-of-r-network-and-reversing-diabetes-how-gergely-daroczi-brings-data-to-life-with-r/index.html)
-+ [Johnson & Johnson’s Success Story: A Hybrid R/SAS Strategy for FDA Submission](https://r-consortium.org/posts/johnson-and-johnsons-success-story-a-hybrid-r-sas-strategy-for-fda-submission/index.html)
 + [dang 0.0.17: New Features, Plus Maintenance](http://dirk.eddelbuettel.com/blog/2025/12/18#dang_0.0.17)
 + [RcppArmadillo 15.2.3-1 on CRAN: Upstream Update](http://dirk.eddelbuettel.com/blog/2025/12/17#rcpparmadillo_15.2.3-1)
-+ [BH 1.90.0-1 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2025/12/14#bh_1.90.0-1)
 + [rOpenSci News Digest, December 2025](https://ropensci.org/blog/2025/12/18/news-december-2025/)
 + [Code Hosting Options Beyond GitHub](https://ropensci.org/blog/2025/12/17/beyond-github/)
-+ [Better Code, Without Any Effort, Without Even AI](https://ropensci.org/blog/2025/12/15/better-code/)
 + [R Package Development in Positron workshop](https://r-posts.com/r-package-development-in-positron-workshop/)
 + [RSMF: Enabling the Next Generation of Contributors to R](https://blog.r-project.org/2025/12/17/rsmf-enabling-the-next-generation-of-contributors-to-r/)
-+ [Elephant(s) in the room: Graph neural networks, embeddings, and foundation models in spatial data science](https://jakubnowosad.com/posts/2025-12-15-agforum-talk/)
-+ [2025-12-19 AI Newsletter](https://posit.co/blog/2025-12-19-ai-newsletter/)
-+ [What’s New in gt 1.2.0: Better Tables Through Collaboration](https://posit.co/blog/gt-1-2-0/)
-+ [Accelerating Tree-Based Models in SQL with Orbital 0.3.0](https://posit.co/blog/orbital-0-3-0/)
-+ [Containerization in Posit Connect: Stable, Repeatable Deployments – No Dockerfile Required](https://posit.co/blog/containerization-in-posit-connect-stable-repeatable-deployments/)
-+ [Local models are not there (yet)](https://posit.co/blog/local-models-are-not-there-yet/)
-+ [Posit Workbench for Financial Services and Insurance](https://posit.co/blog/posit-workbench-for-financial-services-and-insurance/)
-+ [Winner of the 2025 Plotnine Plotting Contest](https://posit.co/blog/winner-of-the-2025-plotnine-plotting-contest/)
-+ [2025 geocompx report: advancing spatial data analysis across languages](https://geocompx.org/post/2025/updates-2025/)
 + [Introducing docorator to the pharmaverse](https://pharmaverse.github.io/blog/posts/2025-12-19_introducing/introducing_docorator.html)
 + [Explore the Pharmaverse Examples: Your Gateway to Clinical Reporting with Open-Source Tools](https://pharmaverse.github.io/blog/posts/2025-12-18_pharmaverse/pharmaverse__examples.html)
 + [Weekly Recap (December 19, 2025)](https://blog.stephenturner.us/p/weekly-recap-december-19-2025)
 + [Biotech policy is getting attention on the Hill](https://blog.stephenturner.us/p/biotech-policy-nsceb)
 + [Scikit-bio: Python for Omics](https://blog.stephenturner.us/p/scikit-bio-python-for-omics)
 + [How do you design AI-resistant assignments?](https://blog.stephenturner.us/p/ai-resistant-assignments)
+
+
+
 # CRANberries UPDATED: ##
++ [{tinyVAST} 1.4.0](https://cran.r-project.org/package=tinyVAST): Multivariate Spatio-Temporal Models using Structural Equations - [diffify](https://diffify.com/R/tinyVAST)
++ [{mmcmcBayes} 0.2.0](https://cran.r-project.org/package=mmcmcBayes): Multistage MCMC Method for Detecting DMRs - [diffify](https://diffify.com/R/mmcmcBayes)
++ [{isopam} 3.3](https://cran.r-project.org/package=isopam): Clustering of Sites with Species Data - [diffify](https://diffify.com/R/isopam)
++ [{futureverse} 0.1.1](https://cran.r-project.org/package=futureverse): Install 'Futureverse' in One Go - [diffify](https://diffify.com/R/futureverse)
++ [{DOVE} 1.11](https://cran.r-project.org/package=DOVE): Durability of Vaccine Efficacy - [diffify](https://diffify.com/R/DOVE)
++ [{tidypopgen} 0.4.1](https://cran.r-project.org/package=tidypopgen): Tidy Population Genetics - [diffify](https://diffify.com/R/tidypopgen)
++ [{Rsomoclu} 1.7.7](https://cran.r-project.org/package=Rsomoclu): Somoclu - [diffify](https://diffify.com/R/Rsomoclu)
++ [{PupilPre} 0.6.3](https://cran.r-project.org/package=PupilPre): Preprocessing Pupil Size Data - [diffify](https://diffify.com/R/PupilPre)
++ [{phylospatial} 1.2.0](https://cran.r-project.org/package=phylospatial): Spatial Phylogenetic Analysis - [diffify](https://diffify.com/R/phylospatial)
++ [{npANCOVA} 0.1.1](https://cran.r-project.org/package=npANCOVA): Nonparametric ANCOVA Methods - [diffify](https://diffify.com/R/npANCOVA)
++ [{knitr} 1.51](https://cran.r-project.org/package=knitr): A General-Purpose Package for Dynamic Report Generation in R - [diffify](https://diffify.com/R/knitr)
++ [{junco} 0.1.2](https://cran.r-project.org/package=junco): Create Common Tables and Listings Used in Clinical Trials - [diffify](https://diffify.com/R/junco)
++ [{AzureAuth} 1.3.4](https://cran.r-project.org/package=AzureAuth): Authentication Services for Azure Active Directory - [diffify](https://diffify.com/R/AzureAuth)
 + [{wbids} 1.1.3](https://cran.r-project.org/package=wbids): Seamless Access to World Bank International Debt Statistics
 (IDS) - [diffify](https://diffify.com/R/wbids)
 + [{emuR} 2.6.0](https://cran.r-project.org/package=emuR): Main Package of the EMU Speech Database Management System - [diffify](https://diffify.com/R/emuR)
@@ -251,23 +249,13 @@ High-Dimensional Data - [diffify](https://diffify.com/R/gaselect)
 Sets - [diffify](https://diffify.com/R/datetoiso)
 + [{biodosetools} 3.7.2](https://cran.r-project.org/package=biodosetools): 'shiny' Application for Biological Dosimetry - [diffify](https://diffify.com/R/biodosetools)
 + [{akc} 0.9.9.2](https://cran.r-project.org/package=akc): Automatic Knowledge Classification - [diffify](https://diffify.com/R/akc)
-+ [{resourcecode} 0.5.1](https://cran.r-project.org/package=resourcecode): Access to the 'RESOURCECODE' Hindcast Database - [diffify](https://diffify.com/R/resourcecode)
-+ [{nlgeocoder} 0.2.2](https://cran.r-project.org/package=nlgeocoder): Geocoding for the Netherlands - [diffify](https://diffify.com/R/nlgeocoder)
-+ [{mixAR} 0.22.9](https://cran.r-project.org/package=mixAR): Mixture Autoregressive Models - [diffify](https://diffify.com/R/mixAR)
-+ [{glmnetr} 0.6-3](https://cran.r-project.org/package=glmnetr): Nested Cross Validation for the Relaxed Lasso and Other Machine
-Learning Models - [diffify](https://diffify.com/R/glmnetr)
-+ [{ggeffects} 2.3.2](https://cran.r-project.org/package=ggeffects): Create Tidy Data Frames of Marginal Effects for 'ggplot' from
-Model Outputs - [diffify](https://diffify.com/R/ggeffects)
-+ [{fastglm} 0.0.4](https://cran.r-project.org/package=fastglm): Fast and Stable Fitting of Generalized Linear Models using
-'RcppEigen' - [diffify](https://diffify.com/R/fastglm)
-+ [{SuperCell} 1.1](https://cran.r-project.org/package=SuperCell): Simplification of scRNA-Seq Data by Merging Together Similar
-Cells - [diffify](https://diffify.com/R/SuperCell)
-+ [{NlinTS} 1.4.6](https://cran.r-project.org/package=NlinTS): Models for Non Linear Causality Detection in Time Series - [diffify](https://diffify.com/R/NlinTS)
-+ [{dawaR} 0.3.2](https://cran.r-project.org/package=dawaR): An API Wrapper for 'DAWA' - 'The Danish Address Web API' - [diffify](https://diffify.com/R/dawaR)
-+ [{biostats} 1.1.1](https://cran.r-project.org/package=biostats): Biostatistics and Clinical Data Analysis - [diffify](https://diffify.com/R/biostats)
-+ [{rpact} 4.3.0](https://cran.r-project.org/package=rpact): Confirmatory Adaptive Clinical Trial Design and Analysis - [diffify](https://diffify.com/R/rpact)
-+ [{spant} 3.8.0](https://cran.r-project.org/package=spant): MR Spectroscopy Analysis Tools - [diffify](https://diffify.com/R/spant)
-+ [{wsrf} 1.7.31](https://cran.r-project.org/package=wsrf): Weighted Subspace Random Forest for Classification - [diffify](https://diffify.com/R/wsrf)
+
+
+
+
+
+
+
 # CRANberries NEW: ##
 + [{tipse} 1.1](https://cran.r-project.org/package=tipse): Tipping Point Analysis for Survival Endpoints
 + [{readmit} 0.0.1](https://cran.r-project.org/package=readmit): Tools for Working with Hospital Readmissions Data
@@ -347,9 +335,3 @@ Time Series Data
 + [{cosCorr} 1.0.0](https://cran.r-project.org/package=cosCorr): Cosine-Correlation Coefficient for Vector Variables
 + [{AssociationExplorer2} 0.1.2](https://cran.r-project.org/package=AssociationExplorer2): A User-Friendly 'shiny' Application for Exploring Associations
 and Visual Patterns
-+ [{probaverse} 0.1.0](https://cran.r-project.org/package=probaverse): Install and Load the 'probaverse' Packages
-+ [{CrownScorchTLS} 0.1.0](https://cran.r-project.org/package=CrownScorchTLS): Estimate Crown Scorch from Terrestrial LiDAR Scans
-+ [{pubrplot} 0.0.1](https://cran.r-project.org/package=pubrplot): Publication-Ready Plots and Statistical Visualizations
-+ [{PowRPriori} 0.1.1](https://cran.r-project.org/package=PowRPriori): Power Analysis via Data Simulation for (Generalized) Linear
-Mixed Effects Models
-+ [{journalR} 0.6.0](https://cran.r-project.org/package=journalR): Formatting Tools for Scientific Journal Writing
