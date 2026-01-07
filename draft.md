@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [R + Python: From polyglot to pluralism](https://www.emilyriederer.com/post/py-rgo-crosspol/): A very targeted recap on posit::conf(2025) and a broader reflection on how the best design and devtools ideas from R and python have influenced each others' stacks for the better
 
 ### R in Organizations
 
