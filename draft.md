@@ -29,7 +29,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in Academia
-
++ [Estimation of the epidemiological characteristics of scabies](https://www.nature.com/articles/s41467-025-65544-y) and accompnaying R package [mitey](https://kylieainslie.github.io/mitey/). 
 
 
 ### Tutorials
