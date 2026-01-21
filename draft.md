@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+- [{vecmatch} 1.3.0](https://cran.r-project.org/package=vecmatch): Generalized Propensity Score Estimation and Matching for Multiple Groups
 
 **Bioconductor**
 
