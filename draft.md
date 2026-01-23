@@ -47,6 +47,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{provolleyballr} 0.1.0](https://cran.r-project.org/package=provolleyballr): Extract Data from US Women's Professional Volleyball Websites
+
 
 **Bioconductor**
 
@@ -59,6 +61,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{ncaavolleyballr} 0.5.1](https://cran.r-project.org/package=ncaavolleyballr): Extract Data from NCAA Women's and Men's Volleyball Website
+
 
 ### Videos and Podcasts
 
