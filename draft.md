@@ -8,36 +8,34 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jonathankitt.bsky.social), with help from the R Weekly team members and contributors.
 
 
 ### Highlight
 
 
-
 ### Insights
 
++ [Where Questions Become Queries: Meet querychat](https://shiny.posit.co/blog/posts/querychat-python-r/)
++ [LLMs interpret plots well, until expectations interfere](https://posit.co/blog/llm-plot-interpretation/)
++ [Announcing {typeR}: simulate live typing of R scripts](https://federicagazzelloni.com/content/rpackages/posts/typeR/)
++ [futurize: Parallelize Common Functions via a "Magic" Touch](https://www.jottr.org/2026/01/22/futurize-0.1.0/)
 
 
 ### R in the Real World
 
-
-
-### R in Organizations
-
-
-
-### R in Academia
-
-
++ [Students, software, and soil flux](https://methodsblog.com/2026/01/22/students-software-and-soil-flux-lessons-learned-from-development-of-a-package-to-estimate-soil-carbon-flux-at-national-ecological-observatory-sites-across-the-united-states/)
 
 ### Tutorials
 
 + [Building an R Weekly Highlights Podcast Asisstant with Shiny](https://jokasan.github.io/r-weekly_chatbot/)
++ [Using {ellmer} for Dynamic Alt Text Generation in {shiny} Apps](https://www.jumpingrivers.com/blog/ellmer-dynamic-alt-text/)
++ [Bivariate chloropleths are go!](https://geospatialstuff.com/posts/2026-01-21-bivariate-choropleths/)
 
 ### Resources
 
++ [rspatialdata](https://rspatialdata.github.io/)
++ [Psy 6136: Categorical Data Analysis](https://friendly.github.io/psy6136/)
 
 
 ### New Packages
@@ -48,16 +46,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-- [{vecmatch} 1.3.0](https://cran.r-project.org/package=vecmatch): Generalized Propensity Score Estimation and Matching for Multiple Groups
++ [{vecmatch} 1.3.0](https://cran.r-project.org/package=vecmatch): Generalized Propensity Score Estimation and Matching for Multiple Groups
 + [{provolleyballr} 0.1.0](https://cran.r-project.org/package=provolleyballr): Extract Data from US Women's Professional Volleyball Websites
-
++ [{orcidtr} 0.1.0](https://cran.r-project.org/package=orcidtr): Retrieve Data from the ORCID Public API
++ [{querychat} 0.2.0](https://cran.r-project.org/package=querychat): Filter and Query Data Frames in 'shiny' Using an LLM Chat
+Interface
++ [{futurize} 0.1.0](https://cloud.r-project.org/web/packages/futurize/index.html): Parallelize Common Functions via One Magic Touch
 
 **Bioconductor**
-
-
-
-**GitHub or Bitbucket**
 
 
 
@@ -65,25 +61,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+**CRAN**
+
 + [{ncaavolleyballr} 0.5.1](https://cran.r-project.org/package=ncaavolleyballr): Extract Data from NCAA Women's and Men's Volleyball Website
++ [{gtExtras} 0.6.2](https://cran.r-project.org/package=gtExtras): Extending 'gt' for Beautiful HTML Tables - [diffify](https://diffify.com/R/gtExtras)
++ [{rix} 0.17.4](https://cran.r-project.org/package=rix): Reproducible Data Science Environments with 'Nix' - [diffify](https://diffify.com/R/rix)
++ [{multiDEGGs} 1.1.2](https://cran.r-project.org/package=multiDEGGs): Multi-Omic Differentially Expressed Gene-Gene Pairs - [diffify](https://diffify.com/R/multiDEGGs)
++ [{charlatan} 0.6.2](https://cran.r-project.org/package=charlatan): Make Fake Data - [diffify](https://diffify.com/R/charlatan)
+
+**BioConductor**
+
++ [{orthogene} 1.16.1](https://bioconductor.org/packages/release/bioc/html/orthogene.html): map genes within and across hundreds of species
 
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
-
-### Gist & Cookbook
-
-
++ [Edinburgh R User Group - R Shiny App Development](https://www.youtube.com/watch?v=sjgPi2VX7WM&t=127s)
 
 ### Shiny Apps
 
-
-
-### R Internationally
-
-
++ [UK University Finance Dashboard](https://shiny.psychology.nottingham.ac.uk/lpzjd/uni-finances/?tab=guide)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -96,6 +94,9 @@ Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-pro
 
 ### Call for Participation
 
++ [Open call for the rOpenSci Champions Program 2026!](https://ropensci.org/blog/2026/01/12/programchamps2026/)
++ [Posit::conf(2026) Call for Talks](https://posit.co/blog/posit-conf-2026-call-for-talks/)
+
 
 ### Upcoming Events in 3 Months
 
@@ -107,11 +108,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
@@ -119,5 +115,13 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mcwhe5zvxm2q" data-bluesky-cid="bafyreiesuvzftzkvicg2wfqgakdx2wrmzcxca3ycldidh7bawxxcxrhgdq" data-bluesky-embed-color-mode="system"><p lang="">Genuary Day 21: Bauhaus Poster. Create a poster design inspired by the German art school Bauhaus. 
+
+#genuary #genuary2026 #genuary21 #RStats<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mcwhe5zvxm2q?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mcwhe5zvxm2q?ref_src=embed">21 janvier 2026 à 11:24</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 
 ### Quotes of the Week
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:wfovh6sqfzu5hco34wczf4ku/app.bsky.feed.post/3mcxdxinz7k2x" data-bluesky-cid="bafyreieup2ihzd6f2d2c2fcel7iwkm5skrd65t2g5kyfz26srvmowtm3ce" data-bluesky-embed-color-mode="system"><p lang="en">Me clicking ^ for several minutes until I get back to devtools::test()
+
+#R #RStats<br><br><a href="https://bsky.app/profile/did:plc:wfovh6sqfzu5hco34wczf4ku/post/3mcxdxinz7k2x?ref_src=embed">[image or embed]</a></p>&mdash; jrdnbradford.bsky.social (<a href="https://bsky.app/profile/did:plc:wfovh6sqfzu5hco34wczf4ku?ref_src=embed">@jrdnbradford.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:wfovh6sqfzu5hco34wczf4ku/post/3mcxdxinz7k2x?ref_src=embed">21 janvier 2026 à 19:56</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
