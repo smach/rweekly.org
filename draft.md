@@ -83,6 +83,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ Rencontres R 2026](https://pretix.eu/r-contributors/r-dev-day-rr2026/): Nantes University, France or remote, Friday 19 June, 9am - 5pm (UTC+2). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Friday 29 May**.
+
 ### Call for Participation
 
 
