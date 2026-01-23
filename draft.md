@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Building an R Weekly Highlights Podcast Asisstant with Shiny](https://jokasan.github.io/r-weekly_chatbot/)
 
 ### Resources
 
@@ -47,7 +48,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+
 - [{vecmatch} 1.3.0](https://cran.r-project.org/package=vecmatch): Generalized Propensity Score Estimation and Matching for Multiple Groups
++ [{provolleyballr} 0.1.0](https://cran.r-project.org/package=provolleyballr): Extract Data from US Women's Professional Volleyball Websites
+
 
 **Bioconductor**
 
@@ -60,6 +64,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{ncaavolleyballr} 0.5.1](https://cran.r-project.org/package=ncaavolleyballr): Extract Data from NCAA Women's and Men's Volleyball Website
+
 
 ### Videos and Podcasts
 
@@ -83,6 +90,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ Rencontres R 2026](https://pretix.eu/r-contributors/r-dev-day-rr2026/): Nantes University, France or remote, Friday 19 June, 9am - 5pm (UTC+2). Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Friday 29 May**.
 
 ### Call for Participation
 
