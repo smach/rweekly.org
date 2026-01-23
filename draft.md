@@ -48,6 +48,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+
+- [{vecmatch} 1.3.0](https://cran.r-project.org/package=vecmatch): Generalized Propensity Score Estimation and Matching for Multiple Groups
 + [{provolleyballr} 0.1.0](https://cran.r-project.org/package=provolleyballr): Extract Data from US Women's Professional Volleyball Websites
 
 
