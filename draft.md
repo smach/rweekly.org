@@ -25,6 +25,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 ### R in the Real World
 
 + [Students, software, and soil flux](https://methodsblog.com/2026/01/22/students-software-and-soil-flux-lessons-learned-from-development-of-a-package-to-estimate-soil-carbon-flux-at-national-ecological-observatory-sites-across-the-united-states/)
++[nycOpenData: A Curated Interface for NYC Open Data](https://martinezc1.github.io/nycOpenData/) by Christian Martinez. An R package for municipal data, currently under JOSS review and used in Brooklyn Open Data Lab curriculum.
 
 ### Tutorials
 
