@@ -47,7 +47,6 @@
 "https://feeds.feedburner.com/Tychobra",1,""
 "https://feeds.feedburner.com/AnAccountingAndDataScienceNerdsCorner",1,""
 "https://medium.com/feed/@ModelOriented",0,""
-"http://feeds.feedburner.com/statsandr/zjAx",1,""
 "http://www.sastibe.de/categories/r/index.xml",1,""
 "https://www.rdatagen.net/index.xml",1,""
 "http://theautomatic.net/category/r/feed/",0,""
@@ -448,4 +447,4 @@
 "https://rladiesrome.org/index.xml", 1, ""
 "https://romerusersgroup.github.io/index.xml", 1, ""
 "https://federicagazzelloni.com/index.xml", 1, "https://x.com/FGazzelloni"
-"https://statsandr.com/index.xml", 1, "https://x.com/statsandr"
+"https://statsandr.com/index.xml",1,"https://x.com/statsandr"
