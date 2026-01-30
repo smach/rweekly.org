@@ -92,6 +92,8 @@ Events in 3 Months:
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
++ [Applied Machine Learning Conference 2026](https://appliedml.us/2026/cfp/)
+
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
