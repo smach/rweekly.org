@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [arf console](https://github.com/eitsupi/arf): Alternative R Frontend - a modern, cross-platform R console written in Rust with fuzzy help search and syntax highlighting.
 
 ### Updated Packages
 
