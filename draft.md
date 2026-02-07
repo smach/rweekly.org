@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Jarl 0.4.0](https://www.etiennebacher.com/posts/2026-02-03-jarl-0.4.0/)
 
++ [secretbase: The hash package smaller than most hex stickers](https://shikokuchuo.net/posts/28-introducing-secretbase/)
+
 
 ### R in the Real World
 
