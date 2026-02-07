@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [secretbase: The hash package smaller than most hex stickers](https://shikokuchuo.net/posts/28-introducing-secretbase/)
 
 
 ### R in the Real World
