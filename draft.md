@@ -247,8 +247,8 @@ Networks - [diffify](https://diffify.com/R/kindling)
 
 ### Shiny Apps
 
-
-
++ [Package Dependency vizualizer (on top of {PAK})](https://tinyurl.com/package-dependency-viz) <br>
+More details in [Bluesky](https://bsky.app/profile/yannco.bsky.social/post/3mecvgqapj22v)
 ### R Internationally
 
 
