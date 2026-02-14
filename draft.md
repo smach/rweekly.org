@@ -60,7 +60,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+
++ [{qol} 1.2.1](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
+
 + [{cocoon} 0.3.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output
+
 
 ### Videos and Podcasts
 
