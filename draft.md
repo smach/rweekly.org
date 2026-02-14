@@ -60,7 +60,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+
 + [{qol} 1.2.1](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
+
++ [{cocoon} 0.3.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output
+
 
 ### Videos and Podcasts
 
@@ -73,8 +77,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
-
++ [Package Dependency vizualizer (on top of {PAK})](https://tinyurl.com/package-dependency-viz) <br>
+More details in [Bluesky](https://bsky.app/profile/yannco.bsky.social/post/3mecvgqapj22v)
 ### R Internationally
 
 
@@ -91,6 +95,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [rainbowR conference](https://conference.rainbowr.org), Feb 25th-26th, 2026, virtual, free. 
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
