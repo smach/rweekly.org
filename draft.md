@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Pick a License, Not Any License](https://doi.org/10.59350/98ngz-sbb50): Why you should care about data science software licenses and how to learn more
+<img width="600" height="394" alt="image" src="https://github.com/user-attachments/assets/2bf7f233-4252-4839-8d7f-48875d3ee6e2" />
 
 
 ### R in the Real World
