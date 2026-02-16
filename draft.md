@@ -8,13 +8,13 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.uk/about-us/our-team/dr-batool-almarzouq), with help from the R Weekly team members and contributors.
 
 
 ### Highlight
++ [Submissions Working Group: 2026 Plans and 2025 Success](https://r-consortium.org/posts/submissions-wg-2026/index.html)
 
-
++ [Viewing Nested Lists with xfun::tabset()](https://yihui.org/en/2026/02/xfun-tabset)
 
 ### Insights
 
@@ -79,8 +79,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-+ [Package Dependency vizualizer (on top of {PAK})](https://tinyurl.com/package-dependency-viz) <br>
-More details in [Bluesky](https://bsky.app/profile/yannco.bsky.social/post/3mecvgqapj22v)
++ [Package Dependency vizualizer (on top of {PAK})](https://tinyurl.com/package-dependency-viz) <br> and more details in [Bluesky](https://bsky.app/profile/yannco.bsky.social/post/3mecvgqapj22v)
+  
+<img width="748" height="664" alt="Screenshot 2026-02-16 at 17 55 15" src="https://github.com/user-attachments/assets/4803e985-e878-495c-81a4-6cb08f6224b9" />
+
+
 ### R Internationally
 
 
@@ -99,6 +102,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [rainbowR conference](https://conference.rainbowr.org), Feb 25th-26th, 2026, virtual, free. 
+
+<img width="597" height="287" alt="Screenshot 2026-02-16 at 17 54 24" src="https://github.com/user-attachments/assets/9b058c6d-b769-4e33-960c-433e8662dce3" />
+
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
