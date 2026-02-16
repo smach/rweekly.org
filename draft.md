@@ -28,6 +28,9 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
   
 ### R in the Real World
 
++ [The world's biggest 'Pacific' cities](https://freerangestats.info/blog/2026/02/16/pacific-cities)
+
++ [Visualising income inequality social tables by @ellis2013nz](https://freerangestats.info/blog/2026/02/08/social-table-visualisations)
 
 
 ### R in Organizations
@@ -38,16 +41,10 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 
 <img width="662" height="651" alt="Screenshot 2026-02-16 at 18 08 06" src="https://github.com/user-attachments/assets/579ce684-272e-4bcf-a15e-a68817e980dc" />
 
-### R in Academia
-
-
 
 ### Tutorials
 
-
 + [Associated Keywords: The Missed Opportunity in Search Advertising](http://flovv.github.io/associated-keywords/)
-  
-+ [Visualising income inequality social tables by @ellis2013nz](https://freerangestats.info/blog/2026/02/08/social-table-visualisations)
   
 + [Introducing geoboundaries](https://dieghernan.github.io/202602_geobounds/)
 
@@ -60,10 +57,6 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 + [Navigating CRAN's Reverse Dependency Check Logs](https://yihui.org/en/2026/02/revdep-tabset/)
 
 + [How Posit's Public Package Manager manylinux_2_28 repository can help you if your R project is stuck on Ubuntu Focal Fossa](https://remlapmot.github.io/post/2026/manylinux-packages/)
-
-
-### Resources
-
 
 
 ### New Packages
@@ -116,13 +109,6 @@ Regression Methods
 + [{quickSentiment} 0.2.0](https://cran.r-project.org/package=quickSentiment): A Fast and Flexible Pipeline for Text Classification
   
 + [{climenu} 0.1.4](https://cran.r-project.org/package=climenu): Interactive Command-Line Menus
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
 
 
 ### Updated Packages
@@ -177,10 +163,6 @@ Statistics", Second Edition - [diffify](https://diffify.com/R/UsingR)
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Package Dependency vizualizer (on top of {PAK})](https://tinyurl.com/package-dependency-viz) <br> and more details in [Bluesky](https://bsky.app/profile/yannco.bsky.social/post/3mecvgqapj22v)
@@ -190,15 +172,13 @@ Statistics", Second Edition - [diffify](https://diffify.com/R/UsingR)
 
 ### R Internationally
 
-
+- [Large Language Model tools for R in English and Spanish](https://luisdva.github.io/llmsr-book/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-### Call for Participation
 
 
 ### Upcoming Events in 3 Months
@@ -217,11 +197,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
@@ -229,5 +204,18 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3me55drnh2s2q" data-bluesky-cid="bafyreiekh3d5jsl4gjaut2fnydebeirjkq2mbav3w2ykrezcoyjqwvj3va" data-bluesky-embed-color-mode="system"><p lang="en">🎨 
+
+#Rtistry #RStats #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3me55drnh2s2q?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3me55drnh2s2q?ref_src=embed">February 5, 2026 at 7:39 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:dk2qundds27e6wiiaendznuu/app.bsky.feed.post/3mepptauxpk2k" data-bluesky-cid="bafyreic4g2l5mylrxbr2lgqswbf2pujv5i5nlg6ankaawlk72muloicltm" data-bluesky-embed-color-mode="system"><p lang="en">The #DuBoisChallenge started this week! This year&#x27;s theme is maps, opening with Plate 1, where Du Bois reminds audiences that the African Diaspora was built on Transatlantic Slave Trade.
+
+Borrowed an approach of looking at states from @nrennie.bsky.social
+
+Code in #rstats: github.com/drjohnrussel...<br><br><a href="https://bsky.app/profile/did:plc:dk2qundds27e6wiiaendznuu/post/3mepptauxpk2k?ref_src=embed">[image or embed]</a></p>&mdash; John Russell (<a href="https://bsky.app/profile/did:plc:dk2qundds27e6wiiaendznuu?ref_src=embed">@drjohnrussell.com</a>) <a href="https://bsky.app/profile/did:plc:dk2qundds27e6wiiaendznuu/post/3mepptauxpk2k?ref_src=embed">February 13, 2026 at 4:58 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mejucobizk2s" data-bluesky-cid="bafyreiennk4peou7kiyshjvrdfydfgr6vgcjascrplcgjhstejsc3nw7xq" data-bluesky-embed-color-mode="system"><p lang="en">I&#x27;m right in the middle of the #RStats, #DataViz and map people 💜<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mejucobizk2s?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mejucobizk2s?ref_src=embed">February 10, 2026 at 9:02 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:4ireqtiq3nz2fmtav6dael6u/app.bsky.feed.post/3kjpo6bkl3r2x" data-bluesky-cid="bafyreiaocor2oflkpkjuidvmp5ys6y5u23gwthywgklqcwztl6cm7nlxd4" data-bluesky-embed-color-mode="system"><p lang="">Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.<br><br><a href="https://bsky.app/profile/did:plc:4ireqtiq3nz2fmtav6dael6u/post/3kjpo6bkl3r2x?ref_src=embed">[image or embed]</a></p>&mdash; Sanweb - Random Stuffs 🦄 (<a href="https://bsky.app/profile/did:plc:4ireqtiq3nz2fmtav6dael6u?ref_src=embed">@sanweb.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:4ireqtiq3nz2fmtav6dael6u/post/3kjpo6bkl3r2x?ref_src=embed">January 24, 2024 at 8:41 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
