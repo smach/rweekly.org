@@ -12,6 +12,7 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 
 
 ### Highlight
+
 + [Submissions Working Group: 2026 Plans and 2025 Success](https://r-consortium.org/posts/submissions-wg-2026/index.html)
 
 + [Viewing Nested Lists with xfun::tabset()](https://yihui.org/en/2026/02/xfun-tabset)
@@ -21,20 +22,44 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 + [Pick a License, Not Any License](https://doi.org/10.59350/98ngz-sbb50): Why you should care about data science software licenses and how to learn more
 <img width="600" height="394" alt="image" src="https://github.com/user-attachments/assets/2bf7f233-4252-4839-8d7f-48875d3ee6e2" />
 
++ [RcppSpdlog 0.0.27 on CRAN: C++20 Accommodations](http://dirk.eddelbuettel.com/blog/2026/02/12#rcppspdlog_0.0.27)
 
++ [chronometre: A new package (pair) demo for R and Python](http://dirk.eddelbuettel.com/blog/2026/02/08#chronometre_initial_pair)
+  
 ### R in the Real World
 
 
 
 ### R in Organizations
 
++ [Submissions Working Group: 2026 Plans and 2025 Success](https://r-consortium.org/posts/submissions-wg-2026/index.html)
+  
++ [2026-02-13 AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsletter/)
 
+<img width="662" height="651" alt="Screenshot 2026-02-16 at 18 08 06" src="https://github.com/user-attachments/assets/579ce684-272e-4bcf-a15e-a68817e980dc" />
 
 ### R in Academia
 
 
 
 ### Tutorials
+
+
++ [Associated Keywords: The Missed Opportunity in Search Advertising](http://flovv.github.io/associated-keywords/)
+  
++ [Visualising income inequality social tables by @ellis2013nz](https://freerangestats.info/blog/2026/02/08/social-table-visualisations)
+  
++ [Introducing geoboundaries](https://dieghernan.github.io/202602_geobounds/)
+
+<img width="729" height="372" alt="Screenshot 2026-02-16 at 18 04 55" src="https://github.com/user-attachments/assets/aeeee93a-e710-43c8-a471-163e027eb96d" />
+
++ [anndataR: converting single-cell data, from R to python and back](https://tomsing1.github.io/blog/posts/anndataR/)
+
++ [Viewing Nested Lists with xfun::tabset()](https://yihui.org/en/2026/02/xfun-tabset)
+  
++ [Navigating CRAN's Reverse Dependency Check Logs](https://yihui.org/en/2026/02/revdep-tabset/)
+
++ [How Posit's Public Package Manager manylinux_2_28 repository can help you if your R project is stuck on Ubuntu Focal Fossa](https://remlapmot.github.io/post/2026/manylinux-packages/)
 
 
 ### Resources
@@ -105,6 +130,7 @@ Events in 3 Months:
 
 <img width="597" height="287" alt="Screenshot 2026-02-16 at 17 54 24" src="https://github.com/user-attachments/assets/9b058c6d-b769-4e33-960c-433e8662dce3" />
 
++ [posit::conf(2026) Registration is Open!](https://posit.co/blog/positconf2026-registration-is-open/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
