@@ -74,6 +74,48 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 
 **CRAN**
 
++ [{typstable} 0.1.0](https://cran.r-project.org/package=typstable): Better 'Typst' Tables
+
++ [{SimtablR} 1.0.1](https://cran.r-project.org/package=SimtablR): Easy Publication-Ready Tables and Regression Analysis
+  
++ [{quallmer} 0.3.0](https://cran.r-project.org/package=quallmer): Qualitative Analysis with Large Language Models
+
++ [{flexBART} 2.0.3](https://cran.r-project.org/package=flexBART): A More Flexible BART Model
+
++ [{geobounds} 0.1.0](https://cran.r-project.org/package=geobounds): Download Map Data from 'geoBoundaries'
+  
++ [{ohvbd} 1.0.0](https://cran.r-project.org/package=ohvbd): One Health VBD Hub
+
++ [{scaledescr} 0.2.0](https://cran.r-project.org/package=scaledescr): Descriptive, Reliability, and Inferential Tables for
+Psychometric Scales and Demographic Data
+
++ [{roadDB} 0.1.0](https://cran.r-project.org/package=roadDB): Access Data from the ROCEEH Out of Africa Database (ROAD)
+  
++ [{fuzzystring} 0.0.1](https://cran.r-project.org/package=fuzzystring): Fast Fuzzy String Joins for Data Frames
+
++ [{optimflex} 0.1.0](https://cran.r-project.org/package=optimflex): Derivative-Based Optimization with User-Defined Convergence
+Criteria
+
++ [{whisper} 0.1.0](https://cran.r-project.org/package=whisper): Native R 'torch' Implementation of 'OpenAI' 'Whisper'
+
++ [{keyed} 0.1.3](https://cran.r-project.org/package=keyed): Explicit Key Assumptions for Flat-File Data
+  
++ [{indonesiaFootballScoutR} 0.1.3](https://cran.r-project.org/package=indonesiaFootballScoutR): Tools for Football Player Scouting in Indonesia
++ [{bioLeak} 0.2.0](https://cran.r-project.org/package=bioLeak): Leakage-Safe Modeling and Auditing for Genomic and Clinical Data
+  
++ [{bayesics} 2.0.2](https://cran.r-project.org/package=bayesics): Bayesian Analyses for One- and Two-Sample Inference and
+Regression Methods
++ [{BayesianHybridDesign} 0.1.0](https://cran.r-project.org/package=BayesianHybridDesign): Bayesian Hybrid Design and Analysis
+  
++ [{areaOfEffect} 0.2.4](https://cran.r-project.org/package=areaOfEffect): Spatial Support at Scale
+
++ [{wired} 1.0.0](https://cran.r-project.org/package=wired): Weighted Adaptive Prediction with Structured Dependence
+  
++ [{tidylearn} 0.1.0](https://cran.r-project.org/package=tidylearn): A Unified Tidy Interface to R's Machine Learning Ecosystem
+  
++ [{quickSentiment} 0.2.0](https://cran.r-project.org/package=quickSentiment): A Fast and Flexible Pipeline for Text Classification
+  
++ [{climenu} 0.1.4](https://cran.r-project.org/package=climenu): Interactive Command-Line Menus
 
 **Bioconductor**
 
@@ -87,10 +129,47 @@ This week’s release was curated by [Batool Almarzouq](https://www.epcc.ed.ac.u
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
 + [{qol} 1.2.1](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
 
-+ [{cocoon} 0.3.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output
++ [{cocoon} 0.3.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output - [diffify](https://diffify.com/R/cocoon)
+
+
++ [{event} 1.1.2](https://cran.r-project.org/package=event): Event History Procedures and Models - [diffify](https://diffify.com/R/event)
+  
++ [{cancerradarr} 3.0.0](https://cran.r-project.org/package=cancerradarr): Cancer RADAR Project Tool - [diffify](https://diffify.com/R/cancerradarr)
+
++ [{AMAPVox} 2.4.2](https://cran.r-project.org/package=AMAPVox): LiDAR Data Voxelisation - [diffify](https://diffify.com/R/AMAPVox)
+  
++ [{rvg} 0.4.1](https://cran.r-project.org/package=rvg): R Graphics Devices for 'Office' Vector Graphics Output - [diffify](https://diffify.com/R/rvg)
+  
++ [{poputils} 0.6.1](https://cran.r-project.org/package=poputils): Demographic Analysis and Data Manipulation - [diffify](https://diffify.com/R/poputils)
+  
++ [{Rparadox} 0.2.2](https://cran.r-project.org/package=Rparadox): Read Paradox Database Files into R - [diffify](https://diffify.com/R/Rparadox)
+  
++ [{rcatfish} 1.0.1](https://cran.r-project.org/package=rcatfish): An R Interface to the California Academy of Sciences Eschmeyer's
+Catalog of Fishes - [diffify](https://diffify.com/R/rcatfish)
+
++ [{multcompView} 0.1-11](https://cran.r-project.org/package=multcompView): Visualizations of Paired Comparisons - [diffify](https://diffify.com/R/multcompView)
+
++ [{osmapiR} 0.2.5](https://cran.r-project.org/package=osmapiR): 'OpenStreetMap' API - [diffify](https://diffify.com/R/osmapiR)
+
++ [{ivolcano} 0.0.5](https://cran.r-project.org/package=ivolcano): Interactive Volcano Plot - [diffify](https://diffify.com/R/ivolcano)
+
++ [{doconv} 0.4.0](https://cran.r-project.org/package=doconv): Document Conversion to 'PDF', Thumbnails and Visual Testing - [diffify](https://diffify.com/R/doconv)
+
++ [{inshiny} 0.1.2](https://cran.r-project.org/package=inshiny): Compact Inline Widgets for 'shiny' Apps - [diffify](https://diffify.com/R/inshiny)
+
++ [{keras} 2.16.1](https://cran.r-project.org/package=keras): R Interface to 'Keras' - [diffify](https://diffify.com/R/keras)
+
++ [{googletraffic} 0.1.8](https://cran.r-project.org/package=googletraffic): Google Traffic - [diffify](https://diffify.com/R/googletraffic)
+
++ [{codebookr} 0.1.9](https://cran.r-project.org/package=codebookr): Create Codebooks from Data Frames - [diffify](https://diffify.com/R/codebookr)
+
++ [{modelsummary} 2.6.0](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data:
+Beautiful, Customizable, and Publication-Ready - [diffify](https://diffify.com/R/modelsummary)
+
++ [{UsingR} 2.0-8](https://cran.r-project.org/package=UsingR): Data Sets, Etc. for the Text "Using R for Introductory
+Statistics", Second Edition - [diffify](https://diffify.com/R/UsingR)
 
 
 ### Videos and Podcasts
