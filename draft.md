@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [How to choose the best LLM using R and vitals](https://www.infoworld.com/article/4130274/how-to-choose-the-best-llm-using-r-and-vitals.html) - Use the vitals package with ellmer to evaluate and compare the accuracy of LLMs, including writing evals to test local models.
 
 ### Resources
 
